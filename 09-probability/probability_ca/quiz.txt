@@ -1,0 +1,142 @@
+1. Let A and B be events on the same sample space, with P (A) = 0.8 and P (B) = 0.4. Can these two events be disjoint?
+
+a. Yes
+b. No
+
+Ans: No
+
+
+
+
+
+2. kevin has 2 kids and one of them is a boy. What is the probability that the other child is also a boy? 
+
+a. 0.5
+b. 0.75
+c. 0.333
+d. 0.25
+
+Ans: 0.333
+
+
+
+
+3. Which of the following options cannot be the probability of any event? 
+- A) 0.5
+- B) 1.001
+- C) 0.00052
+- D) -0.656
+
+
+
+a. Both A and B
+b. Both B and D
+C. Both A and C
+D. All of these
+E. None of these
+
+
+Ans: Both B and D
+
+
+
+
+4. A group of 80 students is randomly split into 4 classes of equal size. All partitions are equally likely. Smith and David are two students belonging to that group. What is the probability that Smith and David will end up in the same class? 
+
+a. 19/79
+b. 18/78
+c. 1/4
+d. 1/3
+
+
+Ans: 19/79
+
+
+
+
+5. A roulette wheel has 26 slots, 12 are blue, 10 are green, and 4 are red. You play six games and always bet on red. What is the probability that you win all the 6 games?
+
+a. 0.02556
+b. 0.07565
+c. 0.2556
+d. 0.2579
+
+Ans: 0.2556
+
+
+
+6. Suppose you were interviewed for a data science role. 60% of the people who sat for the first interview received the call for second interview. 80% of the people who got a call for second interview felt good about their first interview. 70% of people who did not receive a second call, also felt good about their first interview. If you felt good after your first interview, what is the probability that you will receive a second interview call?
+
+a.55%
+b.60%
+c.66%
+d.54%
+
+
+Ans: 60%
+
+
+
+
+
+7. Events A and B are independent if and only if
+
+a. P(A and B) = P(A) P(B)
+b. P(A | B) = P(A) P(B | A)
+c. P(B | A) = P(A) P(B | A)
+d. None of the above.
+
+Ans: P(A and B) = P(A) P(B)
+
+
+
+
+8. You are planning to play cricket today, but the morning is cloudy, 50% of all rainy days start off cloudy! But cloudy mornings are common about 40% of days start cloudy and this is usually a dry month only 10% tend to be rainy, what is the chance of rain during the day?
+
+a. 0.215
+b. 0.1556
+c. 0.132
+d. 0.125
+
+Ans: 0.125
+
+
+
+
+
+
+P(Rain) is Probability of Rain = 10%
+P(Cloud|Rain) is Probability of Cloud, given that Rain happens = 50%
+P(Cloud) is Probability of Cloud = 40%
+P(Rain|Cloud) =  0.1 x 0.50.4   = .125
+
+
+
+
+9. From a very large population two people are selected, and their blood type is checked.
+
+ - A) person 1 has blood type A
+
+ - B) person 2 has blood type A
+ 
+ 
+Are the two events independent or dependent?
+
+
+a. independent
+b. dependent
+
+
+Ans: independent
+
+
+
+10. In a  data science class , there are 12 boys and 13 girls. Three students are selected at random. The probability that 2 girl and 1 boys are selected, is:
+
+
+a. 0.4069
+b. 0.4096
+c. 0.4056
+d. 0.4065
+
+Ans: 0.4069
