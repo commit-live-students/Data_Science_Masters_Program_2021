@@ -1,0 +1,515 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hello there"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello there"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "good evening"
+      },
+      {
+        "intent": "greet",
+        "text": "moin"
+      },
+      {
+        "intent": "greet",
+        "text": "hey there"
+      },
+      {
+        "intent": "greet",
+        "text": "let's go"
+      },
+      {
+        "intent": "greet",
+        "text": "hey dude"
+      },
+      {
+        "intent": "greet",
+        "text": "goodmorning"
+      },
+      {
+        "intent": "greet",
+        "text": "goodevening"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon"
+      },
+      {
+        "intent": "goodbye",
+        "text": "cu"
+      },
+      {
+        "intent": "goodbye",
+        "text": "good by"
+      },
+      {
+        "intent": "goodbye",
+        "text": "cee you later"
+      },
+      {
+        "intent": "goodbye",
+        "text": "good night"
+      },
+      {
+        "intent": "goodbye",
+        "text": "good afternoon"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "have a nice day"
+      },
+      {
+        "intent": "goodbye",
+        "text": "see you around"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "see you later"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "indeed"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "of course"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "that sounds good"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "correct"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "no"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "never"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "I don't think so"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "don't like that"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "no way"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "not really"
+      },
+      {
+        "intent": "mood_great",
+        "text": "perfect"
+      },
+      {
+        "intent": "mood_great",
+        "text": "very good"
+      },
+      {
+        "intent": "mood_great",
+        "text": "great"
+      },
+      {
+        "intent": "mood_great",
+        "text": "amazing"
+      },
+      {
+        "intent": "mood_great",
+        "text": "feeling like a king"
+      },
+      {
+        "intent": "mood_great",
+        "text": "wonderful"
+      },
+      {
+        "intent": "mood_great",
+        "text": "I am feeling very good"
+      },
+      {
+        "intent": "mood_great",
+        "text": "I am great"
+      },
+      {
+        "intent": "mood_great",
+        "text": "I am amazing"
+      },
+      {
+        "intent": "mood_great",
+        "text": "I am going to save the world"
+      },
+      {
+        "intent": "mood_great",
+        "text": "super"
+      },
+      {
+        "intent": "mood_great",
+        "text": "extremely good"
+      },
+      {
+        "intent": "mood_great",
+        "text": "so so perfect"
+      },
+      {
+        "intent": "mood_great",
+        "text": "so good"
+      },
+      {
+        "intent": "mood_great",
+        "text": "so perfect"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "my day was horrible"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "I am sad"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "I don't feel very well"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "I am disappointed"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "super sad"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "I'm so sad"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "sad"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "very sad"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "unhappy"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "bad"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "very bad"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "awful"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "terrible"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "not so good"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "not very good"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "extremly sad"
+      },
+      {
+        "intent": "mood_unhappy",
+        "text": "so saad"
+      },
+      {
+        "intent": "mood_unhappy",
+        "entities": [
+          {
+            "start": 42,
+            "end": 46,
+            "value": "birds",
+            "entity": "group"
+          }
+        ],
+        "text": "Quite bad - can I get a cute picture of a bird, please?"
+      },
+      {
+        "intent": "mood_unhappy",
+        "entities": [
+          {
+            "start": 20,
+            "end": 25,
+            "value": "shibes",
+            "entity": "group"
+          }
+        ],
+        "text": "Really bad and only doggo pics and change that."
+      },
+      {
+        "intent": "mood_unhappy",
+        "entities": [
+          {
+            "start": 79,
+            "end": 85,
+            "value": "cats",
+            "entity": "group"
+          }
+        ],
+        "text": "Not good. The only thing that could make me fell better is a picture of a cute kitten."
+      },
+      {
+        "intent": "mood_unhappy",
+        "entities": [
+          {
+            "start": 30,
+            "end": 35,
+            "value": "shibes",
+            "entity": "group"
+          }
+        ],
+        "text": "so sad. Only the picture of a puppy could make it better."
+      },
+      {
+        "intent": "mood_unhappy",
+        "entities": [
+          {
+            "start": 24,
+            "end": 27,
+            "value": "cats",
+            "entity": "group"
+          }
+        ],
+        "text": "I am very sad. I need a cat picture."
+      },
+      {
+        "intent": "mood_unhappy",
+        "entities": [
+          {
+            "start": 29,
+            "end": 34,
+            "value": "shibes",
+            "entity": "group"
+          }
+        ],
+        "text": "Extremely sad. Only the cute doggo pics can make me feel better."
+      },
+      {
+        "intent": "mood_unhappy",
+        "entities": [
+          {
+            "start": 22,
+            "end": 26,
+            "value": "birds",
+            "entity": "group"
+          }
+        ],
+        "text": "Bad. Please show me a bird pic!"
+      },
+      {
+        "intent": "mood_unhappy",
+        "entities": [
+          {
+            "start": 43,
+            "end": 48,
+            "value": "shibes",
+            "entity": "group"
+          }
+        ],
+        "text": "Pretty bad to be honest. Can you show me a puppy picture to make me fell better?"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 2,
+            "end": 5,
+            "value": "shibes",
+            "entity": "group"
+          }
+        ],
+        "text": "A dog"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "shibes",
+            "entity": "group"
+          }
+        ],
+        "text": "dog"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "birds",
+            "entity": "group"
+          }
+        ],
+        "text": "bird"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 2,
+            "end": 5,
+            "value": "cats",
+            "entity": "group"
+          }
+        ],
+        "text": "a cat"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "cats",
+            "entity": "group"
+          }
+        ],
+        "text": "cat"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 2,
+            "end": 6,
+            "value": "birds",
+            "entity": "group"
+          }
+        ],
+        "text": "a bird"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 5,
+            "end": 8,
+            "value": "shibes",
+            "entity": "group"
+          }
+        ],
+        "text": "of a dog"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 5,
+            "end": 8,
+            "value": "cats",
+            "entity": "group"
+          }
+        ],
+        "text": "of a cat"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 2,
+            "end": 6,
+            "value": "birds",
+            "entity": "group"
+          }
+        ],
+        "text": "a bird, please"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 2,
+            "end": 5,
+            "value": "shibes",
+            "entity": "group"
+          }
+        ],
+        "text": "a dog, please"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "birds",
+        "synonyms": [
+          "bird"
+        ]
+      },
+      {
+        "value": "shibes",
+        "synonyms": [
+          "doggo",
+          "puppy",
+          "dog"
+        ]
+      },
+      {
+        "value": "cats",
+        "synonyms": [
+          "kitten",
+          "cat"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "states": [
+    "intent_greet",
+    "intent_query_days_in_month",
+    "intent_bye",
+    "entity_month",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_greet",
+    "prev_utter_answer_31_days",
+    "prev_utter_answer_30_days",
+    "prev_utter_answer_28_days",
+    "prev_utter_bye"
+  ]
+}

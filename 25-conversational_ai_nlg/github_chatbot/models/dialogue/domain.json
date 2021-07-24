@@ -1,0 +1,22 @@
+{
+  "states": [
+    "intent_greet",
+    "intent_goodbye",
+    "intent_mood_affirm",
+    "intent_mood_deny",
+    "intent_mood_great",
+    "intent_mood_unhappy",
+    "intent_inform",
+    "entity_group",
+    "slot_group_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_greet",
+    "prev_utter_did_that_help",
+    "prev_utter_happy",
+    "prev_utter_goodbye",
+    "prev_utter_unclear",
+    "prev_utter_ask_link",
+    "prev_action_retrieve_link"
+  ]
+}

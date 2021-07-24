@@ -1,0 +1,34 @@
+action_factory: null
+action_names:
+- utter_greet
+- utter_answer_31_days
+- utter_answer_30_days
+- utter_answer_28_days
+- utter_bye
+actions:
+- utter_greet
+- utter_answer_31_days
+- utter_answer_30_days
+- utter_answer_28_days
+- utter_bye
+config:
+  store_entities_as_slots: true
+entities:
+- month
+intents:
+- greet
+- query_days_in_month
+- bye
+slots: {}
+templates:
+  utter_answer_28_days:
+  - text: There are 28 days in the mentioned month.
+  utter_answer_30_days:
+  - text: There are 30 days in the mentioned month.
+  utter_answer_31_days:
+  - text: There are 31 days in the mentioned month.
+  utter_bye:
+  - text: Goodbye
+  utter_greet:
+  - text: Hey, how can I help you?
+topics: []

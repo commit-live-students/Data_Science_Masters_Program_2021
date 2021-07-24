@@ -1,0 +1,44 @@
+
+intents:
+- greet
+- goodbye
+- mood_affirm
+- mood_deny
+- mood_great
+- mood_unhappy
+- inform
+
+slots:
+  group:
+    type: text
+    
+entities:
+- group
+
+actions:
+- utter_greet
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_unclear
+- utter_ask_link
+- __main__.ApiAction
+
+templates:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_unclear:
+  - text: "I am not sure what you are aiming for."
+  
+  utter_happy:
+  - text: "Great carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+  
+  utter_ask_link:
+  - text: "To help you learn, I can show you a link of NLP(language processing) or CV(image processing). Which one do you choose?"

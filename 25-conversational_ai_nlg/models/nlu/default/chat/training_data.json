@@ -1,0 +1,49 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "Hi"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "intent": "query_days_in_month",
+        "entities": [
+          {
+            "start": 17,
+            "end": 24,
+            "value": "January",
+            "entity": "month"
+          }
+        ],
+        "text": "How many days in January"
+      },
+      {
+        "intent": "query_days_in_month",
+        "entities": [
+          {
+            "start": 17,
+            "end": 20,
+            "value": "Feb",
+            "entity": "month"
+          }
+        ],
+        "text": "How many days in Feb"
+      },
+      {
+        "intent": "bye",
+        "text": "Bye"
+      },
+      {
+        "intent": "bye",
+        "text": "Goodbye"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

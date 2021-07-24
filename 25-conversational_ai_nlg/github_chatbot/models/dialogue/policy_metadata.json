@@ -1,0 +1,30 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": [
+        "group"
+      ]
+    },
+    "utter_happy": {
+      "slots": []
+    },
+    "utter_goodbye": {
+      "slots": []
+    },
+    "utter_unclear": {
+      "slots": []
+    }
+  },
+  "rasa_core": "0.9.6",
+  "max_histories": [
+    5,
+    5,
+    null
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.keras_policy.KerasPolicy",
+    "rasa_core.policies.fallback.FallbackPolicy"
+  ]
+}

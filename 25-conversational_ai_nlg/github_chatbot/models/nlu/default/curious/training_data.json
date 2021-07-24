@@ -1,0 +1,422 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hello there"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello there"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "good evening"
+      },
+      {
+        "intent": "greet",
+        "text": "hey there"
+      },
+      {
+        "intent": "greet",
+        "text": "let's go"
+      },
+      {
+        "intent": "greet",
+        "text": "goodmorning"
+      },
+      {
+        "intent": "greet",
+        "text": "goodevening"
+      },
+      {
+        "intent": "goodbye",
+        "text": "see you later"
+      },
+      {
+        "intent": "goodbye",
+        "text": "good night"
+      },
+      {
+        "intent": "goodbye",
+        "text": "good afternoon"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "have a nice day"
+      },
+      {
+        "intent": "goodbye",
+        "text": "see you around"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "c you later"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "indeed"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "of course"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "correct"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "no"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "never"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "I don't think so"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "don't like that"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "no way"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "not really"
+      },
+      {
+        "intent": "mood_great",
+        "text": "perfect"
+      },
+      {
+        "intent": "mood_great",
+        "text": "very good"
+      },
+      {
+        "intent": "mood_great",
+        "text": "great"
+      },
+      {
+        "intent": "mood_great",
+        "text": "amazing"
+      },
+      {
+        "intent": "mood_great",
+        "text": "feeling like a king"
+      },
+      {
+        "intent": "mood_great",
+        "text": "wonderful"
+      },
+      {
+        "intent": "mood_great",
+        "text": "I am feeling very good"
+      },
+      {
+        "intent": "mood_great",
+        "text": "I am great"
+      },
+      {
+        "intent": "mood_great",
+        "text": "I am amazing"
+      },
+      {
+        "intent": "mood_great",
+        "text": "so perfect"
+      },
+      {
+        "intent": "mood_curious",
+        "text": "I want to learn"
+      },
+      {
+        "intent": "mood_curious",
+        "text": "I am curious"
+      },
+      {
+        "intent": "mood_curious",
+        "text": "I want to learn DS"
+      },
+      {
+        "intent": "mood_curious",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "B",
+            "entity": "group"
+          }
+        ],
+        "text": "I want to learn NLP"
+      },
+      {
+        "intent": "mood_curious",
+        "entities": [
+          {
+            "start": 16,
+            "end": 18,
+            "value": "A",
+            "entity": "group"
+          }
+        ],
+        "text": "I want to learn CV"
+      },
+      {
+        "intent": "mood_curious",
+        "entities": [
+          {
+            "start": 0,
+            "end": 2,
+            "value": "A",
+            "entity": "group"
+          }
+        ],
+        "text": "CV"
+      },
+      {
+        "intent": "mood_curious",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "B",
+            "entity": "group"
+          }
+        ],
+        "text": "NLP"
+      },
+      {
+        "intent": "mood_curious",
+        "text": "Data Science"
+      },
+      {
+        "intent": "mood_curious",
+        "text": "curious"
+      },
+      {
+        "intent": "mood_curious",
+        "text": "learn"
+      },
+      {
+        "intent": "mood_curious",
+        "text": "learn"
+      },
+      {
+        "intent": "mood_curious",
+        "text": "wanna learn"
+      },
+      {
+        "intent": "mood_curious",
+        "text": "wanna learn DS"
+      },
+      {
+        "intent": "mood_curious",
+        "entities": [
+          {
+            "start": 12,
+            "end": 15,
+            "value": "B",
+            "entity": "group"
+          }
+        ],
+        "text": "wanna learn NLP"
+      },
+      {
+        "intent": "mood_curious",
+        "text": "wanna learn CV"
+      },
+      {
+        "intent": "mood_curious",
+        "entities": [
+          {
+            "start": 27,
+            "end": 30,
+            "value": "B",
+            "entity": "group"
+          }
+        ],
+        "text": "Good- can I get a link for NLP, please?"
+      },
+      {
+        "intent": "mood_curious",
+        "entities": [
+          {
+            "start": 27,
+            "end": 29,
+            "value": "A",
+            "entity": "group"
+          }
+        ],
+        "text": "Good- can I get a link for CV, please?"
+      },
+      {
+        "intent": "mood_curious",
+        "entities": [
+          {
+            "start": 79,
+            "end": 85,
+            "value": "cats",
+            "entity": "group"
+          }
+        ],
+        "text": "Not good. The only thing that could make me fell better is a picture of a cute kitten."
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 0,
+            "end": 2,
+            "value": "A",
+            "entity": "group"
+          }
+        ],
+        "text": "CV"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "A",
+            "entity": "group"
+          }
+        ],
+        "text": "Computer Vision"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "A",
+            "entity": "group"
+          }
+        ],
+        "text": "vision"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 2,
+            "end": 7,
+            "value": "A",
+            "entity": "group"
+          }
+        ],
+        "text": "a image"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "B",
+            "entity": "group"
+          }
+        ],
+        "text": "NLP"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "A",
+            "entity": "group"
+          }
+        ],
+        "text": "images"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "B",
+            "entity": "group"
+          }
+        ],
+        "text": "language"
+      },
+      {
+        "intent": "inform",
+        "entities": [
+          {
+            "start": 0,
+            "end": 27,
+            "value": "B",
+            "entity": "group"
+          }
+        ],
+        "text": "Natural Language Processing"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "B",
+        "synonyms": [
+          "NLP",
+          "language",
+          "Natural Language Processing"
+        ]
+      },
+      {
+        "value": "A",
+        "synonyms": [
+          "CV",
+          "Computer Vision",
+          "vision",
+          "image",
+          "images"
+        ]
+      },
+      {
+        "value": "cats",
+        "synonyms": [
+          "kitten"
+        ]
+      }
+    ]
+  }
+}

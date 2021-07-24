@@ -1,0 +1,33 @@
+
+intents:
+# place your intents
+ - greet
+ - query_days_in_month
+ - bye
+
+entities:
+# place your entities
+ - month
+
+templates:
+# sample replies
+ utter_greet:
+  - "Hey, how can I help you?"
+ utter_answer_31_days:
+  - "There are 31 days in the mentioned month."
+ utter_answer_30_days:
+  - "There are 30 days in the mentioned month."
+ utter_answer_28_days:
+  - "There are 28 days in the mentioned month."
+ utter_bye:
+  - "Goodbye"
+
+actions:
+# templates (as they are reply actions),
+# also custom actions if any
+ - utter_greet
+ - utter_answer_31_days
+ - utter_answer_30_days
+ - utter_answer_28_days
+ - utter_bye
+ 
