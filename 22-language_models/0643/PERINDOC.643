@@ -1,0 +1,216 @@
+
+
+
+
+A DESCRIPTION OF THE THREE PERIN FILES
+
+     The material in the files  PERIN1.DAT,  PERIN2.DAT  and
+PERIN3.DAT   was  supplied  by  Dr  Dolores  Perin,  who  is
+currently (1984) working at the Center for Advanced Study in
+Education,  City  University of New York, 33 West 42 Street,
+New York, N.Y.  10036.
+
+     The first two files contain material collected  in  the
+course  of  the  research she carried out in the late 1970's
+for her PhD at Sussex University.  PERIN1.DAT  contains  the
+results  of  two  tests given to 42 subjects, these 42 being
+made up of 36 fifteen-year-old boys at  a  secondary  school
+and six men receiving Adult Literacy tuition.  The following
+is from Dr Perin's PhD thesis:
+
+     'The 36  boys  were  all  pupils  at  a  working  class
+comprehensive  school  in  Brighton, with a mean age of 15.5
+years (SD=.31).  Many had spelling  problems,  and  subjects
+were  in  the  middle  and  bottom bands of the fourth form.
+Testing took place during the last two months of the  school
+year,  and  subjects  were  among  the  oldest pupils in the
+school expecting to leave during the  following  year.   The
+head  of the English department of the school chose subjects
+who had both reading  and  spelling  difficulty  of  varying
+degrees.   Twelve  of the poorest readers were in a remedial
+class and the other subjects were in the middle  band.   All
+the  subjects' IQs were in the normal range, ie 85 or above,
+and  vision  and  hearing  were   normal.    Motivation   to
+participate in the study was high on the part of both pupils
+and teachers.'
+
+     'The adult literacy sample consisted of six men who had
+been  receiving help with their reading and spelling through
+the Brighton Adult Literacy Campaign.  The organizers of the
+scheme  requested  that  permission  for testing be acquired
+from both the student and his tutor.  ...  One  subject  was
+in his early twenties, three were in their thirties, one was
+in his early  forties  and  one  was  58  years  old.   Once
+subjects  overcame their initial trepidation at being placed
+in a testing situation, motivation to participate was high.'
+
+     In PERIN1.DAT, the 36 school students are  numbered  01
+to  36,  and  the six adult-literacy students 37 to 42.  The
+first part of each student's results gives the  misspellings
+they  made  on  a  dictation  of  the  following passage (an
+extract from a government booklet):
+
+     'If you are aged 16-19 and unemployed you  should  take
+advantage  of  the  special  training  schemes  run  by  the
+government for unemployed young  people.   Enquire  at  your
+local  Jobcentre about the different schemes available.  You
+can choose to work for  an  employer  on  the  spot  to  get
+experience  of a particular type of job or you can work on a
+
+
+
+                                                      Page 2
+
+
+special project.  Or you may prefer  to  work  in  Community
+Industry.   There  are  also  courses run to help you choose
+which kind of work suits you best and courses to  train  you
+for a particular job at operator or semi-skilled level.'
+
+     Each misspelling in PERIN1.DAT is  given  a  number  to
+show  which  word  it relates to.  The words are numbered as
+follows:
+
+     '1 If 2 you 3 are 4 aged 16-19 5 and 6 unemployed 7 you
+8 should   9 take   10 advantage   11 of  12 the  13 special
+14 training 15 schemes  16 run  17 by  18 the  19 government
+20 for  21 unemployed  22 young 23 people.  24 Enquire 25 at
+26 your 27 local 28 Jobcentre 29 about  30 the  31 different
+32 schemes  33 available.   34 You  35 can  36 choose  37 to
+38 work 39 for 40 an 41 employer 42 on 43 the 44 spot  45 to
+46 get  47 experience 48 of 49 a 50 particular 51 type 52 of
+53 job 54 or 55 you 56 can  57 work  58 on  59 a  60 special
+61 project.   62 Or  63 you  64 may  65 prefer 66 to 67 work
+68 in 69 Community  70 Industry.   71 There  72 are  73 also
+74 courses  75 run  76 to  77 help 78 you 79 choose 80 which
+81 kind  82 of  83 work  84 suits  85 you   86 best   87 and
+88 courses  89 to  90 train 91 you 92 for 93 a 94 particular
+95 job 96 at 97 operator 98 or 99 semi-skilled 100 level.'
+
+     The  students  were  tested  individually,  the  school
+students  during  time  allocated  for  English lessons, the
+adult literacy students in their own homes or in Dr  Perin's
+home.   First,  the student read the passage aloud, then the
+student copied the passage, and then the student  wrote  the
+passage  to dictation.  After the dictation, the student was
+asked to read what he had  written,  checking  for  spelling
+errors,  and was permitted to make alterations if he wished.
+The misspellings given in PERIN1.DAT are those that remained
+in   the   students'   writing   after   this  proofreading.
+Continuation lines begin with a '+', and the list ends  with
+a '!'.  A '#' means there were no errors.
+
+     The second part of each  student's  results  (the  part
+starting  on  a  new  line that begins with a '$') gives the
+misspellings that  were  made  in  a  different  test.   The
+following passage was read out by the experimenter:
+
+     'There was a very  big  diamond,  one  of  the  biggest
+diamonds in the world.  It was being shown in a museum.  The
+museum was always crowded.  One day, there was a bomb scare.
+Everyone  had to leave the museum, even the men guarding the
+diamond.  When the guards returned, the  diamond  was  gone.
+It turned out that thieves pretending to be bomb experts had
+stolen it.'
+
+     The students were then told to write the story in their
+own  words,  changing  or  elaborating  it  as  much as they
+wished.  They were told not to be too concerned about making
+spelling  errors;   if  they  were unsure of their spelling,
+
+
+
+                                                      Page 3
+
+
+they should guess.
+
+     The misspellings are listed  followed  by  the  correct
+spelling.   Errors  of  capitalisation  or  punctuation were
+generally ignored.  If the spelling contained a  space,  the
+space   is  underlined  (eg  'evry_body'  for  'everybody').
+Continuation lines begin with a '+'.  The list ends  with  a
+'!'.  A '#' means there were no errors.
+
+     The second file - PERIN2.DAT  -  contains  misspellings
+taken  from the free writing of six adult-literacy students,
+as listed in  Appendix  XVII  of  Dr  Perin's  thesis.   She
+describes this material as follows:
+
+     'The writing from which these errors are taken was done
+in  a  number of creative writing sessions in adult literacy
+classes.  Students were greatly encouraged by their teachers
+to  write  freely without being slowed down by concentrating
+on  correct  spelling.   ...   In  the  course  of  writing,
+subjects  would  guess  at  unfamiliar  spellings  and would
+occasionally  ask  the  teacher  for  assistance.   ..   Six
+students  -  three  good  readers (three men) and three poor
+readers (two men and one woman) - agreed to contribute a few
+of  their original pieces of writing for this analysis.  ...
+The students were approached after their pieces had all been
+written  and  therefore  their  work  was  not influenced by
+knowing that it would be analyzed.'
+
+     'When it was not completely self-evident from the error
+what  the subject had intended to write, he or she was asked
+to verify what the intention had been.  This was  done  soon
+after   the   pieces   had  been  written.   Repetitions  of
+misspellings were not included in the  analysis.   If  there
+was   more  than  one  misspelling  for  a  word,  both  are
+indicated.  The errors were produced on  between  three  and
+five pieces of writing of various lengths.'
+
+     In PERIN2.DAT, '$1' indicates the start  of  the  first
+student's  errors,  and  so  on.   They  are listed as in Dr
+Perin's appendix, namely the correct  spelling  followed  by
+the   misspelling   (this   is  the  other  way  round  from
+PERIN1.DAT).  Each student's list ends with a '!'.
+
+     The third file - PERIN3.DAT - contains the misspellings
+made  by  a  sample  of  14-  and 15-year-olds in five inner
+London comprehensive schools in response to a spelling test.
+The   tests   were  administered  as  part  of  a  screening
+procedure, to identify subjects for subsequent experiments -
+see  Dolores  Perin,  'Phonemic  segmentation and spelling',
+British Journal of Psychology, 1983, Vol 74, pages 129-144.
+
+     The children were tested  in  class  by  their  English
+teachers.   Each  test  word  was  read out, then given in a
+sentence, then read out again.  The words were as follows:
+
+
+
+                                                      Page 4
+
+
+ 1 engine     11 awful      21 planted      31 problem
+ 2 climb      12 stomach    22 reporter     32 refreshment
+ 3 because    13 opposite   23 remind       33 extended
+ 4 built      14 special    24 chapter      34 visited
+ 5 laugh      15 gallery    25 driven       35 splendid
+ 6 curtain    16 scissors   26 pretend      36 ventilated
+ 7 traffic    17 scarcely   27 understand   37 magnificent
+ 8 juice      18 bicycle    28 remember     38 inconvenient
+ 9 poetry     19 initials   29 contented    39 establishing
+10 southern   20 receipt    30 latest       40 unexpected
+
+     PERIN3.DAT contains a one-in-four sample of the scripts
+collected   in   this  study.   Each  child  begins  with  a
+three-digit serial number.  Then  follows  a  code  for  the
+school  (A  to  E)  and  the  child's sex (M, F or ?  if not
+known).   Then  the   list   of   misspellings   is   given;
+continuation lines begin with a '+' and the list ends with a
+'!'.  A '#' means that the child made no errors.  A '..' for
+a  spelling  means  that  the  child made no attempt at this
+word.
+
+
+
+                             Roger Mitton
+
+                             Dept of Computer Science,
+                             Birkbeck College,
+                             Malet Street,
+                             London WC1E 7HX
+
+                             November 1984

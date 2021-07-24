@@ -1,0 +1,464 @@
+
+
+
+
+A DESCRIPTION OF THE FILES PETERS1.DAT AND PETERS2.DAT
+
+     The material for these two files  was  provided  by  Dr
+Margaret Peters, who was, until 1984, Tutor at the Cambridge
+Institute of Education.  It was collected in the course of a
+piece  of  research conducted in Cambridge in the 1960's and
+described  by  Margaret  Peters  in  her  book  'Success  in
+Spelling',  published  in 1970 by the Cambridge Institute of
+Education,    Shaftesbury    Road,    Cambridge     CB2 2BX,
+(ISBN 9500202 3 0).
+
+     In brief, Dr Peters administered  a  test  to  all  the
+children  (over  900  of  them)  in  the  second-year junior
+classes (ie children born between 1 Sept 54 and 31  Aug  55)
+of the Cambridge Local Education Authority, in July 1964 (so
+most of the children were aged  nine  when  they  took  this
+first  test).   In  July  1965, she visited the same schools
+again and administered another test to the same children (by
+this time mostly aged ten), and in July 1966, she tested the
+same children yet again.  These three tests are described in
+her  book,  and  it  is  the  results  of  these  tests that
+constitute most of the material in PETERS1.DAT.
+
+     In July 1970, Dr Peters visited the Cambridge secondary
+schools  and  gave a further test to those same children (by
+now  aged  15  and  in  their  final  year   of   compulsory
+education).   It  is  this  material that forms the basis of
+PETERS2.DAT.  (Pressure of work  prevented  Dr  Peters  from
+analysing it herself.)
+
+     The material for PETERS1.DAT  was  collected  by  first
+drawing  a  systematic  random  sample  of one-in-six of the
+scripts from the first test.  This gave  156  scripts.   The
+scripts  of  these  156  children  on  the second, third and
+fourth (ie  secondary  school)  tests  were  then  obtained.
+(Some  of  them were missing, of course, since some children
+moved out of the area;  this  applies  particularly  to  the
+secondary school scripts.) Some details about each child and
+a list of the errors they made on all the  tests  were  then
+written  out,  and  this  information  was  keyed  into  the
+computer.
+
+     Each case begins with a '$' followed by  a  three-digit
+serial  number.   Then  comes  the school code (A to S - see
+below for the list), the sex (M or F) and an  assessment  of
+the  handwriting  on  the  first script (1 for good to 5 for
+bad);   this  assessment  was  made  by   the   people   who
+transferred  the errors from the scripts to clean sheets for
+subsequent keying-in.  Then comes an L (child was  noted  as
+being  left-handed)  or a '-' (no note of this), a V (visual
+defect noted) or a '-', and an A (auditory defect noted)  or
+a '-';  for example, 'L--' means the child was noted (on the
+script) as being left-handed but there was no note of visual
+or auditory defect.
+
+
+
+                                                      Page 2
+
+
+     Next comes number of brothers, number  of  sisters  and
+order in family;  missing information is recorded as -.  For
+the order in the family, 0 (nought) means the child  was  an
+only child, 1 means he/she was the eldest, and so on.  These
+three fields are separated by commas, eg 0,1,2 (no brothers,
+one sister, I'm the younger).
+
+     Then comes a code for the secondary school (A  to  Y  -
+see  below),  then  the  child's  own  assessment  of  their
+spelling in answer to a question about this in the secondary
+school  test  (1  = Yes it's good, 2 = Middling, 3 = No it's
+not good) and then an assessment of the handwriting  on  the
+fourth  (ie the secondary school) script - again made by the
+people who transferred the errors prior to keying-in.  A '-'
+for   these  fields  indicates  that  this  information  was
+missing, usually  because  there  was  no  secondary  school
+script for the child.
+
+     The final two codes on the  first  line  of  each  case
+indicate  the  socio-economic class of the child's family (A
+to E), as assessed by the child's primary-school teacher  in
+their  final year, and an assessment of the child's creative
+writing, again by their primary-school teacher,  the  grades
+meaning:
+
+A Very vivid and lively writing
+B Interesting writing
+C Writes adequately
+D Writing dull and uninteresting
+E Does not achieve written expression beyond very
+  factual and simple level
+
+As usual, a '-' indicates that the information was missing.
+
+     Each child's spelling errors are then given.  They  are
+grouped into eight sections - %1T (the spelling test part of
+the first test), %1D (the dictation part of the first test),
+similarly %2T, %2D, %3T and %3D, then %4T (the spelling test
+part of the secondary school test) and %4W (the free-writing
+part of the secondary school test).
+
+     The spelling test parts of all four tests consisted  of
+some  section of the following.  The word was read out, then
+a sentence of context, then the word again;  the  child  had
+to write down just the test word:
+
+ 1 ON  Will you put the kettle on?
+ 2 HOT  The water is hot.
+ 3 CUP  Will you have another cup?
+ 4 VAN  The furniture came in a van.
+ 5 JAM  Do you like sandwiches made of jam?
+ 6 LOST  The dog was lost.
+ 7 SIT  Where will you sit?
+ 8 PLAN  I have a good plan.
+ 9 MUD  Their shoes were covered with mud.
+
+
+
+                                                      Page 3
+
+
+10 BEG  If the dog wants a biscuit it will beg.
+11 THE  The boy is here.
+12 GO  When will you go?
+13 FOR  It is not for me.
+14 SO  He went so quickly.
+15 ME  Please give it to me.
+16 ARE  They are here.
+17 OF  The father of the boy.
+18 DO  What will you do?
+19 WHO  Who are you?
+20 HERE  Put it here.
+21 SHIP  We went in a ship.
+22 FOOD  I must buy food.
+23 FIRE  Light the fire.
+24 THIN  The man was tall and thin.
+25 DATE  What is the date?
+26 CHOP  The butcher will chop the meat.
+27 SEEM  It does not seem like winter.
+28 DART  THe boy threw a dart.
+29 LOUD  His voice was loud.
+30 FORM  What form are you in?
+         The children sat on a form.
+31 EYE  Shut your eye.
+32 FIGHT  THe boy will fight.
+33 FRIEND  He is my friend.
+34 DONE  What have you done?
+35 ANY  Are there any left?
+36 GREAT  It was a great big animal.
+37 SURE  I am sure.
+38 WOMEN  The women stood and waited.
+39 ANSWER  Will you please answer my question?
+40 BEAUTIFUL  The flowers were beautiful.
+41 ORCHESTRA  The musicians played in an orchestra.
+42 EQUALLY  They shared the sweets equally.
+43 APPRECIATE  I appreciate your kindness.
+44 FAMILIAR  His face was familiar.
+45 ENTHUSIASTIC  He was very enthusiastic.
+46 SIGNATURE  He wrote his signature.
+47 BREATHE  Fresh air is good to breathe.
+48 PERMANENT  The road is permanent.
+49 SUFFICIENT  The food is sufficient.
+50 SURPLUS  These stocks are surplus.
+51 CUSTOMARY  It is customary to shake hands.
+52 ESPECIALLY  This is especially for you.
+53 MATERIALLY  It is not materially different.
+54 CEMETERY  The cemetery was cool and silent.
+55 LEISURE  His leisure was spent in the garden.
+56 FRATERNALLY  He wrote fraternally to his friend.
+57 SUCCESSFUL  The boy was successful.
+58 DEFINITE  He made a definite promise.
+59 EXHIBITION  There was an exhibition of work.
+60 APPARATUS  The apparatus was used in an experiment.
+61 MORTGAGE  The man took out a mortgage on the house.
+62 EQUIPPED  The camp was well equipped.
+63 SUBTERRANEAN  This is a subterranean tunnel.
+
+
+
+                                                      Page 4
+
+
+64 POLITICIAN  The politician spoke with ease.
+65 MISCELLANEOUS  This is a miscellaneous collection of
+                  goods.
+66 EXAGGERATE  Do not exaggerate your claim.
+67 GUARANTEE  The new car had a year's guarantee.
+68 GAUGE  The petrol gauge was faulty.
+69 DISAPPOINT  I must not disappoint you.
+70 CONVALESCENCE  The invalid's convalescence proceeded
+                  smoothly.
+71 INACCESSIBLE  The window was inaccessible.
+72 HARASSED  She was harassed by the crowd.
+73 UNPARALLELED  She was of unparalleled beauty.
+74 EMBARRASSED  He was embarrassed by the excessive praise.
+75 SYMMETRY  They admired the symmetry of the vase.
+76 ECSTASY  They danced with ecstasy.
+77 SACRILEGIOUS  It is sacrilegious to eat crisps in church.
+
+     The following words were also sometimes used.  There is
+no record of the context-sentences used for them:
+
+81 accordance      91 surplus            101 exhibition
+82 mechanical      92 exceptionally      102 affectionately
+83 anxious         93 successful         103 attorney
+84 signature       94 preliminary        104 pinnacle
+85 allotment       95 resource           105 toboggan
+86 approval        96 prologue           106 definite
+87 accomplished    97 colonel            107 guarantee
+88 remittance      98 coarse             108 anniversary
+89 financial       99 referring          109 irresistible
+90 capacity       100 courteous          110 hydraulic
+
+     The spelling test part of the first test used  words  1
+to  40.   The spelling test part of the second test began at
+word 11;  for the third test it began at word 21 ,  and  for
+the  fourth  (secondary  school)  test, it began at word 31.
+Sometimes, if Dr Peters felt that  the  class  could  easily
+cope  with  the earlier words, she skipped the first part of
+the test.  This is marked in PETERS1.DAT as,  for  instance,
+>30, meaning that words up to and including 30 were omitted.
+How many of the  more  difficult  words  were  given  varied
+somewhat from one class to another.
+
+     A '-' for  a  particular  word  in  a  child's  results
+indicates  that  this word was given as part of the test but
+this child made no attempt to  write  it.   The  errors  are
+written  entirely in lower-case letters, though the children
+often wrote in a mixture  of  upper-  and  lower-case.   The
+children's  handwriting was sometimes illegible;  the people
+copying out the errors simply made the best guess they could
+of  what the children had written.  A '-' for the whole test
+means that this script is missing for this child.  A '#' for
+the  test  means  that the child made no errors.  The end of
+the list of errors is marked by a '!'.
+
+
+
+                                                      Page 5
+
+
+     After the spelling test,  the  children  were  given  a
+dictation.   The dictation in the first test was as follows.
+(Each word is  numbered  so  that  one  can  tell,  given  a
+misspelling  in PETERS1.DAT, which word the child was trying
+to write.)
+
+     '1 One 2 day, 3 as 4 I 5 was 6 walking 7 down  8 Bridge
+9 Street,  10 I  11 heard 12 the 13 sound 14 of 15 trotting.
+16 I  17 turned  18 and  19 saw   20 behind   21 me   22 the
+23 shaggy 24 dark 25 hair 26 of 27 a 28 frightened 29 little
+30 horse.  31 I 32 searched 33 in  34 my  35 pockets  36 for
+37 an 38 apple 39 from 40 my 41 dinner 42 to 43 give 44 him.
+'45 I  46 know  47 where  48 you  49 should   50 be,'   51 I
+52 said.   53 So  54 I 55 removed 56 the 57 belt 58 of 59 my
+60 raincoat 61 and 62 tied 63 it  64 around  65 his  66 neck
+67 and   68 led   69 him  70 back.   71 I  72 opened  73 the
+74 gate, 75 and 76 with  77 satisfaction  78 he  79 galloped
+80 into  81 his  82 own  83 field.  84 I 85 was 86 certainly
+87 very  88 happy  89 that  90 now  91 he  92 was   93 safe,
+94 away   95 from   96 the   97 noisy   98 and  99 dangerous
+100 traffic.'
+
+     After this dictation, Dr  Peters  said  'I  expect  you
+would  like to know the little horse's name.  Well, first of
+all I will tell you his mother's name.  I am going  to  show
+it to you for a very short time and then hide it and ask you
+to write it from memory.' She then showed them  a  card  for
+four  seconds  with the word FLAGRANCY on it.  (This appears
+in this section  of  PETERS1.DAT  as  word  101.)  Then  she
+continued  'Very  few people know the pony's name, but I do.
+I will let you into the  secret,  but  you  must  not  start
+writing  till  I  say GO and hold up your pencils when I say
+STOP.' She then showed a card for  three  seconds  with  the
+word  VAGABOND on it, and gave them ten seconds to write it.
+(This is word 102.)
+
+     The dictation in the second test was as follows:
+
+     '1 Late  2 one  3 night  4 my  5 friend   6 woke   7 me
+8 saying  '9 Would  10 you  11 enjoy 12 a 13 trial-run 14 in
+15 my  16 new  17 helicopter?'   18 I   19 had   20 scarcely
+21 scrambled  22 into  23 my  24 tracksuit  25 before  26 we
+27 were 28 away.   29 The  30 lights  31 of  32 the  33 city
+34 glowed   35 beneath:   36 the  37 stars  38 above.   39 I
+40 was  41 beginning   42 to   43 wonder   44 about   45 our
+46 destination  47 when 48 I 49 caught 50 sight 51 of 52 the
+53 spinning 54 knife 55 edge 56 and 57 the 58 surface  59 of
+60 what 61 must 62 have 63 been 64 a 65 type 66 of 67 flying
+68 saucer  69 whistling  70 round  71 us.   72 We  73 dodged
+74 skilfully 75 to 76 avoid 77 an 78 accident.  79 To 80 our
+81 relief, 82 the 83 spacecraft 84 regained 85 height 86 and
+87 we   88 sank   89 down   90 to   91 earth  92 and  93 the
+94 comfortable  95 bed  96 I  97 had  98 never   99 actually
+100 left.'
+
+
+
+                                                      Page 6
+
+
+     After the dictation, Dr Peters held up cards for  three
+seconds  each  with these words on:  FRUIT (word 101), FIELD
+(word 102), LODGE (word 103).  She then  spoke  these  three
+words:   SUITABLE  (word  104),  BELIEF (word 105) and HEDGE
+(word 106).
+
+     The dictation in the third test was as follows:
+
+     '1 A  2 peculiar  3 shape  4 was  5 approaching  6 from
+7 the    8 southern    9 valley.     10 Gradually    11 they
+12 distinguished 13 a 14 recently  15 designed  16 aeroplane
+17 circling  18 above.  19 The 20 machine 21 touched 22 down
+23 with 24 precision 25 in  26 the  27 rough  28 mountainous
+29 region  30 without 31 even 32 scraping 33 its 34 surface.
+35 The  36 children  37 surrounded  38 the  39 pilot  40 who
+41 explained     42 that    43 his    44 altimeter    45 and
+46 temperature  47 gauge  48 were  49 damaged  50 and  51 he
+52 was  53 anxious  54 about 55 increasing 56 altitude 57 in
+58 these   59 freezing   60 conditions.    61 From    62 the
+63 alpine   64 school  65 he  66 telephoned  67 his  68 base
+69 requesting   70 spare    71 instruments    72 to    73 be
+74 delivered   75 and   76 fitted   77 immediately.   78 The
+79 children    80 viewed    81 the    82 repairs     83 with
+84 enthusiasm,   85 especially   86 when   87 they   88 were
+89 taken  90 in  91 groups  92 for  93 an   94 unforgettable
+95 flight     96 before     97 the    98 pilot's    99 final
+100 departure.'
+
+     In transferring the errors from the dictations,  errors
+of  punctuation  were  generally  ignored, as were errors of
+word-division in 'raincoat', 'trial-run',  'spacecraft'  and
+'tracksuit'.   Uncrossed t's were not counted as errors, and
+inserted words were ignored,  such  as  'type  of  a  flying
+saucer'  for  'type  of  flying saucer'.  If the misspelling
+contained a space,  this  is  marked  by  an  underline,  eg
+'a_prochin' for 'approaching'.
+
+     Some of the children's efforts were largely  illegible,
+often  with  phrases  missed  out, so that it was not always
+possible to say which words the child was trying  to  write.
+The  people transferring the errors simply did the best they
+could.  No effort  was  made  to  record  which  words  were
+omitted,  and  errors were not recorded if it was impossible
+to see which words in the dictation they corresponded to.
+
+     There was no dictation in the fourth (secondary school)
+test.   Instead,  the  children were asked to write, for ten
+minutes, on 'Memories of my  primary  school'.   The  errors
+from  these  compositions  are  given  in PETERS1.DAT in the
+section beginning %4W.  They  are  given  in  the  following
+form:
+
+misspelling   correct_spelling   some context
+
+eg rember   remember   Also I * the boys there
+
+
+
+                                                      Page 7
+
+
+The '*' in the context indicates where the misspelling came.
+As  in  the  dictations, an underline in the misspelling (or
+the correct spelling) indicates a space, eg
+
+any_way   anyway   we got caned *
+infront   in_front   show people up * of others
+
+Where it was not clear what word was intended,  the  correct
+spelling may be preceded by a '?'.  For example:
+
+ctans   ?curtains   there were these *
+
+Proper names were ignored except where the context  made  it
+fairly  clear what the spelling should be;  for instance, 'a
+boy called Lenard' should  probably  be  'Leonard'  but  one
+cannot  be sure, whereas 'a day trip to Lester' seems almost
+certain to be 'Leicester'.
+
+     If the context contained a  misspelling,  the  misspelt
+form has been recorded in the context.  For example:
+
+assemberly   assembly   we had * ever morning
+ever   every   we had assemberly * morning
+
+     Errors of punctuation were generally ignored, including
+errors  of  capitalisation such as 'mr smith' for 'Mr Smith'
+and misplaced possessive apostrophes as in "teachers'  name"
+for  "teacher's  name".   Misspellings including apostrophes
+were included, however, if the child had produced quite  the
+wrong form of the word, as in "memory's of primary school".
+
+     A '-' indicates that this section was  missing,  and  a
+'#'  indicates  that  there  were  no  misspellings.   A '!'
+indicates the end of the list.
+
+     The  file  PETERS2.DAT  is  taken  entirely  from   the
+secondary  school  material.   It contains misspellings from
+all the secondary school scripts that were  left  after  the
+ones for PETERS1.DAT had been removed.
+
+     Each case begins  with  a  three-digit  serial  number,
+followed  by  the  child's  sex (M, F or '?' for those cases
+where it was not clear from the name).  Then  comes  a  code
+for  the  school  (A  to  Y  -  see  below), the child's own
+assessment of his/her spelling (1 =  Yes  it's  good;   2  =
+Middling;   3  = No it's not good), and an assessment of the
+child's handwriting made by the people who  transferred  the
+errors (from 1 for good to 5 for bad).
+
+     Following this, and on the same line, are  misspellings
+that  the  child  made  on words 31 to 40 (see above) of the
+spelling test.  (The words are numbered 1 to 10, ie 'eye' is
+word  1  to  'beautiful'  word 10.) In the few cases where a
+second line is needed for  these  misspellings,  the  second
+line  begins  with  a '+'.  A '#' means the child got all 10
+
+
+
+                                                      Page 8
+
+
+words right.  A '..' for a particular word  means  that  the
+child made no attempt at it.
+
+     Then follow the misspellings  from  the  free  writing,
+transferred  in  the  manner described above.  Each of these
+lines begins with a  space.   A  '#'  means  there  were  no
+misspellings in the free writing.
+
+     The schools are identified by letters as follows:
+
+1) Primary
+
+A  Arbury         B  Brunswick       C  Milton Road
+D  Priory         E  Queen Edith's   F  Romsey
+G  St Alban's     H  St Andrew's     J  St Philip's
+K  Morley         L  Fawcett         M  Colville
+N  Grove          O  Mayfield        P  Newnham Croft
+Q  Park Street    R  St Luke's       S  St Paul's
+
+2) Secondary
+
+A  Cambridgeshire High   B  St Bede's   C  Coleridge
+E  Ely                   G  Grammar     H  Chesterton
+I  Impington             M  Manor       N  Netherhall
+O  Soham                 P  Perse       S  Sawston
+T  Cottenham             Y  St Mary's
+
+
+
+                             Roger Mitton
+
+                             Dept of Computer Science,
+                             Birkbeck College,
+                             Malet Street,
+                             London WC1E 7HX
+
+                             November 1984

@@ -1,0 +1,148 @@
+
+
+
+A DESCRIPTION OF THE NFER FILES
+
+
+     There are two files of  data  obtained  from  a  survey
+conducted   by   the  National  Foundation  for  Educational
+Research  (NFER).   The  files  are  called  NFER1.DAT   and
+NFER2.DAT.
+
+     The file NFER1.DAT contains a random sample of 83 cases
+from  a  survey  of  students  in  Adult Literacy schemes in
+England and Wales undertaken  in  1978-79  by  the  National
+Foundation  for Educational Research.  A short report of the
+survey is given in 'A survey of attainment and  progress  of
+learners  in  Adult  Literacy  schemes'  by  T.P.  Gorman in
+Educational Research, 23, 3,  June  1981  (pp  190-198).   A
+longer  report  is  held  in  the  library of the NFER.  The
+address of the NFER is The Mere, Upton Park, Slough,  Berks,
+SL1 2DQ, telephone Slough 74123.
+
+     A sample of 41 Adult Literacy  schemes,  stratified  by
+size, city-size and geographical area was drawn from a total
+of 141 schemes.  The following description is taken from the
+paper by Gorman:
+
+     'The initial survey  commenced  in  December  1978  and
+continued  in  some  schemes  to  March 1979.  It involved a
+sample  of  1,236  students  who  had  enrolled  during  the
+previous  six  months.   The  sample comprised about six per
+cent of the target population.  ...  The ratio of  male  and
+female  learners  was  approximately 2:1 (65.5 per cent were
+male).  Just over half the students  (55.5  per  cent)  were
+between 21 and 40 years old.  Twenty-two per cent were under
+21 and 23 per cent over 40.'
+
+     Several tests of reading and writing were given to  the
+students.  The tests were administered on a one-to-one basis
+by the students' own  tutors.   The  tests  were  graded  in
+increasing order of difficulty, and students were allowed to
+drop out if they found a test unreasonably  difficult.   The
+data in NFER1.DAT was taken from just two of the tests.
+
+     For the first of these, the student was given  a  sheet
+of  lined  paper  with  'Dear  Mary,'  written  in  the  top
+left-hand corner.  The  tutor  dictated  this  short  letter
+which the student wrote down:
+
+     'We will be coming to Leeds  on  Sunday  with  our  two
+sons.   As  you  were  not  there  last time we came, we are
+looking forward to seeing you again.
+
+                Best wishes, '
+
+     For the second of these  two  tests,  the  student  was
+given  a  sheet with the following story typed on it, except
+that the words in capitals were replaced by underlined gaps.
+
+
+
+                                                      Page 2
+
+
+The tutor read out the story and the student wrote the words
+in the gaps:
+
+     'My FRIENDS, Joan and Arthur  live  near  the  STATION.
+They  have  two  children,  both  still BABIES.  Yesterday I
+WALKED over to their house to help Arthur do  some  DIGGING.
+I  was  a  bit late because I had been COOKING myself HALF a
+pound of  steak  and  VARIOUS  vegetables,  including  fried
+POTATOES.   I  am  not used to DINING on so much, it must be
+ADMITTED, but I had RECEIVED a bonus that week and I  wanted
+to  celebrate.   Arthur  still  had not dug very much of the
+garden when I got there .  In fact his progress  was  hardly
+NOTICEABLE.'
+
+     The following results are taken from the full report of
+the  survey.   The  figures indicate the percentage spelling
+the word correctly;  for example, out of  the  850  students
+who  attempted  the 'Dear Mary' letter, 44% spelled 'coming'
+correctly.
+
+'Dear Mary' letter: 70% (approx 850 students) took
+this test:
+
+coming     44%     our       43%     two       50%
+sons       52%     were      42%     there     50%
+forward    31%     seeing    59%     again     37%
+wishes     36%
+
+'Joan and Arthur' test: 60%  (approx 730 students)
+took this test:
+
+friends    24%     station   29%     babies    17%
+walked     30%     digging   26%     cooking   48%
+half       33%     various    8%     potatoes  21%
+dining     23%     admitted  13%     received  10%
+noticeable  8%
+
+     The data for NFER1.DAT was taken from a  random  sample
+of  the  students'  scripts.   Only  the  misspellings  were
+recorded.  No record was made if the student spelled a  word
+correctly,  and  no record was made of omissions.  Each case
+begins with the student's serial number.   The  misspellings
+are then listed, each preceded by a number to indicate which
+word it was a misspelling of,  according  to  the  following
+key:
+
+     1 we, 2 will,  3 be,  4 coming,  5 to,  6 leeds,  7 on,
+8 sunday,  9 with,  10 our,  11 two, 12 sons, 13 as, 14 you,
+15 were, 16 not, 17 there, 18 last, 19 time, 20 we, 21 came,
+22 we,  23 are,  24 looking,  25 forward,  26 to, 27 seeing,
+28 you, 29 again, 30 best, 31 wishes
+
+51 friends, 52 station,  53 babies,  54 walked,  55 digging,
+56 cooking,  57 half,  58 various,  59 potatoes,  60 dining,
+61 admitted, 62 received, 63 noticeable
+
+
+
+                                                      Page 3
+
+
+     Capital letters (right or wrong) were  ignored.   Where
+the  misspelling  contained  a  space  (as  in  'a gane' for
+'again'), the space has been underlined, eg 'a_gane'.
+
+     If a case goes onto a second or  subsequent  line,  the
+line begins with a '+', and each case ends with a '!'.
+
+     The file NFER2.DAT is just like NFER1.DAT  except  that
+it  contains  a  group  of students who were recorded in the
+follow-up survey (see Gorman's paper for details)  as  being
+second-language  speakers  of English.  No information about
+their first language was collected.
+
+
+
+                             Roger Mitton
+
+                             Dept of Computer Science,
+                             Birkbeck College,
+                             Malet Street,
+                             London WC1E 7HX
+
+                             November 1984

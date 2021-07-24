@@ -1,0 +1,238 @@
+
+
+
+
+A COLLECTION OF COMPUTER-READABLE CORPORA
+OF ENGLISH SPELLING ERRORS
+
+     This    document    describes    a    collection     of
+computer-readable  files  containing misspellings of English
+words.  The collection  was  made  as  part  of  a  research
+project  in  the  Department of Computer Science of Birkbeck
+College, London.  The project is funded  by  the  Leverhulme
+Trust;   a  grant  towards  the  data  input was made by the
+Central Research Fund of the University of London.
+
+     The collection is  made  available  for  research.   It
+would  be  appreciated  if  researchers  who use any of this
+material  would  make  some  acknowledgement  both  of   the
+collection  and,  where appropriate, of the suppliers of the
+original corpora.
+
+     Nearly all the misspellings  in  this  collection  were
+produced by native speakers of English, most of them British
+though two files contain misspellings produced by Americans.
+Most   of   the   misspellings   are   spelling  errors,  ie
+misspellings produced by people who were  not  sure  of  the
+correct   spelling,   rather   than   slips   in  typing  or
+handwriting.  Some of the  misspellings  were  collected  in
+spelling  tests  or  dictations,  others  from free writing.
+Some are from children, others from adults;  some  are  from
+people receiving special tuition in reading and writing.
+
+     The task of gathering together these error corpora  was
+undertaken  as part of a research project into the design of
+a computerised spelling corrector for  poor  spellers;   the
+main purpose was to indicate the range of problems that such
+a corrector would  have  to  cope  with  and  to  provide  a
+substantial  quantity  of  data  on  which  to test possible
+methods  of  correction.   However,  I  expected  that   the
+collection,  once  in  computer-readable  form,  would be of
+interest to other researchers also,  and  I  have  therefore
+retained in the files various items of information which are
+not of particular interest to me but which may  be  of  more
+interest to others.
+
+     I have not collected any  of  this  material  at  first
+hand;   it  already existed in one form or another.  Some of
+it was already in the form of computer-readable files;  some
+was in published books;  some had been partially analysed in
+the course of research, and some was still in  the  form  of
+scripts and test papers.  My contribution has been to gather
+these corpora together, to put onto the computer those  that
+were  not  already  in  computer-readable  form and to write
+descriptions of them.  The people who supplied me  with  the
+material have read and approved these descriptions.
+
+
+
+                                                      Page 2
+
+
+     There are basically ten sets of material,  though  some
+of them are divided into more than one file, making 15 files
+in all.  I have written a separate document on each  of  the
+ten,  so  I  will  only  give a short description here.  The
+first four came to me in more-or-less raw form;   the  other
+six were already in the form of either files or books:
+
+CHES
+
+     Misspellings of thirty words by about 200  ten-year-old
+children in England and Wales.  These children were a random
+sample from the several thousand tested in the Child  Health
+and Education Survey (CHES) in 1980.
+
+NFER
+
+     Misspellings made in two short dictations by  about  80
+adult literacy students in England and Wales - a sample from
+a  survey  conducted  by   the   National   Foundation   for
+Educational Research (NFER) in 1978-79.
+
+PERIN
+
+     Three sets of material collected by Dr Dolores Perin in
+research conducted in the late 1970's:
+
+1) A dictation and a piece of constrained  writing  from  36
+secondary-school   leavers   and   from  six  adult-literacy
+students.
+
+2) Misspellings from  free  writing  by  six  adult-literacy
+students.
+
+3) A spelling test of forty words from about 170 students in
+London secondary schools.
+
+PETERS
+
+     Two samples of the material collected  by  Dr  Margaret
+Peters  in primary and secondary schools in Cambridge in the
+1960's:
+
+1) Misspellings from about 150 children  in  spelling  tests
+and  dictations  at  the  ages  of  9,  10  and 11, and in a
+spelling test and a piece of free writing at age 15 (ie each
+child at four different ages).
+
+2)  Misspellings  from  short  compositions  by   over   900
+fifteen-year-olds.
+
+ASHFORD
+
+     The complete text of  'The  Young  Visiters'  (sic)  by
+Daisy  Ashford,  a short novel written by a nine-year-old in
+Victorian England;  the text contains many of  her  original
+
+
+
+                                                      Page 3
+
+
+misspellings.
+
+FAWTHROP
+
+     Two files supplied in computer-readable form  by  David
+Fawthrop,  collected  in  the  course  of  his research into
+spelling correction at Bradford University:
+
+1) A compilation of four collections  of  American  spelling
+errors, already in published form.
+
+2) A collection of misspellings from the  writing  of  three
+British people, all of whom considered themselves to be poor
+spellers.
+
+GATES
+
+     The most common misspellings of 3876 words  taken  from
+spelling  tests  given to schoolchildren in New York City in
+the 1930's;  this material was taken from the book  'A  List
+of  Spelling  Difficulties  in  3876  Words',  by  Arthur I.
+Gates.
+
+HOLBROOK
+
+     Passages taken from the creative writing  of  about  20
+children  in  a  British  secondary  school  in  the 1960's,
+published (with their original misspellings) in 'English for
+the Rejected' by David Holbrook.
+
+SHEFFIELD
+
+     A list of about 380 misspellings, mostly keying errors,
+taken from typewritten or computer-terminal input, collected
+from staff and students in  the  Department  of  Information
+Studies  of  Sheffield  University  by  Angell,  Freund  and
+Willett as  part  of  a  piece  of  research  into  spelling
+correction.
+
+WING
+
+     Misspellings (mainly  handwriting  slips)  from  essays
+written   by  40  candidates  in  the  Cambridge  University
+Entrance Examinations in 1976.  This  corpus  was  collected
+and put into computer-readable form by Wing and Baddeley and
+is described in their paper 'Spelling errors in handwriting:
+a corpus and a distributional analysis'.
+
+
+     The error corpora and their  accompanying  descriptions
+are  available  on  a  magnetic tape;  the data files are of
+type DAT and the description files of type  DOC.   The  file
+SAMPLES.DAT  contains  a copy of the first ten lines of each
+of the data  files.   The  tape  produced  by  the  Birkbeck
+College  computer  is  written  on  a  VAX 11/750 under VMS,
+
+
+
+                                                      Page 4
+
+
+ANSI-labelled (the tape label is SPELL),  1600  bpi,  ASCII.
+All  the  files  have  fixed numbers of bytes per record and
+bytes per block, but the numbers vary somewhat from one file
+to another, as follows:
+                              Record   Block
+The DAT files:
+  CHES, NFER, PERIN, PETERS       80    2000
+  FAWTHROP, SHEFFIELD             40    2000
+  GATES, HOLBROOK, WING, SAMPLES  95    1900
+  ASHFORD                         65    1950
+
+All the DOC files                 60    1800
+
+     All the  DAT  files  are  text  files  containing  only
+printable ASCII characters;  the same goes for the DOC files
+except that they contain an ASCII form-feed at the  foot  of
+each  page.   The  full  list  of  files  on  the tape is as
+follows:
+
+INTRO.DOC, SAMPLES.DAT
+ASHFORD.DOC, ASHFORD.DAT
+CHES.DOC, CHES.DAT
+FAWTHSHEF.DOC, FAWTHROP1.DAT, FAWTHROP2.DAT
+GATES.DOC, GATES.DAT
+HOLBROOK.DOC, HOLBROOK.DAT
+NFER.DOC, NFER1.DAT, NFER2.DAT
+PERIN.DOC, PERIN1.DAT, PERIN2.DAT, PERIN3.DAT
+PETERS.DOC, PETERS1.DAT, PETERS2.DAT
+SHEFFIELD.DAT (for document see FAWTHSHEF.DOC)
+WING.DOC, WING.DAT
+
+     The preparation of material  for  data-entry,  and  the
+subsequent  keying-in,  involved  a  good deal of work.  The
+bulk of the clerical work was carried out  by  Philip  Baker
+and  John  and  Kate  Murray,  and the keying-in by the Data
+Preparation  Service  of  Birkbeck   College,   particularly
+Barbara Whitmore.  The Ashford and Holbrook books were input
+via the Kurzweil Data Entry Machine of the Oxford University
+Computing Services.
+
+     I have run various programs to check the files and have
+corrected such errors as these have thrown up.  I think that
+the files are reasonably free of errors  introduced  in  the
+process  of transferring the material onto the computer, but
+I obviously cannot guarantee that there are none at all.
+
+Roger Mitton
+
+Department of Computer Science,
+Birkbeck College,
+University of London,
+Malet Street,
+London WC1E 7HX
+
+January 1985

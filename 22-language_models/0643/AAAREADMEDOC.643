@@ -1,0 +1,2598 @@
+
+
+
+
+A COLLECTION OF COMPUTER-READABLE CORPORA
+OF ENGLISH SPELLING ERRORS (Version 2, 1986)
+
+
+     This document describes a collection of  computer-readable  files
+containing  misspellings of English words.  The collection was made as
+part of a research project in the Department of  Computer  Science  of
+Birkbeck  College,  London.   The project was funded by the Leverhulme
+Trust; a grant towards the data input was made by the Central Research
+Fund of the University of London.  An earlier collection, described in
+"A  Collection  of  Computer-readable  corpora  of  English   spelling
+errors",  Cognitive  Neuropsychology,  1985,  2  (3) 275-279, was made
+available in 1985.  The present collection  incorporates  the  earlier
+one.
+
+     The collection is made  available  for  research.   It  would  be
+appreciated  if  researchers  who  use any of this material would make
+some acknowledgement both of the collection and, where appropriate, of
+the suppliers of the original corpora.
+
+CONTENTS                                 page
+
+Introduction                                2
+
+Descriptions of the data files
+
+Part 1: Native speakers
+
+ASHFORD                                     7
+CHES                                        9
+FAWTHROP                                   11
+GATES                                      13
+HOLBROOK                                   18
+MASTERS                                    20
+NFER                                       22
+PERIN                                      25
+PETERS                                     29
+SHEFFIELD                                  37
+UPWARD                                     38
+WING                                       40
+
+
+Part 2: Non-native speakers
+
+ABO                                        43
+APPLING                                    45
+BLOOR                                      46
+EXAMS                                      47
+SUOMI                                      50
+TELEMARK                                   52
+TESDELL                                    53
+
+                                                                Page 2
+
+
+Introduction
+
+     The collection  is  divided  into  two  parts.   Nearly  all  the
+misspellings  in  the  first  part were produced by native speakers of
+English, most of them British though three files contain  misspellings
+produced  by  Americans;  those in the second part are from non-native
+speakers.   Most  of  the  misspellings  are   spelling   errors,   ie
+misspellings  produced  by  people  who  were  not sure of the correct
+spelling, rather than slips in typing or  handwriting.   Some  of  the
+misspellings  were  collected  in spelling tests or dictations, others
+from free writing.  Some are from children, others from  adults;  some
+are from people receiving special tuition in reading and writing.
+
+     The task of gathering together these error corpora was undertaken
+as  part  of  a  research  project  into  the design of a computerised
+spelling corrector for poor spellers; the main purpose was to indicate
+the  range  of  problems that such a corrector would have to cope with
+and to provide a  substantial  quantity  of  data  on  which  to  test
+possible   methods  of  correction.   However,  I  expected  that  the
+collection, once in computer-readable form, would be  of  interest  to
+other  researchers  also,  and  I have therefore retained in the files
+various items of information which are not of particular  interest  to
+me but which may be of more interest to others.
+
+     I have not collected any of  this  material  at  first  hand;  it
+already existed in one form or another.  Some of it was already in the
+form of computer-readable files; some was in published books; some had
+been  partially analysed in the course of research, and some was still
+in the form of scripts and test papers.  My contribution has  been  to
+gather  these  corpora  together,  to put onto the computer those that
+were not already in computer-readable form and to  write  descriptions
+of  them.   The people who supplied me with the material have read and
+approved these descriptions.
+
+Part 1: Native speakers
+
+     There are basically twelve sets of material from native  speakers
+(two  more  than  in  the earlier collection), though some of them are
+divided into more than one file, making  17  files  in  all.   A  more
+detailed  description  of each of the files follows this introduction,
+so I will give only a brief description here.  The first four came  to
+me  in more-or-less raw form; the other eight were already in the form
+of either files or books:
+
+CHES
+
+     Misspellings of thirty words by about 200  ten-year-old  children
+in  England,  Wales and Scotland.  These children were a random sample
+from the several thousand tested in the  Child  Health  and  Education
+Survey (CHES) in 1980.
+
+                                                                Page 3
+
+
+NFER
+
+     Misspellings made in two  short  dictations  by  about  80  adult
+literacy  students  in  England  and  Wales  -  a sample from a survey
+conducted by the National Foundation for Educational  Research  (NFER)
+in 1978-79.
+
+PERIN
+
+     Three sets of material collected by Dr Dolores Perin in  research
+conducted in the late 1970's:
+
+1)  A  dictation  and  a  piece  of  constrained   writing   from   36
+secondary-school leavers and from six adult-literacy students.
+
+2) Misspellings from free writing by six adult-literacy students.
+
+3) A spelling test of forty words from about 170  students  in  London
+secondary schools.
+
+PETERS
+
+     Two samples of the material collected by Dr  Margaret  Peters  in
+primary and secondary schools in Cambridge in the 1960's:
+
+1)  Misspellings  from  about  150  children  in  spelling  tests  and
+dictations  at  the ages of 9, 10 and 11, and in a spelling test and a
+piece of free writing at age 15  (ie  each  child  at  four  different
+ages).
+
+2) Misspellings from short compositions by over 900 fifteen-year-olds.
+
+ASHFORD
+
+     The complete text of 'The Young Visiters' (sic) by Daisy Ashford,
+a  short  novel  written  by a nine-year-old in Victorian England; the
+text contains many of her original misspellings.
+
+FAWTHROP
+
+     Two files supplied in computer-readable form by  David  Fawthrop,
+collected  in  the  course of his research into spelling correction at
+Bradford University:
+
+1) A compilation of four  collections  of  American  spelling  errors,
+already in published form.
+
+2) A collection of misspellings from  the  writing  of  three  British
+people, all of whom considered themselves to be poor spellers.
+
+                                                                Page 4
+
+
+GATES
+
+     The most common misspellings of 3876 words  taken  from  spelling
+tests  given  to  schoolchildren  in New York City in the 1930's; this
+material was taken from the book 'A List of Spelling  Difficulties  in
+3876 Words', by Arthur I.  Gates.
+
+HOLBROOK
+
+     Passages taken from the creative writing of about 20 children  in
+a  British  secondary  school  in  the  1960's,  published (with their
+original  misspellings)  in  'English  for  the  Rejected'  by   David
+Holbrook.
+
+MASTERS
+
+     Misspellings of about 260 words made in  spelling  tests  by  600
+students  in  Iowa  in  the  1920's - 200 8th graders, 200 high-school
+seniors and 200 college seniors - collected by H.V.  Masters  for  his
+PhD research.  This is the full set of data that he analysed, not just
+the examples he included in his published report.
+
+SHEFFIELD
+
+     A list of about 380 misspellings,  mostly  keying  errors,  taken
+from  typewritten or computer-terminal input, collected from staff and
+students  in  the  Department  of  Information  Studies  of  Sheffield
+University  by  Angell,  Freund  and  Willett  as  part  of a piece of
+research into spelling correction.
+
+UPWARD
+
+     Misspellings taken from answers to a questionnaire  completed  by
+about  160  15-year-olds  in Nottingham.  The material was supplied by
+Chris Upward of the Dept of Modern Languages, Aston University.
+
+WING
+
+     Misspellings (mainly handwriting slips) from essays written by 40
+candidates  in the Cambridge University Entrance Examinations in 1976.
+This corpus was collected and put into computer-readable form by  Wing
+and  Baddeley  and  is  described  in  their paper 'Spelling errors in
+handwriting:  a corpus and a distributional analysis'.
+
+                                                                Page 5
+
+
+Part 2: Non-native speakers
+
+EXAMS
+
+     Misspellings taken from scripts submitted in English examinations
+by overseas students in 18 countries, with 50 or 100 scripts from each
+country.  The scripts were made available for  this  exercise  by  the
+University   of   Cambridge   Local  Examinations  Syndicate  and  the
+University of London Schools Examinations Board.
+
+ABO
+
+     Misspellings   collected   from   Finnish-speaking   Finns    and
+Swedish-speaking Finns in a series of tests conducted in the 1970's by
+Dr Rolf Palmberg and Dr Hakan Ringbom of the Abo Akademi, Finland.
+
+APPLING
+
+     Two files of data (APPLING1 and APPLING2) collected  by  students
+of  the  Applied  Linguistics  Department  of  Birkbeck College in the
+course of their work as teachers of English.
+
+BLOOR
+
+     Errors taken from a corpus of  written  English  by  12  Algerian
+students.  The file was supplied by Meriel Bloor of the Dept of Modern
+Languages, Aston University.
+
+SUOMI
+
+     Errors taken from test papers written by 60 Finnish speakers  and
+45  Swedish  speakers  aged  15-16  years.   The data formed part of a
+thesis submitted by Riitta Suomi at the Abo Akademi, Finland.
+
+TELEMARK
+
+     Errors taken from examination  papers  written  by  145  advanced
+Norwegian  students of English at Telemark College, Norway.  They were
+recorded in a study by Dr Nils Rottingen.
+
+TESDELL
+
+     Errors from 56 students taking an  English  Language  Proficiency
+Test  at Iowa State University in 1981-82.  The material was collected
+by Lee S.  Tesdell.
+
+
+     The tape produced by the Birkbeck College computer is written  on
+a  VAX 11/750 under VMS, ANSI-labelled (the tape label is SPELL), 1600
+bpi, ASCII.  All the lines have been padded out with  spaces  to  make
+100 bytes per record and 2000 bytes per block.  All the data files are
+text files containing only printable ASCII characters.  The full  list
+of files on the tape is as follows:
+
+                                                                Page 6
+
+
+
+AAAREADME.DOC
+ASHFORD.DAT
+CHES.DAT
+FAWTHROP1.DAT, FAWTHROP2.DAT
+GATES.DAT
+HOLBROOK.DAT
+MASTERS.DAT
+NFER1.DAT, NFER2.DAT
+PERIN1.DAT, PERIN2.DAT, PERIN3.DAT
+PETERS1.DAT, PETERS1A.DAT, PETERS2.DAT
+SHEFFIELD.DAT
+UPWARD.DAT
+WING.DAT
+ABO.DAT
+APPLING.DAT
+BLOOR.DAT
+EXAMS.DAT
+SUOMI.DAT
+TELEMARK.DAT
+TESDELL.DAT
+
+     The preparation of material for data-entry,  and  the  subsequent
+keying-in,  involved  a  good  deal of work.  The bulk of the clerical
+work was carried out by Philip Baker and John and Kate Murray, and the
+keying-in by the Lin Bailey, Sheila Hailey and Barbara Whitmore of the
+Data  Preparation  Service  of  Birkbeck  College.   The  Ashford  and
+Holbrook  books  were input via the Kurzweil Data Entry Machine of the
+Oxford University Computing Services.
+
+     I have run various programs to check the files and have corrected
+such  errors  as  these  have  thrown  up.  I think that the files are
+reasonably free of errors introduced in the  process  of  transferring
+the  material onto the computer, but I obviously cannot guarantee that
+there are none at all.
+
+     There follows a detailed description of each of the files.   Each
+description  begins  with a copy of the first ten lines, in order that
+users may match up the descriptions with the files that they refer to.
+
+Roger Mitton
+
+Department of Computer Science,
+Birkbeck College,
+University of London,
+Malet Street,
+London WC1E 7HX
+
+June 1986
+
+                                                                Page 7
+
+
+
+A DESCRIPTION OF THE FILE ASHFORD.DAT
+
+
+  <1Chapter One>1
+
+  <1QUITE A YOUNG GIRL>1
+
+MR SALTEENA was an elderly man of 42 and was fond
+of asking peaple to stay with him.  He had quite a young
+girl staying with him of 17 named Ethel Monticue.  Mr
+Salteena had dark short hair and mustache and wiskers
+which were very black and twisty.  He was middle sized
+and he had very pale blue eyes.  He had a pale brown
+
+
+     ASHFORD.DAT contains the text of the novel 'The  Young  Visiters'
+(sic) by Daisy Ashford.  It is taken (with the publisher's permission)
+from the edition first published by Chatto and Windus  in  1919.   The
+particular  copy used was printed in 1983; ISBN 0 7011 0515 1.  It was
+input via the Kurzweil Data Entry Machine  of  the  Oxford  University
+Computing Service.
+
+     The novel was written by a nine-year old in the  latter  half  of
+the  nineteenth  century.   J.M.   Barrie, in his introduction to this
+edition, says:
+
+     'The owner of the copyright [ie Daisy  Ashford]  guarantees  that
+The Young Visiters is the unaided effort in fiction of an authoress of
+nine years.  ..  The manuscript is in pencil in a  stout  little  note
+book  (twopence),  and  there  it  has  lain for years, for though the
+authoress was nine when she wrote it she is now a  grown  woman.   ...
+The pencilled MS.  has been accurately reproduced, not a word added or
+cut out.  Each chapter being in one long paragraph, however, this  has
+been subdivided for the reader's comfort.'
+
+     Chatto and Windus have a photocopy of the original  manuscript  -
+the original is in the New York Public Library - which they allowed me
+to have a  look  at.   The  writing  is  quite  readable,  though  the
+photocopy  is  not  very  clear.   There  are  some  rubbings-out  and
+corrections, presumably by Daisy herself.  Some of Daisy's errors  are
+handwriting slips, such as 'fliglty' for 'flighty'; at other places it
+is simply not clear what she wrote - her spelling of  'journey'  could
+be taken in various ways.
+
+     Comparing  the  first  few  pages  of  the  manuscript  with  the
+published version revealed a few discrepancies but not a lot.  Some of
+Daisy's errors have been corrected, such as  'cushion'  for  'cushon';
+some  words  that she got right have been printed with errors, such as
+'lovly' for 'lovely', and occasionally a misspelling has been  printed
+which  is  different  from  Daisy's,  such as 'cariage' for 'carrage'.
+Some changes have been made, I suspect, to maintain some  consistency;
+for  example,  Daisy  writes  'rarther'  in  Chapter 1 and 'rather' in
+Chapter 2, but the published version retains 'rarther'.   I  was  told
+that Chatto are intending to bring out a new edition and that this new
+
+                                                                Page 8
+
+
+one will stay closer to the spelling in the original manuscript.
+
+     Sections in the file marked by '<1' and '>1' are parts that  were
+in italics in the book.
+
+October 1984
+
+                                                                Page 9
+
+
+A DESCRIPTION OF THE FILE CHES.DAT
+
+
+00222 2 visorted 4 magnifasent 6 oposite 7 galary 15 undersand 28 bicuits
++ 29 stumak !
+00302 8 remeber 9 splended 14 promblem 19 laph 22 spicial 29 stomoc !
+00404 3 aunte 4 magnifcent 9 splended 13 poretry 14 proplem 17 poem 20 predend
++ 23 refreashment 29 slomac !
+00429 2 visted 4 mucknesit 6 oppestide 7 galley 8 rembered 9 remackuble 10 ..
++ 11 cutised 13 poetrey 14 proplen 15 undsid 16 lastest 18 woulded 20 prated
++ 21 reallike 22 speichy 23 riefreshmet 24 they 28 bicsiuts 29 snumik 30 kutere
++ !
+00450 2 visted 3 aint 6 opsit 7 gallary 12 rote 13 poatry 14 problam 17 poams
+
+
+
+     The file CHES.DAT contains the misspellings of 30 words  produced
+by  202  10-year-old  children  in  a  dictation test.  They were made
+available to me by Dr Uta Frith  of  the  Medical  Research  Council's
+Cognitive  Development  Unit,  17 Gordon Street, London WC1H 0AH.  The
+following extracts are from 'Specific spelling problems' by Uta Frith,
+published  in 'Dyslexia:  A Global Issue', ed R.N.  Malatesha and H.A.
+Whitaker, in the NATO ASI  series,  by  Martinus  Nijhoff  Publishers,
+1984, pp 83-103.
+
+     'The Child Health and Education Study is a national  longitudinal
+survey  of children born between 5th to 11th April, 1970.  A follow-up
+study of 15,000 children has just been carried out.  The children were
+aged  10  to  11 at the time of testing.  It is important to point out
+that this comprises the  total  population  of  children  in  England,
+Scotland  and  Wales.   All  regions,  rural  and urban districts, all
+classes, all types of schooling,  were  therefore  represented.   This
+follow-up of the CHES cohort was carried out by a team under Professor
+Neville Butler with Dr Mary Haslum.' ....
+
+     'The ..  sample (of  202)  was  a  random  sample  selected  from
+children with names across the whole alphabet.'
+
+     'Word spelling:  This test  was  dictation  of  a  passage  which
+contained  30  words  (15  regular  and  15  irregular)  selected from
+Schonell's lists of regular  and  irregular  words  (Schonell,  1942).
+....   Included  halfway  in the dictated passage were four non-words.
+....  All tests had been administered individually by  the  children's
+own teachers.'
+
+     These are the instructions given to the teachers:
+
+     'Please dictate the following to the child, at a speed suited  to
+the  child's  pace  of  writing.  If the child cannot write a word and
+asks how to spell it, say:  'Just try to write it as  best  you  can,'
+and  repeat the sentence containing the problem word.  Do not repeat a
+particular sentence more than once.  However, if the child asks for  a
+repetition  of the imaginary words in the middle of the passage, those
+words may be repeated twice.'
+
+                                                               Page 10
+
+
+     'I OFTEN VISITED my AUNT.   She  lived  in  a  MAGNIFICENT  HOUSE
+OPPOSITE  the  GALLERY.  I REMEMBER her SPLENDID PURPLE CURTAINS.  She
+WROTE POETRY.  The PROBLEM was nobody could UNDERSTAND it.  Her LATEST
+POEMS  had  words  like  prunty, slimber, grondel, blomp.  I WANTED to
+LAUGH but I had to PRETEND to like them.  However, I REALLY  like  the
+SPECIAL REFRESHMENT.  THERE was BLUE JUICE, CAKE and BISCUITS.  When I
+left, my STOMACH was full and I was happy and CONTENTED.'
+
+     The thirty test words are the  ones  in  capitals  (not  counting
+'I').   The  misspellings  of  these  words  were  copied out from the
+children's scripts  by  Stephanie  Fenton.   It  is  these  copied-out
+versions  that  were keyed in.  (The four nonwords were not keyed in.)
+The copied-out versions were all in upper-case, though  it  is  likely
+that  the children used a mixture of upper- and lower-case.  They were
+keyed in entirely in lower-case.
+
+     Each child begins a new line with  his/her  CHES  serial  number.
+The words are numbered 1 to 30.  '..' indicates that the child omitted
+the word.  A continuation line begins with a '+'.  Each case ends with
+a '!'.  A '*' after the serial number means that the child got all the
+words right.  A few serial numbers end with /1 or  /2  (eg  07706);  I
+think these are twins.
+
+July 1984
+
+                                                               Page 11
+
+
+
+A DESCRIPTION OF THE FAWTHROP FILES
+
+
+ABATTOIR            ABBATOIR
+ABHORRENCE          ABHORENCE
+ABSENCE             ABSENSE
+ABSORBENT           ABSORBANT
+ABSORPTION          ABSORBTION
+ACCEDE              ACCEED
+ACCELERATE          ACELLERATE
+ACCESSIBLE          ACCESIBLE
+ACCIDENTALLY        ACCIDENTLY
+ACCOMMODATE         ACCOMODATE
+
+
+ABILITY             ABLITY             1
+ACADEMICALLY        ACADEMICLY         1
+ACCEPT              ACEPT              1
+ACCEPTED            ACEPTED            1
+ACCESS              ACESS              2
+ACCESSIBILITY       ACCESSABILITY      1
+ACCESSING           ACCESING           2
+ACCOMPANYING        ACOMPANING         1
+ACCORDING           ACORDING           1
+ACCOUNT             ACOUNT             4
+
+
+     The FAWTHROP files were put onto the computer by  David  Fawthrop
+as  part  of  his  PhD  research  into spelling correction at Bradford
+University.  They are described in the paper 'The  rules  of  spelling
+errors'   by   E.J.    Yannakoudakis  and  D.   Fawthrop,  Information
+Processing and Management, Vol 19 No 2, 1983, pages 87-99.
+
+     FAWTHROP1.DAT is the one that Fawthrop calls the 'typical'  file.
+It is a list of 809 misspellings taken from four American sources:
+
+Lasky J.  Proof-reading and Copy Preparation, Mentor Press, New  York,
+1941, pages 84-131
+
+Damerau F.J.  'A technique for computer detection  and  correction  of
+spelling errors', CACM 1964 Vol 7 No 3, pages 171-176, Table 1
+
+Kucera H. and W.N. Francis  Computational  Analysis   of   Present-day
+American  English,  Brown  University  Press, Providence Rhode Island,
+1967
+
+Masters H.V.  'A study of spelling errors' PhD thesis,  University  of
+Iowa,  1927  (The  errors recorded in FAWTHROP1 are those that Masters
+gives as examples in his published report.  The full set of data  that
+Masters collected is in the file MASTERS.DAT.)
+
+     Each line consists of the correct spelling in  the  first  twenty
+columns  followed  by  the  misspelling  in  the  next  twenty, all in
+upper-case.  The 'correct' spelling was that which the original source
+
+                                                               Page 12
+
+
+considered   to  be  correct,  or  the  one  in  Webster's  Third  New
+International Dictionary,  1961.   In  either  case,  it  was  correct
+American spelling rather than British.
+
+     FAWTHROP2.DAT is the one  Fawthrop  calls  the  'bad'  file.   It
+contains  560  misspellings taken from some 60,000 words of continuous
+text written by three adults at the University of  Bradford,  each  of
+them  with  a Northern English dialect, who all believed themselves to
+be very bad spellers.   The  task  of  finding  the  misspellings  was
+carried out by an ex-schoolteacher.  The 'correct' spelling here means
+the one given in the Shorter Oxford English Dictionary  with  addenda,
+1959.   The  format  of  the file is like that of FAWTHROP1.DAT except
+that the misspelling occupies columns 21 to 38, and columns 39 and  40
+contain  the  number  of  times  that each misspelling occurred in the
+60,000 words of text.
+
+     Dr Fawthrop's research resulted in a spelling corrector which  is
+now  marketed,  under  the  name  of  Expert  Speller, by Artificially
+Intelligent Devices and Techniques (ADAT), Bradford University Science
+Park, 1 Campus Road, Bradford BD7 1HR, Tel 0274 733317.
+
+January 1985
+
+                                                               Page 13
+
+
+
+DESCRIPTION OF THE FILE GATES.DAT
+
+
+ability $abilIty 61 *abbility 23 *abilaty 42
+able $abLE 91 *abel 35
+aboard $abOArd 59
+about $aboUt 65 *abot 14 *abowt 9
+above $abOve 64
+abroad $abrOAd 77 *abrod 36
+absence $absenCE 97 *absents 29 *absense 22
+absent $aBsent 38 $abSent 43 *apsent 33
+absolutely $absolutEly 94 *absolutly 59
+absurd $absURD 99 *abserd 31
+
+
+
+     The file GATES.DAT contains all the  data  relating  to  spelling
+from  the  book  'A  List  of  Spelling Difficulties in 3876 Words' by
+Arthur I.  Gates, published by the Bureau  of  Publications,  Teachers
+College,  Columbia University, New York City, 1937.  The following are
+extracts from the book's introduction:
+
+     'This  monograph  includes  several  types  of   pertinent   data
+concerning  each of 3,876 words commonly taught in spelling courses in
+American schools.  The experimental and statistical work was conducted
+over  a number of years beginning in 1928.  The steps in the work were
+as follows.
+
+     'A list of "most commonly taught" words was  first  drawn  up  by
+determining the frequency with which the words appeared in twenty-five
+different widely used spelling textbooks,  and  state  and  large-city
+spelling  lists.   From  this  distribution  the  words appearing most
+frequently  were  selected.   The  limitation  to  3,876   words   was
+arbitrary.   It  should  be  noted  that  this is a list of words most
+frequently chosen by those who make  up  the  textbooks  and  spelling
+lists,  and  it  therefore  doubtless  includes  the  3,876 words most
+frequently taught in American classrooms.  The present author makes no
+claim that this is the best list of words to teach.  It is, however, a
+list which spelling experts believe to be best.   No  claim  is  made,
+furthermore,  that  3,876  words is the optimum number to teach.  This
+number, however, is close to the average number contained in the lists
+and texts studied.
+
+     'Many words in this list were placed at different grade levels in
+the  various  texts  and state or city lists.  The mean of these grade
+placements was computed for each word, and is entered in the  list  in
+this  monograph.   [This  information is not included in GATES.DAT.  -
+R.M.] The author makes no claim that these mean grade  placements  are
+ideal.   They  indicate approximately the grade placement at which the
+words are most commonly introduced in American schools.
+
+....
+
+                                                               Page 14
+
+
+     'The most  important  part  of  the  monograph  is  the  evidence
+concerning the characteristics of errors in spelling each of the 3,876
+words.  To obtain these data the words were used in spelling tests  in
+which  the responses were made in writing.  The words were pronounced,
+used in a sentence or two to define the meaning, pronounced again, and
+then written by the pupils.  The subjects for the tests were pupils in
+various public schools in the metropolitan area, mainly from Manhattan
+and  Brooklyn.  Each word was usually given to a class one grade lower
+than the grade in which the  word  was  formerly  [I  think  he  means
+'formally' - R.M.] taught in the curriculum of this particular school.
+This policy was  adopted  in  order  to  secure  a  larger  number  of
+misspellings  than  would  have  been forthcoming after the pupils had
+studied the word.  That is to say, for most  pupils  misspellings  are
+instances  of  failure to solve a spelling problem rather than failure
+to recall  a  practiced  spelling.   This,  of  course,  will  not  be
+universally  true.   Many  children write words, look them up in books
+and dictionaries, and study  them  before  encountering  them  in  the
+spelling program.
+
+     'In the Spelling List beginning  on  page  11  the  first  column
+consists of the word correctly spelled, followed by one, two, or three
+figures in parentheses.  It will be noted that certain letters in most
+words  are in italics and that in some words two parts of the word are
+italicized, or that one part is italicized and another part appears in
+bold  face  letters.   (Bold  face  is  used  when  the two parts come
+together, so that they may be easily distinguished.) The part  of  the
+word  italicized  or  in  bold  face is the part in which the greatest
+number of errors are made.  If the word has two parts  italicized,  or
+one  part  italicized and another part in bold face, it means that two
+parts are especially hard.  The figure or figures in italics give  the
+actual  percentages.   For  example,  in the first word "ability", the
+largest number of errors consist of failures on the second "i",  which
+is  italicized.   The  figure in parentheses indicates that 61% of the
+misspellings of this word are failures on the "i".  In the second word
+"able",  91%  of  the  errors  are  on  the  letters  "le",  which are
+italicized.  In the word "abundance", the hard spots are the  "u"  and
+the  second  "a",  both  of  which  are  italicized.   In  48%  of the
+misspellings there is an error on the "u" and in 73% the error  is  on
+the  second "a".  In the word "absent", the two hard spots are the "b"
+and the "s", the first of which, showing 38%  errors,  is  italicized,
+and  the  second  of  which, showing 43% errors, is in bold face.  The
+second hard spot is given in bold face to indicate that it  is  to  be
+thought of as separate from the preceding letter "b" in italics, which
+is also a hard spot.  In this word the "b" and  the  "s"  are  treated
+separately,  or  as  representing  two hard spots, for the reason that
+they fall into different syllables and are commonly treated  as  parts
+of  two units within the word.  In the word "acquaintance", with three
+hard spots, the percentage of the total number of errors in each  case
+is  given.  In certain cases, the hard spot is indicated by letters in
+parentheses above or beside a word.  Thus, in "appears", an  "(e)"  is
+placed  above the space between the last two letters.  This means that
+the hard spot is this space - the result of inserting an "e".  In  the
+case  of  "avoid", an "(e)" follows the word and means that the ending
+of the word, due to a tendency to add an "e", is a hard spot.
+
+                                                               Page 15
+
+
+     'The second column of the Spelling List  gives  the  most  common
+misspelling  of  the  word,  and  the third column the per cent of the
+total errors which this particular misspelling represents.   Thus,  in
+the  case  of "ability", the most common misspelling is "abilaty".  Of
+all the errors made on this word, 41.9% take exactly this form.   This
+word  is spelled "abbility" in 22.6% of the cases.  That is to say, of
+all the misspellings of this word, 64.5% are one or the other of these
+two  forms.  The second word "able" shows only one common misspelling,
+namely "abel", which accounts for 35.1%  of  the  total  misspellings.
+The  third  word,  "aboard",  has no misspelling which appears clearly
+more frequently than others.  This word is obviously spelled  a  great
+many  different  ways, although, as the first column shows, 59% of the
+errors reveal difficulties in "oa".
+
+     'The number of misspellings analyzed differs from word  to  word,
+but in no case is it less than 200.  The median number of misspellings
+per word is slightly over 300, and for about a quarter  of  the  words
+the   number   exceeds  400.   It  is  believed  that  the  number  of
+misspellings, even at the minimum, is  sufficient  to  give  a  fairly
+reliable  result.  For all the words, more than 1,200,000 misspellings
+were analyzed.
+
+....
+
+     'It should be noted that, although the  data  in  this  monograph
+were  obtained  from  a large number of cases, they may, nevertheless,
+not present an entirely accurate picture of the facts  that  would  be
+found  in  other  localities.   It  is possible, for example, that the
+spelling errors are conditioned somewhat by the time  and  methods  of
+teaching  words,  by  the  frequency  with which the words are used in
+writing, and  by  the  typical  pronunciation  of  a  given  locality.
+Children  habitually  using the characteristic speech of Boston, or of
+Portland, Maine, or of New Orleans, or of Houston, Texas,  may  reveal
+somewhat  different  forms  of  misspelling.   In  this  monograph  no
+endeavour  has  been  made  to  determine  the  extent  to  which  the
+misspellings  differ  as  the  result  of these and other factors.  It
+should be realized, however, that the population of the schools in New
+York  City  is  extremely  diversified  and that all forms of language
+background are represented.  It is believed  that  the  list  gives  a
+reasonably  representative picture of misspellings, although it is not
+denied that children living in quite different localities or  speaking
+quite  different dialects might differ somewhat in their spelling from
+any representative list.'
+
+
+
+
+     Each line of GATES.DAT  begins  with  the  word  correctly  spelt
+(correctly  according to American spelling, that is - 'color', 'honor'
+and the like).  In Gates's book (as explained in the above  extracts),
+the 'hard spots' are marked by italics or bold letters.  In GATES.DAT,
+this aspect of the data is represented by the words beginning with  $.
+For  example,  in  Gates's  text,  the  second  'i'  of  'ability'  is
+italicized and the word is followed by  '(61)',  meaning  (in  Gates's
+words)  that '61% of the misspellings of this word are failures on the
+
+                                                               Page 16
+
+
+"i".' In GATES.DAT, the second 'i' is  capitalized,  so  the  word  is
+shown   as   '$abilIty 61'.   Where  Gates  uses  a  small  letter  in
+parentheses above the word or at the end of the word, to indicate that
+the  children  tended  to  insert  a  letter  at that point, GATES.DAT
+contains a '%' in the $  word.   For  example,  Gates's  'aid(e)'  and
+'a(r)larm' are given as '$aid%' and '$a%larm'.
+
+     The most common misspellings are given in GATES.DAT by the  words
+beginning  with  '*'.   For example, 'abbility' accounted for 22.6% of
+all the misspellings of 'ability', and 'abilaty' for 41.9%.   This  is
+shown  as '*abbility 23' and '*abilaty 42'.  (Note that Gates does not
+give the proportion of children who spelled the word correctly.)
+
+     A few words, such as 'America'  and  'Christmas',  are  correctly
+spelt  with  an  initial  capital letter.  To avoid confusion with the
+capitals that have been  used  in  GATES.DAT  to  indicate  the  'hard
+spots',  these  words have been spelt with initial lower-case letters,
+ie 'america' and 'christmas'.
+
+     Some of the headwords are actually two words, eg 'all right'  and
+'santa  claus'.   To  indicate  that  they are to be taken as a single
+item,  they  are  joined  in  GATES.DAT  by  a  single  underline,  eg
+'all_right'.
+
+     Some of the words in Gates's book are  listed  without  any  hard
+spots  and  without  any  common  misspellings,  eg  'all'.   They are
+included in GATES.DAT merely for completeness.
+
+     There is one place where the percentage was  omitted  in  Gates's
+book,  namely  for  the  hard  spot  in "I'd"; a figure of 00 has been
+inserted here.
+
+     It would be nice to know the ages of the children who were tested
+on  each  word,  but this information is not provided.  Presumably the
+easier words were tested on younger children and the  harder  ones  on
+older  children.   From  the  figures  that Gates gives for mean grade
+placement of each word in the spelling lists (these  figures  are  not
+included in GATES.DAT), it can be estimated that the youngest children
+were aged about 7 and the oldest about 13.  However, since words  were
+probably  introduced  at  different  grades  in different schools, the
+children tested on any particular  word  will  have  been  drawn  from
+different grades and therefore been of different ages.
+
+     Gates does not say who administered the tests or who marked  them
+and  classified them.  However, I have had some correspondence with Dr
+Leonard Wheat, who was one of  Gates's  research  assistants  on  this
+study  in  the  year  1930-31.   He  tells  me  that  the  tests  were
+administered  by  the   children's   schoolteachers,   after   careful
+instruction  by the research staff.  The teachers made use of the test
+results, but  all  tests  were  evaluated  promptly  by  the  research
+assistants.   (Dr  Wheat  also confirmed that, though the scripts were
+kept for several years, it is unlikely that they still exist.)
+
+                                                               Page 17
+
+
+     The file has one line  for  each  of  Gates's  test  words.   The
+version  on tape has each line padded out with spaces to 95 characters
+- the length of the longest line plus 1.
+
+November 1984
+
+                                                               Page 18
+
+
+
+A DESCRIPTION OF THE FILE HOLBROOK.DAT
+
+
+  1. NIGEL THRUSH  page 48
+
+I have four in my Family Dad Mum and siter.  My Dad works at Melton.  My
+siter go to Tonbury. My Mum goes out some times. I go to Bridgebrook
+i go out some times on Tuesday night i go to Youth clob. On thursday nights
+I go bell ringing on Saturdays I go down to the farm. on sundays I go to
+church. I go to bed at 10 o clock I wakh TV at 5 o clock I live in a house. The
+house is in the world. I live at Boar Parva it is near Melton and Bridgebrook
+and Smallerden.  The house is white it has stone up the frount it is the first
+from Bridgebrook and the sexeon from Smallerden. My Mum is at home
+
+
+
+     The passages in HOLBROOK.DAT are taken from the book 'English for
+the  Rejected'  by  David  Holbrook, Cambridge University Press, 1964.
+They are extracts from the writings of  children  in  class  3C  of  a
+secondary   school;  the  children  were  aged  13  or  14,  in  their
+next-to-last year of schooling.  In a  couple  of  the  passages,  the
+children  were copying literary material supplied to them, but all the
+rest is their own writing.  The passages appear in the section 'Sparks
+from  a  Different  Element',  pages  44-187.  They are linked, in the
+book, by description, explanation and comment by Holbrook, and some of
+them make little sense without that context.
+
+     Holbrook introduces this section of the book as follows:
+
+     'In this section I discuss the development  towards  literacy  of
+nineteen  children  in  one  'C'  stream  class  in a secondary modern
+school, child by child.  This section is intended to convince  readers
+of  four  main contentions.  First, that so-called 'backward' children
+are not inferior beings, but are in fact  sensitive,  perceptive,  and
+full   of   deep   feelings,   ambitions  and  capacities  for  making
+contributions to human life and culture.  Second, that the best way to
+make them literate, in the fullest sense, is by imaginative work; that
+this is well within the capacities of any teacher.  Third,  that  half
+the  trouble  with  'backward' children is that they feel rejected and
+despised by teachers, the school and society - and that the  fact  is,
+unhappily, that they are so despised.  Finally, that an important part
+of our work with them must be devoted to curing them of the effects of
+feelings of failure.'
+
+     Holbrook, who was the children's English teacher,  preserved  the
+original  spelling  and  punctuation  when  he  typed the passages for
+publication.  The passages contain occasional words in square brackets
+giving  Holbrook's  interpretation  of  what  the  child  meant.   The
+children are given  fictitious  names  in  the  book,  and  these  are
+retained  in  HOLBROOK.DAT,  together  with page references, to enable
+people using this material to relate it to the book.
+
+                                                               Page 19
+
+
+     The text was put into computer-readable form, with the permission
+of  David  Holbrook  and  of  the  Cambridge University Press, via the
+Kurzweil Data Entry Machine (KDEM) of the Oxford University  Computing
+Services.   The  file  was proofread and corrected by Philip Baker and
+myself.
+
+September 1984
+
+                                                               Page 20
+
+
+
+A DESCRIPTION OF THE FILE MASTERS.DAT
+
+$absurd 85 172 194 115 28 6
+abeserbed 2 0 0
+abscered 1 0 0
+abserb 1 2 0
+abserbd 1 0 0
+abserbed 0 1 0
+abserd 9 3 2
+abserded 1 0 0
+absered 7 3 0
+abserid 0 0 1
+
+
+     MASTERS.DAT contains most of the data collected by H.V.   Masters
+in  his  research into spelling in Iowa in the 1920's.  His own report
+on it was published as "A Study of  Spelling  Errors",  University  of
+Iowa Studies in Education Vol IV No 4, 1927.
+
+     He took the commonest 5000 words  from  Ernest  Horn's  "A  Basic
+Writing  Vocabulary" and selected those that were misspelled by 40% or
+more of 8th grade pupils, according to an earlier study  by  Ashbaugh.
+In short, the test words were fairly common but fairly hard.  (Some of
+the words are not at all common in  British  use,  such  as  "alumni",
+"sorority"  and  -  a word new to me - "Chautauqua".) He put these 268
+words into a spelling test, with most of the words being read  out  in
+isolation  but some of them necessarily in a sentence of context (such
+as "customer's").  The  tests  were  sent  out  to  high  schools  and
+colleges  in  Iowa  where  they  were  administered  by  the students'
+teachers.  The tests were given to  8th  grade  students,  high-school
+seniors  and  college seniors.  Masters took a random sample of 200 of
+the returned scripts at each grade-level.
+
+     In his published report, Masters gives summary statistics for all
+the   words   plus   detailed   results  for  just  three  of  them  -
+"accommodate", "dropped" and "pneumonia".  However, he also notes that
+the  full  list of all the misspellings of all the words is on file in
+the University Library.  I obtained a microfilm of this list  and  had
+the  misspellings  of all except four of the test words keyed into the
+computer.  (The omitted words were "cooperate",  "coupe"  and  "role",
+which  Masters  spelt  with  diacritics, and "despair", which got lost
+somewhere along the line.  Incidentally, word 253 in his list in Table
+6 (page 27) is "transferred" and not, as he gives, "transformed".)
+
+     Each section of the file begins with  the  correct  spelling  (as
+given by Masters) preceded by a $ sign and followed by six numbers, eg
+
+$absurd 85 172 194 115 28 6
+
+The first three numbers give the number of correct spellings  produced
+by  the  8th  graders, the high-school seniors and the college seniors
+respectively.  (These sometimes include the number of corrrectly spelt
+derived  forms,  such  as  "affectionately"  for  "affectionate".) The
+second three numbers give the number of  incorrect  plus  unattempted.
+
+                                                               Page 21
+
+
+Then  follows  the  list  of all the misspellings of this word, in the
+order given by Masters.  Each of these is followed by  three  numbers,
+being the number of students who produced this particular misspelling,
+for 8th graders, high-school seniors and college seniors respectively.
+
+     If a spelling or misspelling contains a space, this is  given  as
+an  underline,  eg  "all_right".   For a few of the spellings, Masters
+accepted these alternatives as correct:   "basket_ball",  "cancelled",
+"cancelling", "catalogs" and "judgement".  Derived forms which Masters
+accepted as almost correct have an asterisk after the third number  on
+the line.
+
+     Masters'  definition  of  a   misspelling   was   quite   severe;
+"Catalogues"  for  "catalogues"  (upper-case  "C" for lower-case), for
+example, is counted as a misspelling.  In a few places he  included  a
+correct  spelling  in  the list of misspellings.  It seems likely that
+these were misspellings that he copied incorrectly into his report.  I
+have removed them from the file.  They were as follows:
+
+annum 0 2 0
+controversy 1 0 0
+dining 1 0 0
+ere 0 0 2
+extraordinary 0 0 1
+immensely 1 0 0
+laboratory 0 1 0
+questionnaire 0 0 1
+specimens 1 2 0
+statistics 1 0 0
+tournament 1 1 0
+
+     The keying-in was carried out by Lin Bailey,  Sheila  Hailey  and
+Barbara Whitmore of the Birkbeck College Data-preparation service.
+
+March, 1986
+
+                                                               Page 22
+
+
+A DESCRIPTION OF THE NFER FILES
+
+
+21003 10 oar 11 too 12 suns 15 wer 16 no 23 aer 25 farwoob 27 ceeing 29 agenig
++ 30 bes 31 wes 51 frnbs 52 steason 53 babys 54 wllot 55 biging 57 haf
++ 59 potaos 61 abmeteb 62 recevs !
+21016 4 comeing 13 aas 55 diging 60 dineing 61 admited 63 noticable !
+21031 6 leedes 12 suns 18 laste 25 forwored 51 fremds 52 stashon 53 babis
++ 54 wucde 55 diging 57 hof 58 veries 61 admited 62 riceved 63 notisabl !
+22001 6 lesing 9 whin 10 hoy 11 to 12 soon 15 wain 17 ther 21 kam 24 luing
++ 25 fowd 29 agon 31 wisrnt !
+22014 9 wh 15 where 23 ar 25 fwood 29 agan 30 bast 31 wishas !
+22024 4 comeing 11 tow 18 lats 29 agein 31 whishis 52 stashon 53 babys 54 warkd
+
+
+07009 6 leads 12 soon's 15 where 21 come 25 forwood 27 seen 30 beast
++ 31 whishes 51 froinds 54 walket 55 diging 57 hulf 58 veriais 59 potatos
++ 60 diying 61 admitet 62 reicived 63 notisable !
+07052 6 les 10 ow 13 so 16 no 25 friwt 29 agrin 30 bent 31 wing !
+08090 6 leed 12 sans 25 foward !
+10130 4 cameng 6 lids 10 uwer 11 to 12 suns 24 luking 25 forwoud 27 siyng
++ 29 agen 30 beast 31 weshes 51 frends 52 stashen 53 babys 54 wolkt 55 degen
++ 56 ckucen 57 haf 58 varus 59 potatos 61 udmetad 62 raseved 63 notesabl !
+10138 4 cumen 5 too 8 seindy 9 wifh 10 ar 11 too 13 afs 15 over 18 las 19 taim
++ 21 kaim 22 wi 23 ar 24 lokin 25 fowrt 26 tou 27 ceen 29 agan 31 wist 51 frens
+
+
+     These two files of data were obtained from a survey conducted  by
+the National Foundation for Educational Research (NFER).
+
+     The file NFER1.DAT contains a random sample of 83  cases  from  a
+survey  of  students  in  Adult  Literacy schemes in England and Wales
+undertaken in 1978-79  by  the  National  Foundation  for  Educational
+Research.   A  short  report  of  the  survey is given in 'A survey of
+attainment and progress of learners in Adult Literacy schemes' by T.P.
+Gorman  in  Educational  Research,  23,  3, June 1981 (pp 190-198).  A
+longer report is held in the library of the NFER.  The address of  the
+NFER is The Mere, Upton Park, Slough, Berks, SL1 2DQ, telephone Slough
+74123.
+
+     A sample of  41  Adult  Literacy  schemes,  stratified  by  size,
+city-size and geographical area was drawn from a total of 141 schemes.
+The following description is taken from the paper by Gorman:
+
+     'The initial survey commenced in December 1978 and  continued  in
+some  schemes  to  March 1979.  It involved a sample of 1,236 students
+who had enrolled during the previous six months.  The sample comprised
+about  six  per cent of the target population.  ...  The ratio of male
+and female learners was approximately 2:1 (65.5 per cent  were  male).
+Just  over  half  the  students (55.5 per cent) were between 21 and 40
+years old.  Twenty-two per cent were under 21 and  23  per  cent  over
+40.'
+
+                                                               Page 23
+
+
+     Several tests of reading and writing were given to the  students.
+The tests were administered on a one-to-one basis by the students' own
+tutors.  The tests were graded in increasing order of difficulty,  and
+students  were  allowed  to drop out if they found a test unreasonably
+difficult.  The data in NFER1.DAT was  taken  from  just  two  of  the
+tests.
+
+     For the first of these, the student was given a  sheet  of  lined
+paper  with  'Dear  Mary,'  written  in the top left-hand corner.  The
+tutor dictated this short letter which the student wrote down:
+
+     'We will be coming to Leeds on Sunday with our two sons.  As  you
+were not there last time we came, we are looking forward to seeing you
+again.
+
+                Best wishes, '
+
+     For the second of these two tests, the student was given a  sheet
+with  the  following  story  typed  on  it,  except  that the words in
+capitals were replaced by underlined gaps.  The  tutor  read  out  the
+story and the student wrote the words in the gaps:
+
+     'My FRIENDS, Joan and Arthur live near the  STATION.   They  have
+two  children,  both  still  BABIES.  Yesterday I WALKED over to their
+house to help Arthur do some DIGGING.  I was a bit late because I  had
+been  COOKING  myself  HALF  a  pound of steak and VARIOUS vegetables,
+including fried POTATOES.  I am not used to DINING on so much, it must
+be  ADMITTED,  but  I  had  RECEIVED a bonus that week and I wanted to
+celebrate.  Arthur still had not dug very much of the  garden  when  I
+got there .  In fact his progress was hardly NOTICEABLE.'
+
+     The following results are taken  from  the  full  report  of  the
+survey.   The  figures  indicate  the  percentage  spelling  the  word
+correctly; for example, out of the  850  students  who  attempted  the
+'Dear Mary' letter, 44% spelled 'coming' correctly.
+
+'Dear Mary' letter: 70% (approx 850 students) took
+this test:
+
+coming     44%     our       43%     two       50%
+sons       52%     were      42%     there     50%
+forward    31%     seeing    59%     again     37%
+wishes     36%
+
+'Joan and Arthur' test: 60%  (approx 730 students)
+took this test:
+
+friends    24%     station   29%     babies    17%
+walked     30%     digging   26%     cooking   48%
+half       33%     various    8%     potatoes  21%
+dining     23%     admitted  13%     received  10%
+noticeable  8%
+
+                                                               Page 24
+
+
+     The data for NFER1.DAT was taken from  a  random  sample  of  the
+students'  scripts.   Only  the misspellings were recorded.  No record
+was made if the student spelled a word correctly, and  no  record  was
+made of omissions.  Each case begins with the student's serial number.
+The misspellings are  then  listed,  each  preceded  by  a  number  to
+indicate  which  word  it  was  a  misspelling  of,  according  to the
+following key:
+
+     1 we, 2 will, 3 be,  4 coming,  5 to,  6 leeds,  7 on,  8 sunday,
+9 with,  10 our,  11 two,  12 sons,  13 as,  14 you,  15 were, 16 not,
+17 there, 18 last, 19 time, 20 we, 21 came, 22 we, 23 are, 24 looking,
+25 forward, 26 to, 27 seeing, 28 you, 29 again, 30 best, 31 wishes
+
+51 friends, 52 station, 53 babies, 54 walked, 55 digging,  56 cooking,
+57 half, 58 various, 59 potatoes, 60 dining, 61 admitted, 62 received,
+63 noticeable
+
+     Capital  letters  (right  or  wrong)  were  ignored.   Where  the
+misspelling  contained a space (as in 'a gane' for 'again'), the space
+has been underlined, eg 'a_gane'.
+
+     If a case goes onto a second or subsequent line, the line  begins
+with a '+', and each case ends with a '!'.
+
+     The file NFER2.DAT is just like NFER1.DAT except that it contains
+a  group  of  students  who were recorded in the follow-up survey (see
+Gorman's paper for  details)  as  being  second-language  speakers  of
+English.  No information about their first language was collected.
+
+November1984
+
+                                                               Page 25
+
+
+
+A DESCRIPTION OF THE THREE PERIN FILES
+
+
+01 6 uninplord 8 shoud 13 shechel 14 trichting 15 shemses 19 guvement 22 your
++ 24 ilnerer 27 licele 28 jobcente 31 diffunt 33 avalbal 36 cheoos 41 fire
++ 44 sport 47 expuren 50 perene 51 tiye 60 speshel 61 projexty 65 provere
++ 69 comen 70 inen 74 cereer 79 cheoos 81 cend 84 sende 88 cender 90 trine
++ 94 perine 97 aponent 99 smimi-skilled !
+$ big biggest, dimen diamond, crade crowded, hat had, dad dad's,
++ sande shoulders, dimes diamond, sise size, tenne tennis, guds guard,
++ sent said, bom bomb, event_bold everybody, guding guarding, dine diamond,
++ hat had, to too, expern experts, takeing taken !
+02 6 uninploed 8 shored 10 invege 13 spescil 14 charing 15 skeim 19 goverment
+
+
+$ 1
+south self, first ferst, we wey, it's is, last lorst, are or, over ofrer,
+work wolk, ready redy, ready rede, next metx, they thay, have haf, their there,
+make mack, carts cartes, hard harde, well wall, built bellet, takes tack,
+three tree, build bellar, torches toches, months muney, do dow, your yor,
+town tower, street stee, street steer, street sreet, licence livent,
+ambulance ambuemce, strike sricke, midnight midnigth, you yow, always lowas,
+write wrigt, headquarters headquoters, any eney, official orfechol,
+complaint conpont, usually yousel, pass pars, buck bouk, bandaging banjind,
+essential a_sencholl, thing then, use yowes, sort sot, accident accedent,
+
+
+001 AF 17 scaresly 19 inetials 38 inconvinent !
+002 AF 16 sissors 17 scarecly 18 bicycal 19 initails 35 splended 36 ventelated
++ 37 magificent !
+003 AF 17 scarley 20 receit 33 extented 35 splended 38 inconfidient
++ 39 establising !
+004 AF # !
+005 AF 18 bycycle 20 receit 24 chaptur !
+006 AF 13 pooiste 16 sissors 17 scaresly 19 initails 20 recipt 29 contended
++ 34 visted 37 magnisfcent !
+007 AF 1 engin 2 clumb 5 lugh 6 curtion 8 juces 9 poetre 10 southen 11 afful
+
+
+     The material in the files PERIN1.DAT, PERIN2.DAT  and  PERIN3.DAT
+was  supplied  by Dr Dolores Perin, who is currently (1984) working at
+the Center for Advanced Study in Education,  City  University  of  New
+York, 33 West 42 Street, New York, N.Y.  10036.
+
+     The first two files contain material collected in the  course  of
+the  research she carried out in the late 1970's for her PhD at Sussex
+University.  PERIN1.DAT contains the results of two tests given to  42
+subjects,  these  42  being  made  up of 36 fifteen-year-old boys at a
+secondary school and six men receiving Adult  Literacy  tuition.   The
+following is from Dr Perin's PhD thesis:
+
+     'The 36 boys were all pupils at  a  working  class  comprehensive
+school  in Brighton, with a mean age of 15.5 years (SD=.31).  Many had
+spelling problems, and subjects were in the middle and bottom bands of
+
+                                                               Page 26
+
+
+the fourth form.  Testing took place during the last two months of the
+school year, and subjects were among the oldest pupils in  the  school
+expecting to leave during the following year.  The head of the English
+department of the school chose  subjects  who  had  both  reading  and
+spelling difficulty of varying degrees.  Twelve of the poorest readers
+were in a remedial class and the other subjects  were  in  the  middle
+band.  All the subjects' IQs were in the normal range, ie 85 or above,
+and vision and hearing were normal.  Motivation to participate in  the
+study was high on the part of both pupils and teachers.'
+
+     'The adult literacy sample consisted of  six  men  who  had  been
+receiving  help  with  their reading and spelling through the Brighton
+Adult Literacy Campaign.  The organizers of the scheme requested  that
+permission  for  testing  be  acquired  from  both the student and his
+tutor.  ...  One subject was in his  early  twenties,  three  were  in
+their thirties, one was in his early forties and one was 58 years old.
+Once subjects overcame their initial trepidation at being placed in  a
+testing situation, motivation to participate was high.'
+
+     In PERIN1.DAT, the 36 school students are numbered 01 to 36,  and
+the  six  adult-literacy  students  37  to 42.  The first part of each
+student's results gives the misspellings they made on a  dictation  of
+the following passage (an extract from a government booklet):
+
+     'If you are aged 16-19 and unemployed you should  take  advantage
+of  the  special training schemes run by the government for unemployed
+young people.  Enquire at your local  Jobcentre  about  the  different
+schemes available.  You can choose to work for an employer on the spot
+to get experience of a particular type of job or you  can  work  on  a
+special  project.   Or  you  may prefer to work in Community Industry.
+There are also courses run to help you choose which kind of work suits
+you  best and courses to train you for a particular job at operator or
+semi-skilled level.'
+
+     Each misspelling in PERIN1.DAT is given a number  to  show  which
+word it relates to.  The words are numbered as follows:
+
+     '1 If 2 you 3 are 4 aged 16-19 5 and 6 unemployed 7 you  8 should
+9 take  10 advantage  11 of  12 the  13 special 14 training 15 schemes
+16 run  17 by  18 the  19 government  20 for  21 unemployed   22 young
+23 people.   24 Enquire  25 at  26 your 27 local 28 Jobcentre 29 about
+30 the 31 different 32 schemes 33 available.  34 You 35 can  36 choose
+37 to  38 work  39 for  40 an  41 employer  42 on 43 the 44 spot 45 to
+46 get 47 experience 48 of 49 a  50 particular  51 type  52 of  53 job
+54 or  55 you  56 can 57 work 58 on 59 a 60 special 61 project.  62 Or
+63 you 64 may 65 prefer 66 to 67 work 68 in 69 Community  70 Industry.
+71 There   72 are  73 also  74 courses  75 run  76 to  77 help  78 you
+79 choose 80 which  81 kind  82 of  83 work  84 suits  85 you  86 best
+87 and  88 courses  89 to  90 train  91 you  92 for 93 a 94 particular
+95 job 96 at 97 operator 98 or 99 semi-skilled 100 level.'
+
+     The students were tested individually, the school students during
+time  allocated  for  English  lessons, the adult literacy students in
+their own homes or in Dr Perin's home.  First, the  student  read  the
+passage  aloud,  then  the  student  copied  the passage, and then the
+
+                                                               Page 27
+
+
+student wrote the passage to  dictation.   After  the  dictation,  the
+student  was  asked to read what he had written, checking for spelling
+errors, and was permitted to  make  alterations  if  he  wished.   The
+misspellings  given  in  PERIN1.DAT  are  those  that  remained in the
+students' writing after this proofreading.  Continuation  lines  begin
+with  a  '+', and the list ends with a '!'.  A '#' means there were no
+errors.
+
+     The second part of each student's results (the part starting on a
+new line that begins with a '$') gives the misspellings that were made
+in a different test.  The  following  passage  was  read  out  by  the
+experimenter:
+
+     'There was a very big diamond, one of the biggest diamonds in the
+world.   It  was  being  shown  in  a  museum.   The museum was always
+crowded.  One day, there was a bomb scare.  Everyone had to leave  the
+museum,  even the men guarding the diamond.  When the guards returned,
+the diamond was gone.  It turned out that  thieves  pretending  to  be
+bomb experts had stolen it.'
+
+     The students were then told to  write  the  story  in  their  own
+words,  changing  or elaborating it as much as they wished.  They were
+told not to be too concerned about making  spelling  errors;  if  they
+were unsure of their spelling, they should guess.
+
+     The misspellings are listed followed  by  the  correct  spelling.
+Errors  of  capitalisation  or punctuation were generally ignored.  If
+the  spelling  contained  a  space,  the  space  is   underlined   (eg
+'evry_body'  for  'everybody').   Continuation lines begin with a '+'.
+The list ends with a '!'.  A '#' means there were no errors.
+
+     The second file - PERIN2.DAT - contains misspellings  taken  from
+the free writing of six adult-literacy students, as listed in Appendix
+XVII of Dr Perin's thesis.  She describes this material as follows:
+
+     'The writing from which these errors are  taken  was  done  in  a
+number  of  creative  writing  sessions  in  adult  literacy  classes.
+Students were greatly encouraged by their  teachers  to  write  freely
+without  being  slowed down by concentrating on correct spelling.  ...
+In the course of writing, subjects would guess at unfamiliar spellings
+and  would  occasionally  ask  the  teacher  for  assistance.  ..  Six
+students - three good readers (three men) and three poor readers  (two
+men  and  one  woman)  -  agreed to contribute a few of their original
+pieces  of  writing  for  this  analysis.   ...   The  students   were
+approached after their pieces had all been written and therefore their
+work was not influenced by knowing that it would be analyzed.'
+
+     'When it was not completely self-evident from the error what  the
+subject  had intended to write, he or she was asked to verify what the
+intention had been.  This was done soon  after  the  pieces  had  been
+written.   Repetitions  of  misspellings  were  not  included  in  the
+analysis.  If there was more than one misspelling for a word, both are
+indicated.   The errors were produced on between three and five pieces
+of writing of various lengths.'
+
+                                                               Page 28
+
+
+     In PERIN2.DAT, '$1' indicates the start of  the  first  student's
+errors,  and so on.  They are listed as in Dr Perin's appendix, namely
+the correct spelling followed by the misspelling (this  is  the  other
+way round from PERIN1.DAT).  Each student's list ends with a '!'.
+
+     The third file - PERIN3.DAT - contains the misspellings made by a
+sample  of  14-  and  15-year-olds  in five inner London comprehensive
+schools in response to a spelling test.  The tests  were  administered
+as  part of a screening procedure, to identify subjects for subsequent
+experiments - see Dolores Perin, 'Phonemic segmentation and spelling',
+British Journal of Psychology, 1983, Vol 74, pages 129-144.
+
+     The children were tested in  class  by  their  English  teachers.
+Each  test  word was read out, then given in a sentence, then read out
+again.  The words were as follows:
+
+ 1 engine     11 awful      21 planted      31 problem
+ 2 climb      12 stomach    22 reporter     32 refreshment
+ 3 because    13 opposite   23 remind       33 extended
+ 4 built      14 special    24 chapter      34 visited
+ 5 laugh      15 gallery    25 driven       35 splendid
+ 6 curtain    16 scissors   26 pretend      36 ventilated
+ 7 traffic    17 scarcely   27 understand   37 magnificent
+ 8 juice      18 bicycle    28 remember     38 inconvenient
+ 9 poetry     19 initials   29 contented    39 establishing
+10 southern   20 receipt    30 latest       40 unexpected
+
+     PERIN3.DAT contains a one-in-four sample of the scripts collected
+in  this  study.   Each child begins with a three-digit serial number.
+Then follows a code for the school (A to E) and the child's sex (M,  F
+or  ?   if  not  known).   Then  the  list  of  misspellings is given;
+continuation lines begin with a '+' and the list ends with a  '!'.   A
+'#'  means that the child made no errors.  A '..' for a spelling means
+that the child made no attempt at this word.
+
+November1984
+
+                                                               Page 29
+
+
+
+A DESCRIPTION OF THE FILES PETERS1.DAT, PETERS1A.DAT AND PETERS2.DAT
+
+
+$001 AF1 --A 0,1,2 M31 CB
+%1T
+40 beautyful !
+%1D
+28 fightend 64 round 86 sertonley 97 noisey 99 dangorous !
+%2T
+30 fawn 38 woman 39 anwer 41 oreacetra 42 eaqually 43 apreioate 44 fermilyer
+45 enfusiastic 46 sicnitsure 47 breath 48 permanet 52 espiecly 55 lecioa !
+%2D
+17 helycopter 20 scacly 21 strangled 41 beginnig 46 destinaion 53 spinng
+
+
+001
+everyons  everyone's
+dont  don't
+assembly's  assemblies
+002
+#
+004
+*
+005
+Lindas  Linda's
+
+
+001 F A32 #
+ stickin-sects  stick-insects  I never liked the * that our teacher kept
+002 F A11 #
+ #
+003 F A31 #
+ must  much  I cannot remember * about my school
+ broken  broke  the times when I * bones
+004 F A11 #
+ #
+005 F A31 #
+
+
+     The material for these files was provided by Dr Margaret  Peters,
+who  was,  until  1984, Tutor at the Cambridge Institute of Education.
+It was collected in the course of a piece  of  research  conducted  in
+Cambridge  in  the 1960's and described by Margaret Peters in her book
+'Success in Spelling', published in 1970 by the Cambridge Institute of
+Education, Shaftesbury Road, Cambridge CB2 2BX, (ISBN 9500202 3 0).
+
+     In brief, Dr Peters administered a test to all the children (over
+900  of  them)  in  the  second-year  junior classes (ie children born
+between 1 Sept 54 and 31 Aug 55)  of  the  Cambridge  Local  Education
+Authority,  in  July 1964 (so most of the children were aged nine when
+they took this first test).  In  July  1965,  she  schools  again  and
+administered  another  test  to the same children (by this time mostly
+aged ten), and in July 1966, she tested the same children  yet  again.
+These  three tests are described in her book, and it is the results of
+
+                                                               Page 30
+
+
+these tests that constitute most of the material in PETERS1.DAT.
+
+     In July 1970, Dr Peters visited the Cambridge  secondary  schools
+and  gave a further test to those same children (by now aged 15 and in
+their final year of compulsory education).  It is this  material  that
+forms the basis of PETERS2.DAT.  (Pressure of work prevented Dr Peters
+from analysing it herself.)
+
+     The material for PETERS1.DAT was collected  by  first  drawing  a
+systematic  random  sample of one-in-six of the scripts from the first
+test.  This gave 156 scripts.  The scripts of these  156  children  on
+the  second,  third  and  fourth (ie secondary school) tests were then
+obtained.  (Some of them were missing, of course, since some  children
+moved  out  of  the  area;  this applies particularly to the secondary
+school scripts.) Some details about each  child  and  a  list  of  the
+errors  they  made  on  all  the tests were then written out, and this
+information was keyed into the computer.
+
+     Each case begins with a '$'  followed  by  a  three-digit  serial
+number.  Then comes the school code (A to S - see below for the list),
+the sex (M or F) and an assessment of the  handwriting  on  the  first
+script  (1  for  good  to  5 for bad); this assessment was made by the
+people who transferred the errors from the scripts to clean sheets for
+subsequent  keying-in.   Then  comes  an  L  (child was noted as being
+left-handed) or a '-' (no note of this), a V (visual defect noted)  or
+a  '-',  and an A (auditory defect noted) or a '-'; for example, 'L--'
+means the child was noted (on the script)  as  being  left-handed  but
+there was no note of visual or auditory defect.
+
+     Next comes number of brothers, number of  sisters  and  order  in
+family;  missing  information  is recorded as -.  For the order in the
+family, 0 (nought) means the child was an only child, 1  means  he/she
+was  the  eldest,  and  so  on.   These  three fields are separated by
+commas, eg 0,1,2 (no brothers, one sister, I'm the younger).
+
+     Then comes a code for the secondary school (A to Y - see  below),
+then  the  child's  own  assessment  of  their spelling in answer to a
+question about this in the secondary school test (1 = Yes it's good, 2
+=  Middling,  3  =  No  it's  not  good) and then an assessment of the
+handwriting on the fourth (ie the secondary  school)  script  -  again
+made  by  the people who transferred the errors prior to keying-in.  A
+'-' for these fields indicates  that  this  information  was  missing,
+usually because there was no secondary school script for the child.
+
+     The final two codes on the first line of each case  indicate  the
+socio-economic  class  of  the child's family (A to E), as assessed by
+the child's  primary-school  teacher  in  their  final  year,  and  an
+assessment   of   the   child's   creative  writing,  again  by  their
+primary-school teacher, the grades meaning:
+
+A Very vivid and lively writing
+B Interesting writing
+C Writes adequately
+D Writing dull and uninteresting
+E Does not achieve written expression beyond very
+
+                                                               Page 31
+
+
+  factual and simple level
+
+As usual, a '-' indicates that the information was missing.
+
+     Each child's spelling errors are then given.   They  are  grouped
+into  eight sections - %1T (the spelling test part of the first test),
+%1D (the dictation part of the first test), similarly  %2T,  %2D,  %3T
+and  %3D,  then  %4T  (the  spelling test part of the secondary school
+test) and %4W (the free-writing part of the secondary school test).
+
+     The spelling test parts of  all  four  tests  consisted  of  some
+section  of  the following.  The word was read out, then a sentence of
+context, then the word again; the child had to  write  down  just  the
+test word:
+
+ 1 ON  Will you put the kettle on?
+ 2 HOT  The water is hot.
+ 3 CUP  Will you have another cup?
+ 4 VAN  The furniture came in a van.
+ 5 JAM  Do you like sandwiches made of jam?
+ 6 LOST  The dog was lost.
+ 7 SIT  Where will you sit?
+ 8 PLAN  I have a good plan.
+ 9 MUD  Their shoes were covered with mud.
+10 BEG  If the dog wants a biscuit it will beg.
+11 THE  The boy is here.
+12 GO  When will you go?
+13 FOR  It is not for me.
+14 SO  He went so quickly.
+15 ME  Please give it to me.
+16 ARE  They are here.
+17 OF  The father of the boy.
+18 DO  What will you do?
+19 WHO  Who are you?
+20 HERE  Put it here.
+21 SHIP  We went in a ship.
+22 FOOD  I must buy food.
+23 FIRE  Light the fire.
+24 THIN  The man was tall and thin.
+25 DATE  What is the date?
+26 CHOP  The butcher will chop the meat.
+27 SEEM  It does not seem like winter.
+28 DART  THe boy threw a dart.
+29 LOUD  His voice was loud.
+30 FORM  What form are you in?
+         The children sat on a form.
+31 EYE  Shut your eye.
+32 FIGHT  THe boy will fight.
+33 FRIEND  He is my friend.
+34 DONE  What have you done?
+35 ANY  Are there any left?
+36 GREAT  It was a great big animal.
+37 SURE  I am sure.
+38 WOMEN  The women stood and waited.
+39 ANSWER  Will you please answer my question?
+
+                                                               Page 32
+
+
+40 BEAUTIFUL  The flowers were beautiful.
+41 ORCHESTRA  The musicians played in an orchestra.
+42 EQUALLY  They shared the sweets equally.
+43 APPRECIATE  I appreciate your kindness.
+44 FAMILIAR  His face was familiar.
+45 ENTHUSIASTIC  He was very enthusiastic.
+46 SIGNATURE  He wrote his signature.
+47 BREATHE  Fresh air is good to breathe.
+48 PERMANENT  The road is permanent.
+49 SUFFICIENT  The food is sufficient.
+50 SURPLUS  These stocks are surplus.
+51 CUSTOMARY  It is customary to shake hands.
+52 ESPECIALLY  This is especially for you.
+53 MATERIALLY  It is not materially different.
+54 CEMETERY  The cemetery was cool and silent.
+55 LEISURE  His leisure was spent in the garden.
+56 FRATERNALLY  He wrote fraternally to his friend.
+57 SUCCESSFUL  The boy was successful.
+58 DEFINITE  He made a definite promise.
+59 EXHIBITION  There was an exhibition of work.
+60 APPARATUS  The apparatus was used in an experiment.
+61 MORTGAGE  The man took out a mortgage on the house.
+62 EQUIPPED  The camp was well equipped.
+63 SUBTERRANEAN  This is a subterranean tunnel.
+64 POLITICIAN  The politician spoke with ease.
+65 MISCELLANEOUS  This is a miscellaneous collection of
+                  goods.
+66 EXAGGERATE  Do not exaggerate your claim.
+67 GUARANTEE  The new car had a year's guarantee.
+68 GAUGE  The petrol gauge was faulty.
+69 DISAPPOINT  I must not disappoint you.
+70 CONVALESCENCE  The invalid's convalescence proceeded
+                  smoothly.
+71 INACCESSIBLE  The window was inaccessible.
+72 HARASSED  She was harassed by the crowd.
+73 UNPARALLELED  She was of unparalleled beauty.
+74 EMBARRASSED  He was embarrassed by the excessive praise.
+75 SYMMETRY  They admired the symmetry of the vase.
+76 ECSTASY  They danced with ecstasy.
+77 SACRILEGIOUS  It is sacrilegious to eat crisps in church.
+
+     The following words were also sometimes used.  There is no record
+of the context-sentences used for them:
+
+81 accordance      91 surplus            101 exhibition
+82 mechanical      92 exceptionally      102 affectionately
+83 anxious         93 successful         103 attorney
+84 signature       94 preliminary        104 pinnacle
+85 allotment       95 resource           105 toboggan
+86 approval        96 prologue           106 definite
+87 accomplished    97 colonel            107 guarantee
+88 remittance      98 coarse             108 anniversary
+89 financial       99 referring          109 irresistible
+90 capacity       100 courteous          110 hydraulic
+
+                                                               Page 33
+
+
+     The spelling test part of the first test used words 1 to 40.  The
+spelling  test part of the second test began at word 11; for the third
+test it began at word 21 , and for the fourth (secondary school) test,
+it  began  at  word  31.   Sometimes, if Dr Peters felt that the class
+could easily cope with the earlier words, she skipped the  first  part
+of  the  test.   This  is marked in PETERS1.DAT as, for instance, >30,
+meaning that words up to and including 30 were omitted.  How  many  of
+the  more difficult words were given varied somewhat from one class to
+another.
+
+     A '-' for a particular word in a child's results  indicates  that
+this word was given as part of the test but this child made no attempt
+to write it.  The errors are written entirely in  lower-case  letters,
+though the children often wrote in a mixture of upper- and lower-case.
+The children's handwriting was sometimes illegible; the people copying
+out  the  errors  simply  made  the  best guess they could of what the
+children had written.  A '-' for the whole test means that this script
+is  missing  for  this child.  A '#' for the test means that the child
+made no errors.  The end of the list of errors is marked by a '!'.
+
+     After the spelling test, the children  were  given  a  dictation.
+The  dictation  in  the  first  test  was  as  follows.  (Each word is
+numbered so that one can tell, given  a  misspelling  in  PETERS1.DAT,
+which word the child was trying to write.)
+
+     '1 One 2 day, 3 as 4 I 5 was 6 walking 7 down 8 Bridge  9 Street,
+10 I  11 heard  12 the  13 sound  14 of  15 trotting.   16 I 17 turned
+18 and 19 saw 20 behind 21 me 22 the 23 shaggy 24 dark  25 hair  26 of
+27 a  28 frightened  29 little 30 horse.  31 I 32 searched 33 in 34 my
+35 pockets 36 for 37 an 38 apple 39 from 40 my 41 dinner 42 to 43 give
+44 him.  '45 I 46 know 47 where 48 you 49 should 50 be,' 51 I 52 said.
+53 So 54 I 55 removed 56 the 57 belt 58 of  59 my  60 raincoat  61 and
+62 tied  63 it  64 around 65 his 66 neck 67 and 68 led 69 him 70 back.
+71 I 72 opened 73 the 74 gate, 75 and  76 with  77 satisfaction  78 he
+79 galloped  80 into 81 his 82 own 83 field.  84 I 85 was 86 certainly
+87 very 88 happy 89 that 90 now 91 he 92 was 93 safe, 94 away  95 from
+96 the 97 noisy 98 and 99 dangerous 100 traffic.'
+
+     After this dictation, Dr Peters said 'I expect you would like  to
+know  the little horse's name.  Well, first of all I will tell you his
+mother's name.  I am going to show it to you for a very short time and
+then  hide  it  and  ask you to write it from memory.' She then showed
+them a card for four seconds with the word  FLAGRANCY  on  it.   (This
+appears  in  this  section  of  PETERS1.DAT  as  word  101.)  Then she
+continued 'Very few people know the pony's name, but I do.  I will let
+you  into the secret, but you must not start writing till I say GO and
+hold up your pencils when I say STOP.' She  then  showed  a  card  for
+three  seconds with the word VAGABOND on it, and gave them ten seconds
+to write it.  (This is word 102.)
+
+     The dictation in the second test was as follows:
+
+     '1 Late 2 one 3 night 4 my 5 friend 6 woke 7 me 8 saying '9 Would
+10 you  11 enjoy  12 a 13 trial-run 14 in 15 my 16 new 17 helicopter?'
+18 I  19 had  20 scarcely  21 scrambled  22 into  23 my   24 tracksuit
+
+                                                               Page 34
+
+
+25 before  26 we  27 were  28 away.   29 The  30 lights  31 of  32 the
+33 city 34 glowed 35 beneath:  36 the 37 stars 38 above.  39 I  40 was
+41 beginning  42 to  43 wonder  44 about 45 our 46 destination 47 when
+48 I 49 caught 50 sight  51 of  52 the  53 spinning  54 knife  55 edge
+56 and  57 the  58 surface  59 of 60 what 61 must 62 have 63 been 64 a
+65 type 66 of 67 flying 68 saucer 69 whistling 70 round 71 us.   72 We
+73 dodged 74 skilfully 75 to 76 avoid 77 an 78 accident.  79 To 80 our
+81 relief, 82 the 83 spacecraft  84 regained  85 height  86 and  87 we
+88 sank  89 down  90 to  91 earth  92 and 93 the 94 comfortable 95 bed
+96 I 97 had 98 never 99 actually 100 left.'
+
+     After the dictation, Dr Peters held up cards  for  three  seconds
+each  with  these words on:  FRUIT (word 101), FIELD (word 102), LODGE
+(word 103).  She then spoke these three words:  SUITABLE  (word  104),
+BELIEF (word 105) and HEDGE (word 106).
+
+     The dictation in the third test was as follows:
+
+     '1 A  2 peculiar  3 shape  4 was   5 approaching   6 from   7 the
+8 southern   9 valley.   10 Gradually  11 they  12 distinguished  13 a
+14 recently 15 designed  16 aeroplane  17 circling  18 above.   19 The
+20 machine   21 touched  22 down  23 with  24 precision  25 in  26 the
+27 rough  28 mountainous  29 region  30 without  31 even   32 scraping
+33 its  34 surface.   35 The 36 children 37 surrounded 38 the 39 pilot
+40 who 41 explained 42 that 43 his 44 altimeter 45 and  46 temperature
+47 gauge  48 were  49 damaged  50 and 51 he 52 was 53 anxious 54 about
+55 increasing 56 altitude 57 in  58 these  59 freezing  60 conditions.
+61 From  62 the 63 alpine 64 school 65 he 66 telephoned 67 his 68 base
+69 requesting 70 spare 71 instruments 72 to 73 be 74 delivered  75 and
+76 fitted   77 immediately.    78 The   79 children  80 viewed  81 the
+82 repairs  83 with  84 enthusiasm,  85 especially   86 when   87 they
+88 were   89 taken   90 in  91 groups  92 for  93 an  94 unforgettable
+95 flight 96 before 97 the 98 pilot's 99 final 100 departure.'
+
+     In  transferring  the  errors  from  the  dictations,  errors  of
+punctuation were generally ignored, as were errors of word-division in
+'raincoat', 'trial-run', 'spacecraft' and 'tracksuit'.  Uncrossed  t's
+were  not  counted as errors, and inserted words were ignored, such as
+'type of a flying  saucer'  for  'type  of  flying  saucer'.   If  the
+misspelling  contained  a  space,  this  is marked by an underline, eg
+'a_prochin' for 'approaching'.
+
+     Some of the children's efforts were largely illegible, often with
+phrases  missed  out,  so that it was not always possible to say which
+words the child was trying to  write.   The  people  transferring  the
+errors  simply  did the best they could.  No effort was made to record
+which words were omitted, and errors  were  not  recorded  if  it  was
+impossible to see which words in the dictation they corresponded to.
+
+     There was no dictation in the  fourth  (secondary  school)  test.
+Instead,  the  children  were  asked  to  write,  for  ten minutes, on
+'Memories of my primary school'.  The errors from  these  compositions
+are given in PETERS1.DAT in the section beginning %4W.  They are given
+in the following form:
+
+                                                               Page 35
+
+
+misspelling   correct_spelling   some context
+
+eg rember   remember   Also I * the boys there
+
+The '*' in the context indicates where the misspelling  came.   As  in
+the  dictations,  an  underline  in  the  misspelling  (or the correct
+spelling) indicates a space, eg
+
+any_way   anyway   we got caned *
+infront   in_front   show people up * of others
+
+Where it was not clear what word was intended,  the  correct  spelling
+may be preceded by a '?'.  For example:
+
+ctans   ?curtains   there were these *
+
+Proper names were ignored except where  the  context  made  it  fairly
+clear what the spelling should be; for instance, 'a boy called Lenard'
+should probably be 'Leonard' but one cannot be sure,  whereas  'a  day
+trip to Lester' seems almost certain to be 'Leicester'.
+
+     If the context contained a misspelling,  the  misspelt  form  has
+been recorded in the context.  For example:
+
+assemberly   assembly   we had * ever morning
+ever   every   we had assemberly * morning
+
+     Errors of punctuation were generally ignored, including errors of
+capitalisation  such  as  'mr  smith'  for  'Mr  Smith'  and misplaced
+possessive apostrophes as in "teachers' name"  for  "teacher's  name".
+Misspellings  including  apostrophes  were  included,  however, if the
+child had produced quite the wrong form of the word, as  in  "memory's
+of primary school".
+
+     A '-'  indicates  that  this  section  was  missing,  and  a  '#'
+indicates that there were no misspellings.  A '!' indicates the end of
+the list.
+
+     The file PETERS2.DAT is taken entirely from the secondary  school
+material.   It  contains  misspellings  from  all the secondary school
+scripts that were  left  after  the  ones  for  PETERS1.DAT  had  been
+removed.
+
+     Each case begins with a three-digit serial  number,  followed  by
+the  child's  sex  (M, F or '?' for those cases where it was not clear
+from the name).  Then comes a code for  the  school  (A  to  Y  -  see
+below),  the  child's own assessment of his/her spelling (1 = Yes it's
+good; 2 = Middling; 3 = No it's not good), and an  assessment  of  the
+child's  handwriting  made  by  the  people who transferred the errors
+(from 1 for good to 5 for bad).
+
+     Following this, and on the same line, are misspellings  that  the
+child  made  on words 31 to 40 (see above) of the spelling test.  (The
+words are numbered 1 to 10, ie 'eye' is word  1  to  'beautiful'  word
+10.)  In  the  few  cases  where  a  second  line  is needed for these
+
+                                                               Page 36
+
+
+misspellings, the second line begins with a  '+'.   A  '#'  means  the
+child got all 10 words right.  A '..' for a particular word means that
+the child made no attempt at it.
+
+     Then follow the misspellings from the free  writing,  transferred
+in  the  manner  described  above.   Each of these lines begins with a
+space.  A '#' means there were no misspellings in the free writing.
+
+     The schools are identified by letters as follows:
+
+1) Primary
+
+A  Arbury         B  Brunswick       C  Milton Road
+D  Priory         E  Queen Edith's   F  Romsey
+G  St Alban's     H  St Andrew's     J  St Philip's
+K  Morley         L  Fawcett         M  Colville
+N  Grove          O  Mayfield        P  Newnham Croft
+Q  Park Street    R  St Luke's       S  St Paul's
+
+2) Secondary
+
+A  Cambridgeshire High   B  St Bede's   C  Coleridge
+E  Ely                   G  Grammar     H  Chesterton
+I  Impington             M  Manor       N  Netherhall
+O  Soham                 P  Perse       S  Sawston
+T  Cottenham             Y  St Mary's
+
+
+
+November1984
+
+
+
+SUPPLEMENT  March 1985
+
+     A few changes have been made since the files, as described above,
+were  submitted  to the Oxford Text Archive.  Some alterations, mostly
+additions of errors-containing-spaces, have been made to  PETERS2.DAT.
+This   was  necessary  because  it  was  found  that  the  people  who
+transferred the errors from the scripts, who did different sections of
+the  file,  had  treated  errors  of this type differently.  The other
+change is the creation of PETERS1A.DAT.  This  is  a  list  of  errors
+concerned  with  apostrophes  taken from the 4W scripts of the PETERS1
+sample.  The errors are written in the form wrong-version followed  by
+right-version.    A  '*'  means  that  the  composition  contained  no
+apostrophes or places for apostrophes; a '#'  means  that  there  were
+some places for apostrophes (one or more) and they were all correct.
+
+                                                               Page 37
+
+
+A DESCRIPTION OF THE FILE SHEFFIELD.DAT
+
+
+ABILITY             ABILTY
+ABROAD              ABRAOD
+ACADEMIC            ACEDEMIC
+ACCESSION           ACCESION
+ACCOMMODATE         ACCOMODATE
+ACCORDANCE          ACORDANCE
+ACCURATELY          ACCRUATELY
+ACHIEVED            ACIEVED
+ACHIEVED            ACCHEIVED
+ADDITIONAL          ADDITONAL
+
+
+     SHEFFIELD.DAT contains 384 misspellings,  mostly  typing  errors,
+derived  from  either typewritten or terminal input and collected from
+the staff and students of the Department of Information Studies at the
+University  of  Sheffield as part of a piece of research into spelling
+correction.  The work is described in 'Automatic  spelling  correction
+using  a  trigram similarity measure' by Richard C.  Angell, George E.
+Freund and Peter Willett, Information Processing and  Management,  Vol
+19  No 4, 1983, pages 255-261.  The correct spelling is in "columns" 1
+to 20, the misspelling in 21 to 40, all in upper case.
+
+January 1985
+
+                                                               Page 38
+
+
+
+A DESCRIPTION OF THE FILE UPWARD.DAT
+
+Eastwood  Estwood
+Hitler  Hitlar
+I'd  I'ld
+I've  Iev
+Ireland  Irland
+Rolls  rowles
+Scots  Scotts
+a_few  afew
+a_little  alittle
+a_long [time]  along [time]
+
+
+     This file was supplied by  Christopher  Upward  of  the  Dept  of
+Modern  Languages, Aston University and is described in an unpublished
+paper entitled 'Patterns of spelling mistake  in  traditional  English
+Orthography'.  Mr Upward's address (1985) is:
+
+       Department of Modern Languages,
+       Aston University,
+       Gosta Green,
+       Birmingham B4 7ET
+
+     In his paper, Mr Upward gives the following introduction  to  the
+material:
+
+'The following observations derive from analysis of 163 questionnaires
+completed  by  a  cross-section of fourth-year pupils (average age 15,
+50%  of  each  sex)  at  a  Nottingham  comprehensive   school.    The
+questionnaires  were  originally  completed  as  part  of  a survey of
+teenage attitudes conducted by Cyril Simmons, Lecturer in Education at
+Loughborough  University  of Technology, using the unfinished sentence
+technique.  Since they were anonymous and not designed to  elicit  any
+linguistic  information,  the  linguistic  data  they  provide  has  a
+spontaneous,  natural  quality,  free  from  the  possible  distorting
+effects of tests explicitly conducted for linguistic purposes.
+
+'The aim of the analysis was  to  establish  the  commonest  types  of
+spelling  mistake and their approximate relative frequency.  Numerical
+assessment of the  data  is  necessarily  rather  imprecise,  for  the
+following  reasons:   concentration of illegible words in answers from
+the least  literate  respondents  probably  led  to  non-recording  of
+mistakes  in such cases; apparent slips of the pen were counted or not
+counted as spelling mistakes at  the  assessor's  discretion;  ...   ;
+errors  repeated  by  the  same  respondent were normally counted only
+once, with the result that consistent errors,  occasional  errors  and
+once-only  errors  were  not  distinguished  numerically; on the other
+hand, varied misspellings of the same word by the same respondent were
+separately  recorded;  ...   Figures  for  error  frequency  therefore
+indicate not  the  number  or  proportion  of  occasions  on  which  a
+particular  misspelling occurred, but the approximate number of pupils
+out of 163 who were prone (however frequently or infrequently) to make
+a given error (rather than to misspell a given word).
+
+                                                               Page 39
+
+
+'Whatever  general  validity  the  results  may  have,  the  following
+sociolinguistic  factors must be taken into account before generalised
+conclusions are drawn:
+
+1.  All the respondents belong to one age-group (15), and the patterns
+of  error  they  demonstrate  cannot be assumed to be typical of, say,
+primary school pupils or mature adults.
+
+2.  The respondents were all resident in a suburb  of  Nottingham  and
+attended the same comprehensive school.  Certain lexical peculiarities
+of the area are evident; it is probable that some  errors  echo  local
+pronunciation, and some replies indicate non-native ethnic origins.
+
+3.  The sentences  the  respondents  were  invited  to  complete  were
+designed  to  elicit  personal  opinions,  feelings  and attitudes; in
+consequence the lexis is highly repetitive and restricted in range.
+
+4.  The respondents were under no pressure to write  'correctly',  and
+there  was  no  sign  of  conscious  attention  to  the formalities of
+sentence structure, punctuation or use of the upper case; in fact many
+answers  had  the  flavour  of  verbatim  transcription of an informal
+spoken monologue, rather than of prose composition.'
+
+     In  his  paper,  Mr  Upward  presents  the  errors   in   various
+categories.   In  UPWARD.DAT,  however, they are all in one long list.
+Each line contains the correct  spelling,  followed  by  one  or  more
+misspellings  of  that word.  The numbers, as explained above, are the
+number of respondents who made that error at least  once.   Where  the
+correct  version  or the error contained a space, this is marked by an
+underline, eg 'million_air'.
+
+     The file was keyed in by Philip Baker.
+
+
+
+April 1985
+
+                                                               Page 40
+
+
+
+A DESCRIPTION OF THE FILE WING.DAT
+
+
+$ Type 1 : Slips
+$ 01
+intele intellect   pursuit of individual * it must not
+censorsored (censored)   must not be * by the sponsorship
+likly (likely)   which is more * to succeed than
+An (Any)   is an individual * fruitless individual research
+resarc research   an fruitless individual * being immediatly curtailed
+immediatly (immediately)   individual research being * curtailed Because we
+prodi producing   other way of * the results An
+wull will   questions as i  * state below how
+
+
+     This file is the one described and published in 'Spelling  errors
+in  handwriting:   a  corpus and a distributional analysis' by Alan M.
+Wing and Alan D.  Baddeley, published in the book 'Cognitive Processes
+in Spelling', edited by Uta Frith, Academic Press 1980, pages 251-285.
+The following are extracts from that paper:
+
+     'The errors ..  were all those found in the exam scripts of forty
+male,  secondary  school candidates applying for entrance to Cambridge
+colleges in engineering, mathematics or natural  sciences.   The  exam
+was the General Paper of November 1976 and candidates were required to
+give essay-type answers to three self-selected questions.  These  were
+marked  by  the  examiners  in  terms  of  the  candidates' ability to
+formulate cogent  arguments  and  to  express  themselves  clearly  in
+written   English.    Three   hours   were  allowed  for  writing  the
+examination.
+
+     'After the scripts were no  longer  required  by  the  examiners,
+forty  were  selected  at  random.   A small proportion of the scripts
+where there was reason to suspect that the candidates did not  possess
+British English as first language were excluded.  ...
+
+     'Each script was scrutinised for errors  by  two  people  working
+independently.   ...   In  searching  for  errors the scrutineers were
+instructed to record any word that deviated from the spelling  of  the
+Oxford  Concise  English  Dictionary.   Apparent errors which could be
+attributed to poor letter formation rather than wrong letters were not
+included;  this  exclusion was particularly relevant to practices of a
+shorthand  nature  such  as  contraction  of  'ing'  into  a  downward
+squiggle.   A  deviation  was  recognised  even  if the error had been
+corrected by the candidate.  In such cases the erroneous  version  was
+recorded  as  the  sequence  of  letters  up to the point at which the
+correction was made.
+
+     'For every error, the scrutineer noted the target intended by the
+candidate,  the  three  words  preceding the error and the three words
+following the error.   ...   In  addition  ..   the  scrutineers  were
+required  to  classify  each error as a slip or as a convention error.
+An error was categorised as a slip  if  (a)  it  was  changed  to  the
+correct  spelling  or (b) if uncorrected, the correct form of the word
+
+                                                               Page 41
+
+
+occurred at least once elsewhere in the script.  Otherwise  the  error
+was  categorised  as a convention error.  [A 'convention error' is the
+kind of error produced  by  someone  who  is  unsure  of  the  correct
+spelling.  - RM.]
+
+     'The two lists of errors for each script were checked against the
+script  by  the  first author [Dr Wing] as he keyed them into magnetic
+disc storage files on a computer.  A computer print-out of the  corpus
+was  subsequently  given  to the scrutineer who had worked through the
+majority of the scripts and she checked  it  for  errors  against  the
+original scripts.
+
+     ...
+
+     In the file, the spelling errors are 'separated into two classes:
+slips   (Type   1)  and  convention  errors  (Type  2).   Within  this
+classification each candidate's errors (including targets and context)
+are  grouped  together  in  the sequence in which they occurred in the
+script.  For each error the erroneous form of the word is given  first
+as  it  was  written up to the break in the written trace at which the
+error was corrected, if a correction was attempted.  The  target  form
+of the word is then given.  If shown in parentheses, no correction was
+attempted by the candidate.
+
+     'When the target for a Type 1  error  is  shown  misspelled  this
+indicates  a  slip  was made in producing a Type 2 (convention) error.
+The latter would thus also be listed under Type 2  errors  [unless  it
+occurred elsewhere correctly spelled].  Some of the Type 2 targets not
+in parentheses appear misspelled.  This  indicates  that  the  initial
+misspelled  version  was changed, but to another incorrect form of the
+word as shown.
+
+     'The context comprises the three words written immediately before
+the  error  and  the  three  words written immediately after the error
+separated by a '*'.  In the context letters or  words  in  parentheses
+indicate  items  in  the script deleted by the candidate.  Punctuation
+marks are not indicated although sentence boundaries are  identifiable
+by  the initial capital letter.  The abbreviations SQ and EQ stand for
+start and end of the candidate's answer to a question.'
+
+
+
+
+     The file WING.DAT differs slightly from the published version  of
+the corpus.  The lines that begin each section (Type 1 and Type 2) and
+the lines with the candidates' serial numbers now  all  begin  with  a
+'$'.  Lines in the original file were a maximum of 65 characters long,
+which made some of the contexts overrun onto a second line; each entry
+now fits on one line - the longest is 91 characters.
+
+     Users of this file should note the emphasis on handwriting slips.
+Many  of  the error forms in the Type 1 section are fragments of words
+rather than spelling errors in the ordinary sense.  For example, if  a
+candidate  began  writing 'benefit' as 'bef' and then stopped, crossed
+out the 'bef' and wrote 'benefit', this is recorded in the file as:
+
+                                                               Page 42
+
+
+bef benefit
+
+If he did not correct it, but  indicated  that  he  knew  the  correct
+spelling by writing it correctly elsewhere, this would appear as:
+
+bef (benefit)
+
+in the Type 1 section.  If he wrote 'bef' for 'benefit'  and  did  not
+correct  it  and  did  not  write  it correctly elsewhere, it would be
+counted as a convention error and appear in the Type 2 section.
+
+     Users  should  also  note  that  the  'target',   when   not   in
+parentheses,  is  the  letter-string  that  the  candidate intended to
+write, not necessarily the correct spelling.  In fact, in some of  the
+Type  2 errors, the candidate had already written the correct spelling
+but changed it to a wrong spelling, thus giving rise to  entries  such
+as:
+
+acquire aquire
+
+where 'acquire' (the 'error-form') is how it was before he 'corrected'
+it and 'aquire' is the target - what he changed it to.
+
+
+
+
+January 1985
+
+                                                               Page 43
+
+
+
+A DESCRIPTION OF THE FILE ABO.DAT
+
+
+$V C F  Vasa Composition Finns
+caugt caught, choped chopped 7, senery scenery, tak take, thougt thought 2,
+tought thought 3, tim time, wam warm, beatiful beautiful 2,
+beateful beautiful 4, brough brought 2, carring carrying, desing deciding,
+dive drive, fishs fishes, fishig fishing, fishin fishing, mus must 2,
+notced noticed, thaugh thought, waten waiting, waitin waiting, gung gun 2,
+hade had, musto must, riffle rifle, suddently suddenly, theey they,
+throught through 2, tirde tired, tride tired, fiwe wife, whit with,
+beging begin 2, game came, garried carried, chup chop, shop chop 2,
+gold cold 2, koked cooked, gottage cottage 11, decidet decided, decited decided,
+
+
+     This file consists of data supplied by Dr Rolf  Palmberg  and  Dr
+Hakan Ringbom of the Abo Akademi, Finland.  Their addresses are:
+
+Dr Rolf Palmberg,           Dr Hakan Ringbom,
+Pedagogiska Fakulteten,     Engelska Institutionen,
+Kyrkoesplanaden 12-14,      Fanriksgatan 3,
+65100 Vasa 10,              20500 Abo 50,
+Finland                     Finland
+
+     The data consists  of  misspellings  of  English  words  made  by
+Finnish-speaking  Finns  and  Swedish-speaking  Finns,  collected in a
+series of tests conducted in the 1970s.
+
+     Each section of  the  file  begins  with  a  line  beginning  '$'
+followed by a few symbols:  V means Vasa, 1 means 1971 (2 1972, and so
+on); C means Composition, G means  Grammar  and  Vocabulary,  T  means
+Translation; F means Finnish-speakers and S means Swedish-speakers.
+
+     The 'Vasa' material comes from tests given to first-year students
+at  a  commercial  college  in Vasa, who had studied English for about
+five years.  The test and the results are described in a paper by  Tom
+Granfors and Rolf Palmberg, 'Errors made by Finns and Swedish-speaking
+Finns learning English  at  commercial-college  level',  published  in
+AFTIL 5, 1976, pages 14-53 (Abo Akademi).
+
+     For the 'Composition', the  students  were  given  a  comic-strip
+(without  words)  and were told the story in their own language.  They
+then had to write the story in English.  The other Vasa sections  were
+presumably taken from other tests given to the same group of students.
+
+     The rest of the data comes  from  tests  given  as  part  of  the
+entrance  test  to  the Department of English of the Abo Akademi.  The
+candidates were fairly advanced students who had studied  English  for
+7-8  years  and  had  already  achieved  a  high  mark in the national
+matriculation examination in English.  Some of this data is  described
+and  analysed  in  'Spelling  errors  and  foreign  language  learning
+strategies' by Hakan Ringbom, published in 'Papers from the Conference
+on  Contrastive  Linguistics  and  Error  Analysis',  ed  Palmberg and
+Ringbom, Research Institute of the Abo  Akademi  Foundation,  Vol  19,
+
+                                                               Page 44
+
+
+Abo, 1977.
+
+     In  the  file,  each  misspelling  is  followed  by  the  correct
+spelling;  if  the misspelling occurred more than once in this section
+of  the  data,  the  number  of  occurrences  is  given  next.    Some
+clarification  may  then be given in square brackets.  If the error or
+the correct spelling contained  a  space,  this  is  indicated  by  an
+underline,  eg  'shot_gun'.  Each entry is terminated by a comma.  The
+final entry in each section ends with a full-stop.
+
+     The file was keyed into the Birkbeck College computer  by  Philip
+Baker.
+
+March 1985
+
+                                                               Page 45
+
+
+A DESCRIPTION OF THE FILES APPLING1.DAT AND APPLING2.DAT
+
+
+$Punjabi
+strang  strange  I felt very *
+brake  break  at * time
+brack  break  when the * was finished
+weanter  winter  in the * when it was snowing
+gost  ghost  I thought it was a *
+expect  except  everything * the houses
+$Tamil
+steped  stepped  when I first *
+streagh  strange  and saw * colow people
+
+
+$Urdu
+visit visited
+magnefision magnificent
+aposit opposite
+galleroy gallery
+spenlid splendid
+purpal purple
+cartin curtains
+wrot wrote
+politray poetry
+
+
+     The files APPLING1.DAT and APPLING2.DAT contain errors written by
+foreign  learners  of English.  They were collected by students in the
+Department of Applied Linguistics of Birkbeck College in the course of
+their  work  as teachers of English.  The learners' command of English
+varied  from  lower  to  upper  intermediate.   Each  learner's  first
+language is recorded in the files on lines beginning with a '$'.
+
+     APPLING1.DAT contains errors from free writing, in the format:
+
+misspelling  correct_spelling  a few words of context
+
+     APPLING2.DAT contains errors from dictations and a spelling test.
+The  dictations  were  the  same  as the one used in the CHES (see the
+description of the CHES file) and the one used in the NFER survey (see
+the  description  of the NFER files).  The spelling test included some
+of the words from the PETERS test, and some of those from PERIN3.
+
+     Paul Meara helped to arrange  the  exercise,  and  the  following
+students collected the data:
+
+B. Buxton,
+S. Court,
+Elizabeth Goldman,
+Janet Robertson,
+Pauline Withers
+
+
+September 1985
+
+                                                               Page 46
+
+
+A DESCRIPTION OF THE FILE BLOOR.DAT
+
+
+Baccalaureate 4 bacalaureat baccaloureot
+basketball 1 baskett_ball
+beautiful 3 beautifull
+chose 1 choose
+course 1 cours [degree *]
+coast 1 cost cats [the north * of Algeria]
+desire 1 desir decir [I * to finish my education]
+discotheque 1 discotec discothec
+engineering 4 engeneering
+English 1 enlgish
+
+
+     The file BLOOR.DAT was supplied by Meriel Bloor of  the  Dept  of
+Modern  Languages,  Language  Studies Unit, University of Aston, Gosta
+Green, Birmingham B4 7ET.
+
+     The list comes from a corpus of written English  by  12  Algerian
+students  entering  an  English  Language course in Britain.  It forms
+part of an error analysis exercise conducted by  some  students  on  a
+Master's degree course.
+
+     The Algerian students were Arabic speakers, but most of them  had
+a  good knowledge of French which they had used for academic purposes.
+They had  all  studied  English  in  secondary  school  as  a  foreign
+language.  Their level of English was lower to middle intermediate.
+
+     Each line of the file gives the correct spelling, then the number
+of  students  who  misspelled  the  word (not the number of times they
+misspelled it), then the misspelling(s) they made, sometimes  followed
+by  the  co-text  in square brackets, in which a * indicates where the
+word came.
+
+November 1984
+
+                                                               Page 47
+
+
+A DESCRIPTION OF THE FILE EXAMS.DAT
+
+
+$ARGENTINA
+001
+prepearing  preparing
+goverment  government
+diplomatic  diplomat [n]
+arrived  arrive [inf]
+settled  settle [inf]
+comming  coming
+rithm  rhythm
+bolss  ?waltz
+
+
+     This  file  contains  spelling  errors  taken  from  compositions
+written  in  English examinations by students in each of the following
+countries:   Argentina,  Brunei,  Egypt,  France,   Germany,   Greece,
+Holland,  Italy,  Jamaica, Japan, Mauritius, Mexico, Norway, Portugal,
+Singapore, Spain, Sweden and Zimbabwe - a total of eighteen countries.
+(Jamaica  was  included  because  the  data  happened to be available,
+though English is not as foreign a language to Jamaicans as it  is  to
+natives of the other countries in the list.)
+
+     Fifty or 100 scripts were taken from each country, generally from
+three  or  four  examination centres in the country.  The examinations
+were the Cambridge Overseas  School  Certificate  (Argentina,  Brunei,
+Mauritius,  Singapore, Zimbabwe), the General Certificate of Education
+'Ordinary'  level  (Egypt  and  Jamaica),  and  the  Cambridge   First
+Certificate in English (all the rest).
+
+     The  scripts  contained  no  explicit   information   about   the
+candidates'  mother  tongues  but  the  great majority were presumably
+natives of the country in which  they  were  taking  the  examination.
+Candidates  were  not  included  if  it seemed likely, on the basis of
+their names, that they had been born in another country.  For example,
+a  person  with  an apparently Vietnamese name was eliminated from the
+Norway file as was someone with a Portuguese name  from  the  Japanese
+file.
+
+     There is a  separate  section  for  each  country,  each  section
+beginning  with the name of the country preceded by a "$" (eg $SPAIN).
+Within each section, each script is assigned a  number  starting  with
+001.   (These  numbers  do  not,  of  course, bear any relation to the
+candidates' examination numbers.) In the case of Brunei and  Singapore
+only,  C  or  M  after  the  number indicates that the candidate had a
+Chinese or Malay name; this information  was  recorded  in  the  files
+because  the  difference  of  mother  tongue might be reflected in the
+kinds of errors made in English.
+
+     Each error occupies a single line.  The standard layout is:
+
+incorrect_spelling  correct_spelling
+
+Where the incorrect spelling of word X happens to  correspond  to  the
+
+                                                               Page 48
+
+
+correct  spelling of another word, the context is usually given on the
+right, with the misspelling replaced by a '*'.  For example:
+
+brake  break  those who * the law
+
+Alternatively, the word class of the intended word  is  given  between
+square brackets, eg [v] verb, [n] noun, etc.  For example:
+
+robe  rob [v]
+
+Where the same error occurs two or more times within a script,  it  is
+included  only  once but the number of repetitions is indicated on the
+right, as in:
+
+saied  said  4
+
+     Errors  involving  incorrect  use  of  the  hyphen,  faulty  word
+division,  etc.   are treated as spelling errors.  Space between words
+is indicated by an underline.  Examples:
+
+broom_thick  broomstick  as thin as a *
+old_fashioned  old-fashioned
+welknown  well-known
+
+     Where British and U.S. spelling conventions differ,  British  has
+been  taken as correct.  It may be that in several of these countries,
+most notably those of central and South America,  U.S. spelling  might
+be  considered  more  'correct'  than  British; on the other hand, the
+examinations were being administered by British examination boards.
+
+     Sometimes there is no single word to which the error corresponds;
+the student has either written an inappropriate word or has invented a
+word that doesn't exist.  Though these are not really spelling errors,
+they  have  sometimes  been  included.   A  00  is put in place of the
+correct word, and an interpretation given in square brackets, as in:
+
+no  00 ["any"]  hardly * turists
+
+spectacularity  00 ["spectacular event"]
+
+     Note that, where an incorrectly spelt word occurs as part of  the
+context  for  another  word,  it is quoted as written, as is "turists"
+here.
+
+     Where it is  not  clear  what  word  was  intended,  the  correct
+spelling  may  be  preceded by a question mark; occasionally, there is
+only a question mark, indicating that no  reasonable  guess  could  be
+made.
+
+     In the scripts of several countries, notably  Brunei,  Mauritius,
+Singapore  and  Zimbabwe,  certain  kinds of error occurred with great
+regularity.  For example, verbs were frequently not  marked  for  past
+and  nouns  in  the plural often lacked final -s.  Since there were so
+many of these, and since they were perhaps errors  of  grammar  rather
+than  of  spelling, they were generally recorded only in the first two
+
+                                                               Page 49
+
+
+or three  scripts  from  a  country  and  ignored  in  the  remainder.
+Somewhat  similar  was the addition of plural endings to adjectives in
+some scripts from Spanish and French speaking students  (as  in  "bigs
+houses").   Where  such  errors  occurred  with  great  frequency in a
+particular script, only the first few were recorded.  One error  found
+in all eighteen countries was the use of "people" with a singular verb
+- "people says".  For each  country,  only  the  first  two  or  three
+examples of this error were recorded.
+
+     The  scripts  were  made  available  for  this  exercise  by  the
+University   of   Cambridge   Local  Examinations  Syndicate  and  the
+University  of  London  Schools  Examinations  Board.   The  task   of
+extracting  the  errors  from  the  scripts  and  keying them into the
+computer was carried out by Philip Baker.
+
+
+
+September 1985
+
+                                                               Page 50
+
+
+
+A DESCRIPTION OF THE FILE SUOMI.DAT
+
+$F1T1
+accidet  accident, becourse  because, beck  beg, pake  beg 2, peck  beg,
+peg  beg, blac  black, calour  colour, calors  colours, coast  cost,
+coasts  costs, costes  costs, couble  couple, du  do 2, drowe  drove,
+excause_me  excuse_me 2, excouse_me  excuse_me, excusema  excuse_me,
+finde  find, Finnland  Finland 2, Finish  Finnish, godbay  good-bye,
+godby  good-bye, godbye  good-bye, goodbay  good-bye 2, goodbuy  good-bye 2,
+goodby  good-bye, handel  handle, happend  happened,
+introduse  introduce, litle  little, litlle  little, lov  low,
+motorcykle  motorcycle, mucht  much, paar  pair, baden  pardon,
+
+
+     SUOMI.DAT contains the data from an  M.A.   thesis  submitted  by
+Riitta  Suomi  at  the  Abo  Akademi,  Finland,  1984.   The thesis is
+entitled 'Spelling errors and interference errors in English  made  by
+Finns  and  Swedish-speaking  Finns  in  the 9th form of comprehensive
+school'.
+
+     The errors were taken from test  papers  written  by  60  Finnish
+speakers  and  45  Swedish speakers, aged 15-16 years, who had had 6-7
+years of English at school.  They did  about  16  hours  per  week  of
+English.  The students are divided into F1 (30 Finnish students in the
+'extensive set' - I think this means a more advanced  class),  F2  (30
+Finnish  students in the 'intermediate set'), S1 (30 Swedish-speaking,
+extensive set) and S2 (15 Swedish-speaking, comprising 7  intermediate
+and 8 others).
+
+     The errors were taken from two tests (T1, taken by groups  1  and
+2,  and  T2,  taken  by  group  1  only).   The tests were part of the
+nationwide general proficiency test in English from 1981.
+
+     The first test consisted of short dialogues written  in  English,
+with  some  parts  in  the  students'  own  language,  with gaps.  The
+students read these dialogues  and  wrote  the  appropriate  words  or
+sentences of English in the gaps.  The following is one of them:
+
+'It is April and Meg wants to buy a pair of new shoes.
+She goes to a department store.
+Assistant: "Good morning.  May I help you?"
+Meg: "............................................."
+     Jag skulle vilja ha ett par lagklackade skor.
+Assistant: "Shoes with low heels are over there.
+            These brown ones are very nice."
+Meg: "............................................."
+      Jag tycker inte om den har fargen.
+Assistant:  "We also have them in blue."
+Meg:  "They look nice.  ..........................."
+                        Far jag prova dem?
+Assistant:  "Of course.  Do they fit?"
+Meg:  "Yes, I like them.  I'll take them.
+      ..................................."
+      Var kan jag betala?
+
+                                                               Page 51
+
+
+Assistant:  "Over there at the cash desk."
+
+     The second test consisted of a series of 'mini-dialogues',  which
+were  read  out  in  English.  Each was read out twice, the first time
+straight through and the second time with questions (in the  students'
+own language) to which the students had to write answers.  This is one
+of them, followed by the questions:
+
+A:  Would you like some cheese-pie?  I just made one.
+
+S:  Thank you, yes I'd love a piece of it.  Oh, how
+    delicious.  Can I have another slice?  How do you
+    make it?  Could I please have the recipe?
+
+A:  Yes, it's quite easy.  All you need is flour,
+    butter, salt, pepper, cold water, one large onion,
+    eggs, milk, bacon, tomatoes, and cheese of course.
+    I'll write it down for you.
+
+S:  How kind of you.  I'll try it next week.  We're
+    going to have a party.
+
+Why did Susan ask for the recipe?
+What do you need to make a cheese pie? (Mention at
+least four things.)
+
+     The line in the file $F1T1 marks the section of errors  from  the
+Finnish-speakers,  group  1 on test 1, and so on.  The errors are then
+presented, with the error first followed by the correct spelling.  The
+pair  may be followed by a number, indicating that this error occurred
+more than once in this section.  Each entry ends with a comma, and the
+last  entry  in  each section ends with a full-stop.  Errors involving
+only capitalisation, such as 'i' for  'I',  have  not  been  included.
+Where  the  error or the correct word contains a space, this is marked
+as an underline, eg 'excuse_me'.
+
+     The original thesis, which is in English, is at the Abo  Akademi.
+Any enquiries should be addressed to:
+
+Dr Hakan Ringbom,
+Department of English,
+Abo Akademi,
+Fanriksgatan 3
+20500 Abo 50
+Finland
+
+     The file was keyed into the Birkbeck College computer  by  Philip
+Baker.
+
+
+March 1985
+
+                                                               Page 52
+
+
+A DESCRIPTION OF THE THE FILE TELEMARK.DAT
+
+Anglo_Saxian Anglo-Saxon
+Antique-shops antique_shops
+Asien Asian
+Autum autumn
+Bolsjevik Bolshevik 2
+Buckhingham Buckingham
+Cabinett Cabinet
+Carabean Caribbean
+Caribean Caribbean 2
+Chrismas Christmas
+
+
+     The data in TELEMARK.DAT is taken from a study by Nils Rottingen,
+entitled  'A  typology  of grammatical and orthographic errors made by
+advanced  Norwegian  learners  of  English  as  a  foreign  language',
+published by Telemark College, N-3800 Bo, Norway (ISBN 82-7206-095-7).
+
+     The errors were taken from 290 examination papers written by  145
+students  in  the spring of 1974, '75, '76 and '77.  The students were
+first-year Norwegian college students of English, ranging in age  from
+18  to  55,  who  had  studied  English  for  at least four years upon
+entering the college.  The students had to write two essays; they  had
+ample time to complete them and they were strongly recommended to make
+their English as correct as they could.
+
+     All the errors recorded in Appendix 1 of  Dr  Rottingen's  report
+have been keyed into the file, except those involving only apostrophes
+or capital letters.  Each line has one  error,  with  the  misspelling
+first  followed  by  the  correct  spelling.   If a number follows the
+correct spelling, this indicates how often this  misspelling  occurred
+in  the  corpus; if no number follows the correct spelling, this means
+that the misspelling occurred just once.  If the  misspelling  or  the
+correct  spelling  contains a space, this is underlined, eg "in_stead"
+for "instead".
+
+     The keying-in  was  done  by  the  Data  Preparation  Service  of
+Birkbeck College.
+
+May 1986
+
+                                                               Page 53
+
+
+
+A DESCRIPTION OF THE FILE TESDELL.DAT
+
+01 A 167 84 accomblish accomplish, seperated separated
+02 A 164 84 handicaped handicapped, errase erase
+03 A 197 84 affacted affected, experiance experience, independance independence,
++ behinde behind
+04 A 152 85 predection prediction, siventy seventy,
++ contrasiptives contraceptives, egyptions egyptians, specialy specially,
++ trys tries, egyptien egyptian, governement government, programmes programs,
++ programmes programs
+05 A 194 82 speacially specially, educat educate, scources sources, inter enter,
++ cenralized centralized
+
+
+     The data in TESDELL.DAT was supplied by Mr Lee S.  Tesdell, whose
+current  (1984)  address  is  Box  144, UPM 843, Dhahran International
+Airport, Dhahran, Saudi Arabia.  The  study  in  which  the  data  was
+collected  is  rep  TESOL  Quarterly,  Vol  18, No 2, June 1984, pages
+333-4.  The following is taken from that paper:
+
+     'This study investigated spelling errors in compositions  written
+by  students  from  four  different language backgrounds at Iowa State
+University.  Fifty-six writing  samples  were  collected:   nine  from
+Arabic   speakers,  ten  from  Chinese  speakers,  twenty  from  Malay
+speakers, and seventeen from Spanish speakers.  All  of  the  students
+had  scored 80-90 (inclusive) on the Michigan Test of English Language
+Proficiency and all had achieved a minimum of 500 on the TOEFL.   They
+were  all  enrolled  in  academic  programs  at  Iowa State during the
+1981-1982 school year.'
+
+     In TESDELL.DAT, each  student  begins  with  a  two-digit  serial
+number, followed by A (Arabic), C (Chinese), M (Malay) or S (Spanish).
+Then follows the the number of words in the student's composition, and
+then  the  student's  score  on  the Michigan Test of English Language
+Proficiency.
+
+     All the student's misspellings are then listed, each followed  by
+the  correct  spelling; the same mistake may be listed more than once,
+indicating that the student made this mistake more than once.  No line
+exceeds  80  characters, and continuation lines begin with a +.  Where
+Tesdell could not guess what word was intended, there is a ?  in place
+of  the  correct  spelling;  where  he  was not sure of his guess, the
+correct spelling is preceded by a ?.  Where there is a  space  in  the
+spelling, this is underlined, eg 'per_capita'.  A # indicates that the
+student made no spelling errors.
+
+     British users of this material should note that, since  the  work
+was  carried  out  at  Iowa  State University, 'correct spelling' here
+means  'correct  American  spelling',   so   a   number   of   correct
+British-English spellings are here counted as errors, such as 'plough'
+and 'aeroplanes'.
+
+November 1984

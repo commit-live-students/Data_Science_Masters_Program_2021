@@ -1,0 +1,84 @@
+
+
+
+
+A DESCRIPTION OF THE FAWTHROP AND SHEFFIELD FILES
+
+     The FAWTHROP files were put onto the computer by  David
+Fawthrop   as   part  of  his  PhD  research  into  spelling
+correction at Bradford University.  They  are  described  in
+the   paper   'The   rules   of  spelling  errors'  by  E.J.
+Yannakoudakis and D.  Fawthrop, Information  Processing  and
+Management, Vol 19 No 2, 1983, pages 87-99.
+
+     FAWTHROP1.DAT  is  the  one  that  Fawthrop  calls  the
+'typical' file.  It is a list of 809 misspellings taken from
+four American sources:
+
+Lasky J.  Proof-reading and Copy Preparation, Mentor  Press,
+New York, 1941, pages 84-131
+
+Damerau F.J.   'A  technique  for  computer  detection   and
+correction  of spelling errors', CACM 1964 Vol 7 No 3, pages
+171-176, Table 1
+
+Kucera H. and W.N. Francis   Computational    Analysis    of
+Present-day   American   English,  Brown  University  Press,
+Providence Rhode Island, 1967
+
+Masters H.V.  'A  study  of  spelling  errors'  PhD  thesis,
+University of Iowa, 1927
+
+     Each line consists of the correct spelling in the first
+twenty  columns  followed  by  the  misspelling  in the next
+twenty, all in upper-case.  The 'correct' spelling was  that
+which  the  original source considered to be correct, or the
+one in Webster's Third New International  Dictionary,  1961.
+In either case, it was correct American spelling rather than
+British.
+
+     FAWTHROP2.DAT is the one Fawthrop calls the 'bad' file.
+It contains 560 misspellings taken from some 60,000 words of
+continuous text written by three adults at the University of
+Bradford,  each of them with a Northern English dialect, who
+all believed themselves to be very bad spellers.   The  task
+of   finding   the   misspellings  was  carried  out  by  an
+ex-schoolteacher.  The 'correct' spelling here means the one
+given in the Shorter Oxford English Dictionary with addenda,
+1959.  The format of the file is like that of  FAWTHROP1.DAT
+except  that  the misspelling occupies columns 21 to 38, and
+columns 39 and 40 contain the  number  of  times  that  each
+misspelling occurred in the 60,000 words of text.
+
+     Dr Fawthrop's research resulted in a spelling corrector
+which  is now marketed, under the name of Expert Speller, by
+Artificially  Intelligent  Devices  and  Techniques  (ADAT),
+Bradford  University  Science  Park, 1 Campus Road, Bradford
+BD7 1HR, Tel 0274 733317.
+
+
+
+                                                      Page 2
+
+
+     SHEFFIELD.DAT contains 384 misspellings, mostly  typing
+errors,  derived  from  either typewritten or terminal input
+and collected from the staff and students of the  Department
+of  Information  Studies  at  the University of Sheffield as
+part of a piece of research into spelling  correction.   The
+work  is described in 'Automatic spelling correction using a
+trigram similarity measure' by Richard C.  Angell, George E.
+Freund   and   Peter  Willett,  Information  Processing  and
+Management, Vol 19 No 4, 1983, pages 255-261.  The format of
+the file is the same as that of FAWTHROP1.DAT.
+
+
+
+                             Roger Mitton
+
+                             Dept of Computer Science,
+                             Birkbeck College,
+                             Malet Street,
+                             London WC1E 7HX
+
+                             January 1985

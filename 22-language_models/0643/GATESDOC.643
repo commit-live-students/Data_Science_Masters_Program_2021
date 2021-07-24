@@ -1,0 +1,271 @@
+
+
+
+
+DESCRIPTION OF THE FILE GATES.DAT
+
+     The file GATES.DAT contains all the  data  relating  to
+spelling  from  the book 'A List of Spelling Difficulties in
+3876 Words' by Arthur I.  Gates, published by the Bureau  of
+Publications,  Teachers  College,  Columbia  University, New
+York City, 1937.  The following are extracts from the book's
+introduction:
+
+     'This monograph includes  several  types  of  pertinent
+data  concerning  each  of  3,876  words  commonly taught in
+spelling courses in American schools.  The experimental  and
+statistical  work  was  conducted  over  a  number  of years
+beginning in 1928.  The steps in the work were as follows.
+
+     'A list of "most commonly taught" words was first drawn
+up  by  determining  the  frequency  with  which  the  words
+appeared  in  twenty-five  different  widely  used  spelling
+textbooks,  and  state  and large-city spelling lists.  From
+this distribution the words appearing most  frequently  were
+selected.   The limitation to 3,876 words was arbitrary.  It
+should be noted that this is a list of words most frequently
+chosen  by  those  who  make  up  the textbooks and spelling
+lists, and it therefore doubtless includes the  3,876  words
+most  frequently taught in American classrooms.  The present
+author makes no claim that this is the best list of words to
+teach.   It  is,  however,  a  list  which  spelling experts
+believe to be best.  No claim  is  made,  furthermore,  that
+3,876  words  is  the optimum number to teach.  This number,
+however, is close to the average  number  contained  in  the
+lists and texts studied.
+
+     'Many words in this list were placed at different grade
+levels  in  the  various texts and state or city lists.  The
+mean of these grade placements was computed for  each  word,
+and  is  entered  in  the  list  in  this  monograph.  [This
+information is not  included  in  GATES.DAT.   -  R.M.]  The
+author  makes  no claim that these mean grade placements are
+ideal.  They indicate approximately the grade  placement  at
+which  the  words  are  most commonly introduced in American
+schools.
+
+....
+
+     'The most  important  part  of  the  monograph  is  the
+evidence   concerning   the  characteristics  of  errors  in
+spelling each of the 3,876 words.  To obtain these data  the
+words  were  used  in  spelling tests in which the responses
+were made in writing.  The words were pronounced, used in  a
+sentence or two to define the meaning, pronounced again, and
+then written by the pupils.  The subjects for the tests were
+pupils  in  various public schools in the metropolitan area,
+mainly from Manhattan and Brooklyn.  Each word  was  usually
+given to a class one grade lower than the grade in which the
+
+
+
+                                                      Page 2
+
+
+word was formerly [I  think  he  means  'formally'  -  R.M.]
+taught  in  the  curriculum of this particular school.  This
+policy was adopted in order to secure  a  larger  number  of
+misspellings  than  would  have  been  forthcoming after the
+pupils had studied the word.   That  is  to  say,  for  most
+pupils  misspellings  are  instances  of  failure to solve a
+spelling problem rather than failure to recall  a  practiced
+spelling.   This,  of  course, will not be universally true.
+Many children  write  words,  look  them  up  in  books  and
+dictionaries, and study them before encountering them in the
+spelling program.
+
+     'In the Spelling List beginning on page  11  the  first
+column  consists  of the word correctly spelled, followed by
+one, two, or three figures in parentheses.  It will be noted
+that  certain  letters in most words are in italics and that
+in some words two parts of the word are italicized, or  that
+one part is italicized and another part appears in bold face
+letters.  (Bold  face  is  used  when  the  two  parts  come
+together,  so  that  they  may be easily distinguished.) The
+part of the word italicized or in bold face is the  part  in
+which  the  greatest number of errors are made.  If the word
+has two parts italicized, or one part italicized and another
+part  in  bold  face, it means that two parts are especially
+hard.  The figure or figures  in  italics  give  the  actual
+percentages.   For example, in the first word "ability", the
+largest number of errors consist of failures on  the  second
+"i",   which  is  italicized.   The  figure  in  parentheses
+indicates that 61% of the  misspellings  of  this  word  are
+failures  on the "i".  In the second word "able", 91% of the
+errors are on the letters "le", which  are  italicized.   In
+the  word  "abundance",  the  hard spots are the "u" and the
+second "a", both of which are italicized.   In  48%  of  the
+misspellings  there  is  an  error on the "u" and in 73% the
+error is on the second "a".  In the word "absent",  the  two
+hard  spots  are  the  "b"  and the "s", the first of which,
+showing 38% errors, is italicized, and the second of  which,
+showing  43%  errors, is in bold face.  The second hard spot
+is given in bold face to indicate that it is to  be  thought
+of  as  separate  from  the preceding letter "b" in italics,
+which is also a hard spot.  In this word the "b" and the "s"
+are  treated  separately, or as representing two hard spots,
+for the reason that they fall into different  syllables  and
+are  commonly treated as parts of two units within the word.
+In the word  "acquaintance",  with  three  hard  spots,  the
+percentage  of  the  total  number of errors in each case is
+given.  In certain cases, the  hard  spot  is  indicated  by
+letters  in  parentheses  above  or beside a word.  Thus, in
+"appears", an "(e)" is placed above the  space  between  the
+last  two  letters.   This  means that the hard spot is this
+space - the result of inserting an  "e".   In  the  case  of
+"avoid", an "(e)" follows the word and means that the ending
+of the word, due to a tendency to add  an  "e",  is  a  hard
+spot.
+
+
+
+                                                      Page 3
+
+
+     'The second column of the Spelling List gives the  most
+common misspelling of the word, and the third column the per
+cent of the total errors which this  particular  misspelling
+represents.  Thus, in the case of "ability", the most common
+misspelling is "abilaty".  Of all the errors  made  on  this
+word,  41.9%  take  exactly this form.  This word is spelled
+"abbility" in 22.6% of the cases.  That is to  say,  of  all
+the misspellings of this word, 64.5% are one or the other of
+these two forms.  The second  word  "able"  shows  only  one
+common  misspelling, namely "abel", which accounts for 35.1%
+of the total misspellings.  The third word, "aboard", has no
+misspelling  which  appears  clearly  more  frequently  than
+others.   This  word  is  obviously  spelled  a  great  many
+different  ways, although, as the first column shows, 59% of
+the errors reveal difficulties in "oa".
+
+     'The number of misspellings analyzed differs from  word
+to  word,  but  in  no case is it less than 200.  The median
+number of misspellings per word is slightly  over  300,  and
+for about a quarter of the words the number exceeds 400.  It
+is believed that the number of  misspellings,  even  at  the
+minimum,  is  sufficient  to  give a fairly reliable result.
+For all the words, more  than  1,200,000  misspellings  were
+analyzed.
+
+....
+
+     'It should be noted that, although  the  data  in  this
+monograph  were  obtained from a large number of cases, they
+may, nevertheless, not present an entirely accurate  picture
+of the facts that would be found in other localities.  It is
+possible,  for  example,  that  the  spelling   errors   are
+conditioned  somewhat  by  the  time and methods of teaching
+words, by the frequency with which the  words  are  used  in
+writing,  and  by  the  typical  pronunciation  of  a  given
+locality.   Children  habitually  using  the  characteristic
+speech  of Boston, or of Portland, Maine, or of New Orleans,
+or of Houston, Texas, may reveal somewhat different forms of
+misspelling.   In  this monograph no endeavour has been made
+to determine the extent to which the misspellings differ  as
+the  result  of  these  and  other  factors.   It  should be
+realized, however, that the population of the schools in New
+York  City  is  extremely  diversified and that all forms of
+language background are represented.  It  is  believed  that
+the  list  gives  a  reasonably  representative  picture  of
+misspellings, although it is not denied that children living
+in  quite  different  localities or speaking quite different
+dialects might differ somewhat in their  spelling  from  any
+representative list.'
+
+
+
+
+
+
+                                                      Page 4
+
+
+     Each line of GATES.DAT begins with the  word  correctly
+spelt  (correctly  according to American spelling, that is -
+'color',  'honor'  and  the  like).   In  Gates's  book  (as
+explained  in  the  above  extracts),  the  'hard spots' are
+marked by italics  or  bold  letters.   In  GATES.DAT,  this
+aspect  of  the  data  is represented by the words beginning
+with $.  For example, in Gates's text,  the  second  'i'  of
+'ability'  is italicized and the word is followed by '(61)',
+meaning (in Gates's words) that '61% of the misspellings  of
+this word are failures on the "i".' In GATES.DAT, the second
+'i' is capitalized, so the word is shown  as  '$abilIty 61'.
+Where  Gates  uses  a  small letter in parentheses above the
+word or at the  end  of  the  word,  to  indicate  that  the
+children  tended to insert a letter at that point, GATES.DAT
+contains a '%' in the $ word.  For example, Gates's 'aid(e)'
+and 'a(r)larm' are given as '$aid%' and '$a%larm'.
+
+     The most common misspellings are given in GATES.DAT  by
+the  words  beginning  with  '*'.   For  example, 'abbility'
+accounted for 22.6% of all the  misspellings  of  'ability',
+and  'abilaty'  for  41.9%.  This is shown as '*abbility 23'
+and '*abilaty 42'.  (Note  that  Gates  does  not  give  the
+proportion of children who spelled the word correctly.)
+
+     A few words, such as  'America'  and  'Christmas',  are
+correctly  spelt  with  an initial capital letter.  To avoid
+confusion with the capitals that have been used in GATES.DAT
+to  indicate  the  'hard spots', these words have been spelt
+with  initial   lower-case   letters,   ie   'america'   and
+'christmas'.
+
+     Some of the headwords are actually two words,  eg  'all
+right'  and  'santa claus'.  To indicate that they are to be
+taken as a single item, they are joined in  GATES.DAT  by  a
+single underline, eg 'all_right'.
+
+     Some of the words in Gates's book  are  listed  without
+any  hard  spots  and  without  any  common misspellings, eg
+'all'.   They  are  included   in   GATES.DAT   merely   for
+completeness.
+
+     There is one place where the percentage was omitted  in
+Gates's  book,  namely for the hard spot in "I'd";  a figure
+of 00 has been inserted here.
+
+     It would be nice to know the ages of the  children  who
+were  tested  on  each  word,  but  this  information is not
+provided.   Presumably  the  easier  words  were  tested  on
+younger  children  and  the  harder  ones on older children.
+From the figures that Gates gives for mean  grade  placement
+of  each  word  in the spelling lists (these figures are not
+included  in  GATES.DAT),  it  can  be  estimated  that  the
+youngest children were aged about 7 and the oldest about 13.
+However, since words were probably introduced  at  different
+grades  in  different  schools,  the  children tested on any
+
+
+
+                                                      Page 5
+
+
+particular word will have been drawn from  different  grades
+and therefore been of different ages.
+
+     Gates does not say who administered the  tests  or  who
+marked  them  and classified them.  However, I have had some
+correspondence with Dr Leonard Wheat, who was one of Gates's
+research  assistants  on this study in the year 1930-31.  He
+tells me that the tests were administered by the  children's
+schoolteachers,  after  careful  instruction by the research
+staff.  The teachers made use of the test results,  but  all
+tests  were  evaluated  promptly by the research assistants.
+(Dr Wheat also confirmed that, though the scripts were  kept
+for several years, it is unlikely that they still exist.)
+
+     The file has one line for each of Gates's  test  words.
+The  version on tape has each line padded out with spaces to
+95 characters - the length of the longest line plus 1.
+
+
+
+                             Roger Mitton
+
+                             Dept of Computer Science,
+                             Birkbeck College,
+                             Malet Street,
+                             London WC1E 7HX
+
+                             November 1984

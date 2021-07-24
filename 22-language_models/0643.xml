@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader type="ISBD-ER">
+    <fileDesc>
+   <titleStmt>
+    <title type="main">Birkbeck spelling error corpus / Roger Mitton</title>
+    <title type="alternative">A collection of computer-readable corpora of English spelling errors</title>
+        <editor>Mitton, Roger, 1946-</editor>
+      </titleStmt>
+      <extent>
+        <seg type="designation">Text data</seg>
+        <seg type="size">(38 files : total of ca. 1.8 MB)</seg>
+      </extent>
+      <publicationStmt>
+        <authority>[Depositor details removed]</authority>
+        <distributor>
+          <orgName type="OTA">University of Oxford Text Archive</orgName>
+          <placeName>Oxford</placeName>
+          <address>
+            <orgName type="OTA">University of Oxford Text Archive</orgName>
+            <orgName type="UOXF">Bodleian Libraries, University of Oxford</orgName>
+            <addrLine>Broad Street</addrLine>
+            <addrLine>Oxford</addrLine>
+            <addrLine>OX1 3BG</addrLine>
+          </address>
+          <email>ota@bodleian.ox.ac.uk</email>
+        </distributor>
+        <idno type="OTA">0643</idno>
+        <idno type="ota">0643</idno>
+	<idno type="PURL">http://purl.ox.ac.uk/ota/0643</idno>
+        <availability n="OTA-new" status="free" rend="visible">
+          <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+	  Distributed by the University of Oxford under a Creative Commons
+	  Attribution-NonCommercial-ShareAlike 3.0 Unported License.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Corpus</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull xml:id="a">
+     <titleStmt>
+      <title>Birkbeck spelling error corpus</title>
+            <editor>Mitton, Roger, 1946-</editor>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>s.n.</publisher>
+            <pubPlace>[London]</pubPlace>
+            <date>[1985]</date>
+          </publicationStmt>
+          <notesStmt>
+            <note>Contents: Part One. Native Speakers, CHES -- Misspellings of thirty words by about 200 ten-year-old children in England and Wales.  These children were a random sample from the several thousand tested in the Child Health and Education Survey in 1980. -- NFER -- Misspellings made in two short dictations by about 80 adult literacy students in England and Wales – a sample from a survey conducted by the National Foundation for Educational Research in 1978-79. -- PERIN -- Three sets of material collected by Dr Dolores Perin in research conducted in the late 1970’s: 1) A dictation and a piece of constrained writing from 36 secondary-school leavers and from six adult-literacy students; 2) Misspellings from free writing by six adult-literacy students; 3) A spelling test of forty words from about 170 students in London secondary schools. -- PETERS -- Two samples of the material collected by Dr Margaret Peters in primary and secondary schools in Cambridge in the 1960's: 1) Misspellings from about 150 children in spelling tests and  dictations at the ages of 9, 10 and 11, and in a spelling test and a piece of free writing at age 15 (ie each child at four different ages); 2) Misspellings from short compositions by over 900 fifteen-year-olds. -- ASHFORD The complete text of ‘The Young  Visiters’ (sic) by Daisy Ashford, a short novel written by a nine-year-old in Victorian England, the text contains many of her original misspellings. -- FAWTHROP -- Two files supplied in computer-readable form by David Fawthrop, collected in the course of his research into spelling correction at Bradford University: 1) A compilation of four collections of American spelling errors, already in published form; 2) A collection of misspellings from the writing of three British people, all of whom considered themselves to be poor spellers. -- GATES -- The most common misspellings of 3876 words taken from spelling tests given to schoolchildren in New York City in the 1930’s; this material was taken from the book ‘A List of Spelling Difficulties in 3876 Words’, by Arthur I. Gates. -- HOLBROOK -- Passages taken from the creative writing  of  about  20 children in a British secondary school in  the 1960’s, published (with their original misspellings) in ‘English for the Rejected’ by David Holbrook. -- SHEFFIELD -- A list of about 380 misspellings, mostly keying errors, taken from typewritten or computer-terminal input, collected from staff and students in the Department of Information Studies of Sheffield University by Angell, Freund and Willett as part of a piece of research into spelling correction. -- WING -- Misspellings (mainly handwriting slips) from essays written by 40 candidates in the Cambridge University Entrance Examinations in 1976.  This corpus was collected and put into computer-readable form by Wing and Baddeley and is described in their paper ‘Spelling errors in handwriting : a corpus and a distributional analysis’. -- MASTERS -- Misspellings of about 260 words made in spelling tests by 600 students in Iowa in the 1920’s – 200 8th graders, 200 high-school seniors and 200 college seniors – collected by H.V. Masters for his PhD research.  This is the full set of data that he analysed, not just the examples he included in his published report. -- UPWARD -- Misspellings taken from answers to a questionnaire completed by about 160 15-year-olds in Nottingham.  The material was supplied by Chris Upward of the Dept of Modern Languages, Aston University.  Part Two. Non-native Speakers. EXAMS -- Misspellings taken from scripts submitted in English examinations by overseas students in 18 countries, with 50 or 100 scripts from each country. The scripts were made available for this exercise by the University of Cambridge Local Examinations Syndicate and the University of London Schools Examinations Board. -- ABO -- Misspellings collected from Finnish-speaking Finns and Swedish-speaking Finns in a series of tests conducted in the 1970’s by Dr Rolf Palmberg and Dr Hakan Ringbom of the Abo Akademi, Finland. -- APPLING -- Two files of data (APPLING1 and APPLING2) collected  by students of the Applied Linguistics Department of Birkbeck College in the course of their work as teachers of English -- BLOOR -- Errors taken from a corpus of written English by 12 Algerian students. The file was supplied by Meriel Bloor of the Department of Modern Languages, Aston University. -- SUOMI -- Errors taken from test papers written by 60 Finnish speakers and 45 Swedish speakers aged 15–16 years.  The data formed part of a thesis submitted by Riitta Suomi at the Abo Akademi, Finland. -- TELEMARK -- Errors taken from examination papers written by 145 advanced Norwegian  students of English at Telemark College, Norway.  They were recorded in a study by Dr Nils Rottingen. -- TESDELL -- Errors from 56 students taking an English Language Proficiency Test at Iowa State University in 1981–82.  The material was collected by Lee S. Tesdell</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This collection of computer-readable files containing misspellings of English words is made available for research</p>
+        <p>It would be appreciated if researchers who use any of this material would make some acknowledgement both of the collection and, where appropriate, of the suppliers of the original corpora</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Encoding format: Plain text</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy xml:id="OTASH">
+          <bibl>University of Oxford Text Archive Subject Headings</bibl>
+        </taxonomy>
+        <taxonomy xml:id="LCSH">
+          <bibl>Library of Congress Subject Headings</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date>1980</date>
+      </creation>
+      <langUsage>
+        <language ident="eng">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="#OTASH">
+          <term type="genre">Anthologies</term>
+        </keywords>
+        <keywords scheme="#LCSH">
+          <term type="genre">English language -- Orthography and spelling -- Glossaries, vocabularies, etc.</term>
+        </keywords>
+        <keywords scheme="#LCSH">
+          <term type="genre">Anthologies -- Great Britain -- 20th century</term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="http://www.ota.ox.ac.uk/processing">
+          <term type="class">legacy</term>
+          <term type="license">Free for non-commercial use</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change><date>2002-07-01</date><label>Cataloguer</label><name>Colley, Greg</name>Header recomposed with TEIXML header
+      </change>
+      <change><date>1998-01-14</date><label>Converter</label><name>Burnard, Lou</name>Header auto-generated from TOMES
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="OTA-filemap" rend="visible" n="unrestricted">
+        <ab type="file">
+          <seg type="part">1</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="AAAREADMEDOC.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">2</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="ABODAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">3</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="APPLING1DAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">4</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="APPLING2DAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">5</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="ASHFORDDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">6</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="ASHFORDDOC.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">7</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="BLOORDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">8</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="CHESDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">9</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="CHESDOC.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">10</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="EXAMSDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">11</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="FAWTHROP1DAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">12</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="FAWTHROP2DAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">13</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="FAWTHSHEFDOC.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">14</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="GATESDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">15</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="GATESDOC.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">16</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="HOLBROOKDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">17</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="HOLBROOKDOC.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">18</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="INTRODOC.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">19</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="MASTERSDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">20</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="NFER1DAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">21</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="NFER2DAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">22</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="NFERDOC.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">23</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="PERIN1DAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">24</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="PERIN2DAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">25</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="PERIN3DAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">26</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="PERINDOC.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">27</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="PETERS1ADAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">28</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="PETERS1DAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">29</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="PETERS2DAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">30</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="PETERSDOC.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">31</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="SAMPLESDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">32</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="SHEFFIELDDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">33</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="SUOMIDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">34</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="TELEMARKDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">35</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="TESDELLDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">36</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="UPWARDDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">37</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="WINGDAT.643"/>
+        </ab>
+        <ab type="file">
+          <seg type="part">38</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="WINGDOC.643"/>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>

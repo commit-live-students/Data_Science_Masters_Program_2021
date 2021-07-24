@@ -1,0 +1,160 @@
+
+
+
+
+A DESCRIPTION OF THE FILE WING.DAT
+
+     This  file  is  the  one  described  and  published  in
+'Spelling   errors   in   handwriting:    a   corpus  and  a
+distributional analysis'  by  Alan  M.   Wing  and  Alan  D.
+Baddeley,  published  in  the  book  'Cognitive Processes in
+Spelling', edited by Uta Frith, Academic Press  1980,  pages
+251-285.  The following are extracts from that paper:
+
+     'The errors ..   were  all  those  found  in  the  exam
+scripts  of forty male, secondary school candidates applying
+for  entrance  to   Cambridge   colleges   in   engineering,
+mathematics  or  natural sciences.  The exam was the General
+Paper of November 1976 and candidates were required to  give
+essay-type  answers to three self-selected questions.  These
+were marked by the examiners in  terms  of  the  candidates'
+ability   to  formulate  cogent  arguments  and  to  express
+themselves clearly in written  English.   Three  hours  were
+allowed for writing the examination.
+
+     'After the scripts  were  no  longer  required  by  the
+examiners,   forty   were   selected  at  random.   A  small
+proportion of the scripts where there was reason to  suspect
+that the candidates did not possess British English as first
+language were excluded.  ...
+
+     'Each script was scrutinised for errors by  two  people
+working  independently.   ...   In  searching for errors the
+scrutineers were instructed to record any word that deviated
+from  the spelling of the Oxford Concise English Dictionary.
+Apparent errors which could be  attributed  to  poor  letter
+formation rather than wrong letters were not included;  this
+exclusion  was  particularly  relevant  to  practices  of  a
+shorthand  nature  such  as  contraction  of  'ing'  into  a
+downward squiggle.  A deviation was recognised even  if  the
+error  had  been  corrected by the candidate.  In such cases
+the erroneous  version  was  recorded  as  the  sequence  of
+letters up to the point at which the correction was made.
+
+     'For every  error,  the  scrutineer  noted  the  target
+intended  by  the  candidate,  the three words preceding the
+error and the three words  following  the  error.   ...   In
+addition  ..  the scrutineers were required to classify each
+error as a slip or as a  convention  error.   An  error  was
+categorised  as  a slip if (a) it was changed to the correct
+spelling or (b) if uncorrected, the correct form of the word
+occurred  at  least once elsewhere in the script.  Otherwise
+the  error  was  categorised  as  a  convention  error.   [A
+'convention  error' is the kind of error produced by someone
+who is unsure of the correct spelling.  - RM.]
+
+     'The two lists of errors for each script  were  checked
+against the script by the first author [Dr Wing] as he keyed
+them into magnetic disc storage  files  on  a  computer.   A
+
+
+
+                                                      Page 2
+
+
+computer  print-out  of the corpus was subsequently given to
+the scrutineer who had worked through the  majority  of  the
+scripts  and  she checked it for errors against the original
+scripts.
+
+     ...
+
+     In the file, the spelling errors  are  'separated  into
+two classes:  slips (Type 1) and convention errors (Type 2).
+Within   this   classification   each   candidate's   errors
+(including  targets and context) are grouped together in the
+sequence in which they occurred in  the  script.   For  each
+error  the  erroneous  form of the word is given first as it
+was written up to the break in the written  trace  at  which
+the error was corrected, if a correction was attempted.  The
+target form  of  the  word  is  then  given.   If  shown  in
+parentheses, no correction was attempted by the candidate.
+
+     'When the target for a Type 1 error is shown misspelled
+this  indicates  a  slip  was  made  in  producing  a Type 2
+(convention) error.  The latter would thus  also  be  listed
+under  Type 2 errors [unless it occurred elsewhere correctly
+spelled].  Some of the Type 2  targets  not  in  parentheses
+appear   misspelled.    This   indicates  that  the  initial
+misspelled version was changed,  but  to  another  incorrect
+form of the word as shown.
+
+     'The  context  comprises  the   three   words   written
+immediately  before  the  error  and the three words written
+immediately after the error separated  by  a  '*'.   In  the
+context  letters  or  words in parentheses indicate items in
+the script deleted by the candidate.  Punctuation marks  are
+not  indicated although sentence boundaries are identifiable
+by the initial capital letter.  The abbreviations SQ and  EQ
+stand  for  start  and  end  of  the candidate's answer to a
+question.'
+
+
+
+
+     The file WING.DAT differs slightly from  the  published
+version  of  the  corpus.  The lines that begin each section
+(Type 1 and Type 2)  and  the  lines  with  the  candidates'
+serial  numbers  now  all  begin  with  a '$'.  Lines in the
+original file were a maximum of 65  characters  long,  which
+made  some of the contexts overrun onto a second line;  each
+entry now fits on one line - the longest is 91 characters.
+
+     Users  of  this  file  should  note  the  emphasis   on
+handwriting  slips.   Many  of the error forms in the Type 1
+section are fragments of words rather than  spelling  errors
+in  the  ordinary  sense.  For example, if a candidate began
+writing 'benefit' as 'bef' and then stopped, crossed out the
+'bef' and wrote 'benefit', this is recorded in the file as:
+
+
+
+                                                      Page 3
+
+
+bef benefit
+
+If he did not correct it, but indicated  that  he  knew  the
+correct  spelling  by  writing  it correctly elsewhere, this
+would appear as:
+
+bef (benefit)
+
+in the Type 1 section.  If he wrote 'bef' for 'benefit'  and
+did not correct it and did not write it correctly elsewhere,
+it would be counted as a convention error and appear in  the
+Type 2 section.
+
+     Users should also note that the 'target', when  not  in
+parentheses,   is   the  letter-string  that  the  candidate
+intended to write, not necessarily the correct spelling.  In
+fact,  in  some  of  the  Type  2  errors, the candidate had
+already written the correct spelling but  changed  it  to  a
+wrong spelling, thus giving rise to entries such as:
+
+acquire aquire
+
+where 'acquire' (the 'error-form') is how it was  before  he
+'corrected'  it and 'aquire' is the target - what he changed
+it to.
+
+
+
+                             Roger Mitton
+
+                             Dept of Computer Science,
+                             Birkbeck College,
+                             Malet Street,
+                             London WC1E 7HX
+
+                             January 1985
